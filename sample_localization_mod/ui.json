@@ -1,0 +1,2081 @@
+[
+  {
+    "key": "UI_Confirm",
+    "value": "CONFIRM",
+    "_valueOrign": "確認",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UI_NotEnoughMoney",
+    "value": "Not enough currency.",
+    "_valueOrign": "貨幣不足",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnCancel",
+    "value": "CANCEL",
+    "_valueOrign": "取消",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnConfirm",
+    "value": "CONFIRM",
+    "_valueOrign": "確定",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_WarningSetTrap",
+    "value": "Place the trap here?\n\nThis will remove the item currently on the tile.",
+    "_valueOrign": "確定設置陷阱？\n\n版塊上已有物品，設置陷阱將會覆蓋掉版塊上的物品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_WarningPushOutItems",
+    "value": "All slots are full. Equip anyway?\n\nYou will discard one of your weapons in a neighboring tile.",
+    "_valueOrign": "確定裝上雙手裝備？\n\n換下的其中一個單手裝備將掉落於其他版塊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_WarningThrowEquipmentInHand",
+    "value": "Hurl equipped Weapon?\n\nThis will permanently destroy it.",
+    "_valueOrign": "確定投擲目前裝備中的裝備？\n\n投擲出去的裝備無法回收，永久消失於場上",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_WarningThrowEquipmentInHandNoDestroy",
+    "value": "Are you sure to Hurl Weapon that you are equiping?",
+    "_valueOrign": "確定投擲目前裝備中的裝備？",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UINoti_WarningThrowEquipment",
+    "value": "Hurl Weapon?\n\nThis will permanently destroy it.",
+    "_valueOrign": "確定投擲裝備？\n\n投擲出去的裝備無法回收，永久消失於場上",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BackMainMenu",
+    "value": "Are you sure?\n\n<color=orange>Your progress has been saved.</color>",
+    "_valueOrign": "確定退回主選單？\n\n<color=orange>遊戲已經自動保存，下次遊戲將由此繼續</color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BackMainMenuInFight",
+    "value": "Are you sure?\n\n<color=red>You will start from the beginning of this fight next time.</color>",
+    "_valueOrign": "確定退回主選單？\n\n<color=red>本場戰鬥將不會保存，下次遊戲將回到戰鬥前</color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BackMainMenuInHardcore",
+    "value": "Are you sure?\n\n<color=yellow>In Hardcore mode, your progress will only be saved when you defeat the Champion of an arena.</color>",
+    "_valueOrign": "確定退回主選單？\n\n<color=yellow>專家模式只有在擊敗每層場主後才會進行存檔</color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ExitGame",
+    "value": "Exit game?",
+    "_valueOrign": "確定退出遊戲？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_GiveupGame",
+    "value": "Are you sure?\n\n<color=red>Abandoning the run will result in a loss.</color>",
+    "_valueOrign": "確定放棄本次挑戰？\n\n<color=red>放棄挑戰會視為一次失敗</color>\n",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ExitStore",
+    "value": "Are you sure?\n\n<color=orange>Leaving the shop will conclude the event.</color>\n",
+    "_valueOrign": "確定離開商店？\n\n<color=orange>離開等於結束商店事件</color>\n",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ExitLaunchStore",
+    "value": "Are you sure?\n\nYou have unspent Kill Coins, which will be <color=orange>discarded</color> when you leave.",
+    "_valueOrign": "確定離開神祕商店？\n\n你的神祕代幣還沒用完，\n離開商店後將<color=orange>不會保留</color>，確定要直接離開？\n",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ExitDeckEquip",
+    "value": "You haven't done anything. Are you sure you want to leave?",
+    "_valueOrign": "你沒有進行任何操作，確定要直接離開？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ThankForEA",
+    "value": "Thank you for playing the Early Access version.\n\nThis game is still work in progress.\nPlease follow and share it with your friends,\nit really helps us get the word out!",
+    "_valueOrign": "感謝遊玩EarlyAccess，很抱歉目前只能遊玩到此。\n\n也請持續<color=orange>追蹤並分享</color>給朋友，\n任何的追蹤及分享都將大大的幫助我們開發和宣傳這款遊戲！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ThankForDemo",
+    "value": "Thank you so much for playing the Demo!\n\nPlease grab the full game (currently in Early Access) to continue your progress, or follow and share it with your friends, it really helps us get the word out!",
+    "_valueOrign": "感謝遊玩DEMO，很抱歉目前只能遊玩到此。\n\n也請持續<color=orange>追蹤並分享</color>給朋友，\n任何的追蹤及分享都將大大的幫助我們開發和宣傳這款遊戲！\n\n<color=orange>購買正式版後(包含EarlyAccess)</color>\n將可延續記錄繼續挑戰下個鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ThankForGameShow",
+    "value": "Thank you so much for playing the Demo!\n\nPlease follow and share it with your friends, it really helps us get the word out!",
+    "_valueOrign": "感謝遊玩DEMO，很抱歉目前只能遊玩到此。\n\n也請持續<color=orange>追蹤並分享</color>給朋友，\n任何的追蹤及分享都將大大的幫助我們開發和宣傳這款遊戲！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UINoti_StartNewGameInDemo",
+    "value": "You have reached the end of the Demo!\n\nYou can delete your current run to start a new game, or grab the full game (currently in Early Access) to <color=orange>continue your progress</color>.",
+    "_valueOrign": "很抱歉DEMO目前只能遊玩到此，刪除記錄以開始下一場新遊戲\n\n<color=orange>購買正式版後(包含EarlyAccess)</color>\n將可延續記錄繼續挑戰下個鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnLetMeThink",
+    "value": "Maybe Later",
+    "_valueOrign": "讓我再想想",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnDeleteAndGoNext",
+    "value": "Start New Run",
+    "_valueOrign": "確定刪除，開始下一場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ForceQuitGame",
+    "value": "Unable to continue.\n\nSave date does not match current version.",
+    "_valueOrign": "存檔資料和版本不符，無法繼續",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnDeleteSaveFile",
+    "value": "Delete This Run",
+    "_valueOrign": "刪除本次挑戰存檔",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_BtnBackMainMenu",
+    "value": "Return to Main Menu",
+    "_valueOrign": "退回主選單",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ResetGame",
+    "value": "Are you sure?\n\nResetting the game will clear <color=red>all saved data.</color>",
+    "_valueOrign": "確定<color=red>重置遊戲</color>？\n\n所有的遊戲進度及統計資料將被移除",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ResetGameDoubleCheck",
+    "value": "<color=yellow>WARNING</color>\nAre you absolutely sure?\n\nThis will remove all your progress and statistics.",
+    "_valueOrign": "<color=yellow>警告</color>\n再次確認確定<color=red>重置遊戲</color>？\n\n所有的遊戲進度及統計資料將被移除",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ResetHistorys",
+    "value": "Are you sure?\n\nThis will clear your entire history.",
+    "_valueOrign": "確定<color=red>移除歷程</color>？\n\n將會移除所有的遊戲歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ResetHistorysDoubleCheck",
+    "value": "<color=yellow>WARNING</color>\nAre you absolutely sure?\n\nAll records of your history will be permanently removed.",
+    "_valueOrign": "<color=yellow>警告</color>\n再次確認確定<color=red>移除歷程</color>？\n\n將會移除所有的遊戲歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_ResetAchievements",
+    "value": "Are you sure?\n\nThis will clear your entire achievements.",
+    "_valueOrign": "確定<color=red>重置成就</color>？\n\n將會重置所有的遊戲成就",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UINoti_ResetAchievementsDoubleCheck",
+    "value": "<color=yellow>WARNING</color>\nAre you absolutely sure?\n\nAll records of your achievements will be removed.",
+    "_valueOrign": "<color=yellow>警告</color>\n再次確認確定<color=red>重置成就</color>？\n\n將會重置所有的遊戲成就",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UINoti_NoAnyHistory",
+    "value": "There is no run history.",
+    "_valueOrign": "找不到任何歷程資料",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_DisableUnequip",
+    "value": "Are you sure?\n\nIt cannot be unequipped.",
+    "_valueOrign": "確定裝備嗎？\n\n此裝備裝上後無法取下",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_MissionSuccess",
+    "value": "SUCCESS",
+    "_valueOrign": "成功",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UINoti_MissionFail",
+    "value": "FAILED",
+    "_valueOrign": "失敗",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGamePlay_EndTurn",
+    "value": "END TURN",
+    "_valueOrign": "結束回合",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_DropCardOnRoundEnd",
+    "value": "Your hand is full. Please remove <color=red>{0}</color>/{1} <card>.",
+    "_valueOrign": "手牌過多，選擇<color=red>{0}</color>/{1}要丟棄的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_RetainCardOnRoundEnd",
+    "value": "Select <color=red>{0}</color>/{1} <card> to retain.",
+    "_valueOrign": "選擇<color=red>{0}</color>/{1}要保留的手牌",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UICardView_DropCard",
+    "value": "Select <color=red>{0}</color>/{1} <card> to remove.",
+    "_valueOrign": "選擇<color=red>{0}</color>/{1}要丟棄的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_SubCostEnergy",
+    "value": "Select <color=red>{0}</color>/{1} <card> to reduce its Energy cost.",
+    "_valueOrign": "選擇<color=red>{0}</color>/{1}要降低耗能的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_AddRetain",
+    "value": "Select <color=red>{0}</color>/{1} <card> in your hand to retain.",
+    "_valueOrign": "選擇<color=red>{0}</color>/{1}要增加保留的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_FreeDiscardCards",
+    "value": "Select cards to discard.",
+    "_valueOrign": "選擇要丟棄的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_CloneHands",
+    "value": "Select <color=red>{0}</color>/{1} <card> to clone.",
+    "_valueOrign": "選擇<color=red>{0}</color>/{1}要複製的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICardView_SelectHandsToExhaust",
+    "value": "Select cards to Exhaust.",
+    "_valueOrign": "選擇要消耗的手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_EquipTitle",
+    "value": "Items",
+    "_valueOrign": "裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_EquipSubTitle",
+    "value": "Manage your items.",
+    "_valueOrign": "調整裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_NewEquipTitle",
+    "value": "New Items",
+    "_valueOrign": "裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_NewEquipSubTitle",
+    "value": "Select slot to equip.",
+    "_valueOrign": "請裝備新取得的道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_EndFightTitle",
+    "value": "LOOT",
+    "_valueOrign": "撿取",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_EndFightSubTitle",
+    "value": "Select items to keep.",
+    "_valueOrign": "是否需要戰場殘留物品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_MissionRewardTitle",
+    "value": "REWARDS",
+    "_valueOrign": "獎勵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_MissionRewardSubTitle",
+    "value": "Select your reward.",
+    "_valueOrign": "請選擇要裝備的位置",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SellCardsTitle",
+    "value": "SELL",
+    "_valueOrign": "出售",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SellCardsSubTitle",
+    "value": "Select the items you wish to sell.",
+    "_valueOrign": "請選擇要出售的道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_NewTrinketTitle",
+    "value": "ACCESSORIES",
+    "_valueOrign": "飾品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_NewTrinketSubTitle",
+    "value": "Select slot to equip.",
+    "_valueOrign": "請選擇要裝備的位置",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_NewTrinketRecyclePanelTitle",
+    "value": "DISPOSE",
+    "_valueOrign": "丟棄區",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_LostItemsTitle",
+    "value": "UNEQUIPPED ITEMS",
+    "_valueOrign": "遺落道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_LostItemsSubTitle",
+    "value": "Select items to keep.",
+    "_valueOrign": "請重新放置遺落的道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_RemoveCardsTitle",
+    "value": "FORGET",
+    "_valueOrign": "移除",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_RemoveCardsSubTitle",
+    "value": "Select a card that you wish to remove.",
+    "_valueOrign": "請選擇要移除的牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SwapCardsTitle",
+    "value": "SWITCH",
+    "_valueOrign": "交換",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SwapCardsSubTitle",
+    "value": "Select a card that you wish to switch colors.",
+    "_valueOrign": "請選擇要變更左右手顏色的牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_UpgradeEquipmentTitle",
+    "value": "UPGRADE STAT",
+    "_valueOrign": "鍛造強化",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_UpgradeEquipmentSubTitle",
+    "value": "Select a weapon to increase its stat.",
+    "_valueOrign": "請選擇要提升數值的裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_UpgradeIncreaseTitle",
+    "value": "ADD POWER MOVES",
+    "_valueOrign": "強化技能次數",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_UpgradeIncreaseSubTitle",
+    "value": "Select a weapon to increase its Power Moves.",
+    "_valueOrign": "請選擇要提升技能使用次數上限的裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_LevelupCardsTitle",
+    "value": "TRAIN",
+    "_valueOrign": "升級",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_LevelupCardsSubTitle",
+    "value": "Select a card that you wish to upgrade.",
+    "_valueOrign": "請選擇要升級的牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CloneCardsTitle",
+    "value": "CLONE",
+    "_valueOrign": "複製",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CloneCardsSubTitle",
+    "value": "Select a card that you wish to clone.",
+    "_valueOrign": "請選擇要複製的牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_RecyclePanelTitle",
+    "value": "PLACE HERE FOR GOLD",
+    "_valueOrign": "出售區",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_AutoRecycle",
+    "value": "Value",
+    "_valueOrign": "自動出售價格",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_ConfirmBtn_Remove",
+    "value": "REMOVE",
+    "_valueOrign": "移除",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_ConfirmBtn_Swap",
+    "value": "SWITCH",
+    "_valueOrign": "交換",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DrawPile",
+    "value": "DRAW PILE",
+    "_valueOrign": "抽牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DrawPileSub",
+    "value": "Each turn you draw cards from this pile.",
+    "_valueOrign": "每回合開始從這抽牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DiscardPile",
+    "value": "DISCARD PILE",
+    "_valueOrign": "棄牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DiscardPileSub",
+    "value": "When your draw pile is empty, these are shuffled back into the draw pile.",
+    "_valueOrign": "當抽牌堆抽光時，將從這裡重新洗牌放回抽牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_ExhaustPile",
+    "value": "EXHAUST PILE",
+    "_valueOrign": "消耗牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_ExhaustPileSub",
+    "value": "Cards in this pile are removed from your deck until the fight ends.",
+    "_valueOrign": "本場戰鬥中不再洗回抽牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectCardTitle",
+    "value": "SELECT CARD",
+    "_valueOrign": "選擇",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectExhaustToHand",
+    "value": "Select 1 exhausted card to return to your hand.",
+    "_valueOrign": "從消耗牌堆選擇1張牌回到手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectDiscardToDraw",
+    "value": "Select 1 discarded card to return to the draw pile.",
+    "_valueOrign": "從棄牌堆選擇1張牌回到抽牌堆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectDiscardToDrawTop",
+    "value": "Select 1 discarded card to return to the top of the draw pile.",
+    "_valueOrign": "從棄牌堆選擇1張牌回到抽牌堆頂端",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectDrawToHand",
+    "value": "Select 1 card from the draw pile to add to your hand.",
+    "_valueOrign": "從抽牌堆選擇1張牌回到手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_SelectDiscardToHand",
+    "value": "Select 1 card from the discard pile to add to your hand.",
+    "_valueOrign": "從棄牌堆選擇1張牌回到手牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_Deck",
+    "value": "DECK",
+    "_valueOrign": "牌庫",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DeckSub",
+    "value": "All cards in your possession.",
+    "_valueOrign": "你擁有的所有卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DeckInFighting",
+    "value": "DECK (FIGHT IN PROGRESS)",
+    "_valueOrign": "牌庫(戰鬥中)",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_DeckInFightingSub",
+    "value": "All cards at your disposal, including those obtained during this fight.",
+    "_valueOrign": "你可操控的所有卡片，包括戰鬥中的臨時卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CheckFight",
+    "value": "View Arena",
+    "_valueOrign": "查看戰場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionCards",
+    "value": "COLLECTION: CARDS",
+    "_valueOrign": "卡片收集冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionEquipment",
+    "value": "COLLECTION: WEAPONS",
+    "_valueOrign": "裝備收集冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionItem",
+    "value": "COLLECTION: CONSUMABLES",
+    "_valueOrign": "道具收集冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionTrinket",
+    "value": "COLLECTION: ACCESSORIES",
+    "_valueOrign": "飾品收集冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionSubLock",
+    "value": "Owned: ",
+    "_valueOrign": "已擁有：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionSubTotal",
+    "value": "Total: ",
+    "_valueOrign": "總計：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionEnemy",
+    "value": "COLLECTION: ENEMIES ",
+    "_valueOrign": "鬥士名冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDeck_CollectionEnemySub",
+    "value": "Encountered:",
+    "_valueOrign": "已認識：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGameProgress_ChallengeRule",
+    "value": "Win {0} fights to face a champion.",
+    "_valueOrign": "戰勝{0}場，挑戰場主",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGameProgress_StageTitle0",
+    "value": "FIRST LEVEL: SLAVE ARENA",
+    "_valueOrign": "首層 - 奴隸鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGameProgress_StageTitle1",
+    "value": "SECOND LEVEL: UNDERGROUND ARENA",
+    "_valueOrign": "次層 - 地下鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGameProgress_StageTitle2",
+    "value": "FINAL LEVEL: ROYAL ARENA",
+    "_valueOrign": "終層 - 皇家鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_HealTitle",
+    "value": "HEAL",
+    "_valueOrign": "療傷",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_HealDesc",
+    "value": "Restore {0} HP.",
+    "_valueOrign": "回復 {0} 血量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_WorkoutTitle",
+    "value": "TRAIN",
+    "_valueOrign": "鍛鍊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_WorkoutDesc",
+    "value": "Upgrade a card.",
+    "_valueOrign": "升級卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_CreateTitle",
+    "value": "CREATE",
+    "_valueOrign": "創造",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_CreateDesc",
+    "value": "Select a new card to add to your deck.",
+    "_valueOrign": "獲得一張牌至牌庫",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_RemoveTitle",
+    "value": "FORGET",
+    "_valueOrign": "遺忘",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_RemoveDesc",
+    "value": "Select a card to remove from your deck.",
+    "_valueOrign": "移除牌庫中一張牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_SwapTitle",
+    "value": "SWITCH",
+    "_valueOrign": "交換",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_SwapDesc",
+    "value": "Select a card to switch its slot color.",
+    "_valueOrign": "交換牌庫中一張戰鬥牌的顏色",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_StoreCardTitle",
+    "value": "Cards",
+    "_valueOrign": "卡片商人",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_StoreCardDesc",
+    "value": "Buy Cards. Remove Cards. Switch Card Colors.",
+    "_valueOrign": "購買卡片，移除卡片，卡片換色",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_StoreEquipTitle",
+    "value": "Items",
+    "_valueOrign": "裝備商人",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_StoreEquipDesc",
+    "value": "Buy Weapons & Consumables. Upgrade Weapons.",
+    "_valueOrign": "購買，鍛造，裝備和道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_LaunchStroeTitle",
+    "value": "Mystery Shop",
+    "_valueOrign": "神祕商店",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusTitle",
+    "value": "BONUS",
+    "_valueOrign": "特別優惠",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusStoreDesc",
+    "value": "Everything discounted for",
+    "_valueOrign": "全店折扣",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusDescCreateLV",
+    "value": "Created cards will be upgraded this time.",
+    "_valueOrign": "本次可選擇的所有卡片都是升級過後的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusDescCreateSR",
+    "value": "Created cards will be rare this time.",
+    "_valueOrign": "本次可選擇的所有卡片都是高稀有度的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusDescSwapLV",
+    "value": "The switched card will also be upgraded this time.",
+    "_valueOrign": "本次交換顔色時同時會升級卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_BonusDescFlag",
+    "value": "Receive an additional bonus effect this time.",
+    "_valueOrign": "可獲得特別強化效果",
+    "note": "休息時追加特別Flag",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_FinalBossTicketTitle",
+    "value": "Soul Shard",
+    "_valueOrign": "靈魂水晶",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UISelectEvent_FinalBossTicketDesc",
+    "value": "Gain the right to challenge the <color=orange>Demon of the Arena</color>.",
+    "_valueOrign": "獲得可以挑戰<color=orange>鬥技場的惡魔</color>的條件",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_RemoveCards",
+    "value": "Remove Card",
+    "_valueOrign": "移除卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_SwapCards",
+    "value": "Switch Colors",
+    "_valueOrign": "卡片換色",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_SellCards",
+    "value": "Sell Items",
+    "_valueOrign": "出售道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UpgradeEquipment",
+    "value": "Upgrade Stat",
+    "_valueOrign": "鍛造強化",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UpgradeIncrease",
+    "value": "Add Power Moves",
+    "_valueOrign": "強化技能次數",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_RefreshTitle",
+    "value": "Restock",
+    "_valueOrign": "刷新商品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_RefreshDesc",
+    "value": "Refresh the shop's inventory.",
+    "_valueOrign": "重置本次商店內所有商品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_Equipped",
+    "value": "Equipped",
+    "_valueOrign": "已裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_Sellout",
+    "value": "Sold Out",
+    "_valueOrign": "已售完",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UnlockItemPackTitle",
+    "value": "Unlock Item Slot",
+    "_valueOrign": "永久解鎖背包欄",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UnlockItemPackDesc",
+    "value": "Permanently increase 1 item slot.",
+    "_valueOrign": "將可以永久新增1格背包欄",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UnlockTrinketSlotTitle",
+    "value": "Unlock Accessory Slot",
+    "_valueOrign": "永久解鎖飾品欄",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_UnlockTrinketSlotDesc",
+    "value": "Permanently increase 1 accessory slot.",
+    "_valueOrign": "將可以永久新增1格飾品欄",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStore_PirceOff",
+    "value": "ON SALE",
+    "_valueOrign": "全店折扣",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIReward_WinFight",
+    "value": "You've won the fight!\nSelect a new card.",
+    "_valueOrign": "取得勝利獎勵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIReward_WinFightTrinket",
+    "value": "Select an Accessory.",
+    "_valueOrign": "取得飾品獎勵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIReward_MeditationCreate",
+    "value": "You've created new cards.\nSelect a card.",
+    "_valueOrign": "冥想-創造，取得新牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIReward_HintCheckLvup",
+    "value": "Click again to view upgrade.",
+    "_valueOrign": "再次點選卡片查看升級",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIReward_Skip",
+    "value": "Skip",
+    "_valueOrign": "略過",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGlobalDesc_Win",
+    "value": "YOU WIN",
+    "_valueOrign": "勝利",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIGlobalDesc_Die",
+    "value": "YOU LOST",
+    "_valueOrign": "失敗",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIPlayerInfo_OrderTitle",
+    "value": "Enemy Order",
+    "_valueOrign": "敵方行動順序",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIPlayerInfo_OrderDesc",
+    "value": "Enemies attack in the indicated ascending order. Does not include movement.",
+    "_valueOrign": "依照數字由小到大進行攻擊，不包含移動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIPlayerInfo_ArenaInfo",
+    "value": "Current Fight",
+    "_valueOrign": "戰場資訊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIPlayerInfo_ArenaInfoRoundCnt",
+    "value": "Turn: ",
+    "_valueOrign": "回合數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITute_ConfirmBtn",
+    "value": "OKAY",
+    "_valueOrign": "我知道了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_EnergyTitle",
+    "value": "Energy<sprite name=Energy>",
+    "_valueOrign": "能量<sprite name=Energy>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_EnergyDesc",
+    "value": "Used to play cards. Resets each turn.",
+    "_valueOrign": "出牌依據，每回合重置",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_DrawHandTitle",
+    "value": "Draw Count",
+    "_valueOrign": "抽牌數",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_DrawHandDesc",
+    "value": "The number of cards you draw each turn.",
+    "_valueOrign": "每回合開始抽牌的數量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_HandLimitTitle",
+    "value": "Hand Limit",
+    "_valueOrign": "手牌上限",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_HandLimitDesc",
+    "value": "The maximum number of cards that you can have in your hand.",
+    "_valueOrign": "可以擁有手牌的上限",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_UnlockRuleTitle",
+    "value": "How to Unlock",
+    "_valueOrign": "解鎖條件",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIKeyword_DemoLockDesc",
+    "value": "Unavailable in the Demo.",
+    "_valueOrign": "DEMO版不開放，正式版解鎖",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIShowCard_ExecuteLevelupTitle",
+    "value": "Upgrade Card",
+    "_valueOrign": "升級卡片",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIShowCard_ReadLevelupTitle",
+    "value": "VIEW UPGRADE",
+    "_valueOrign": "查看升級",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_StartGame",
+    "value": "PLAY",
+    "_valueOrign": "開始遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Continue",
+    "value": "CONTINUE",
+    "_valueOrign": "繼續遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Statistic",
+    "value": "STATISTICS",
+    "_valueOrign": "統計資料",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_History",
+    "value": "RUN HISTORY",
+    "_valueOrign": "遊戲歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Credit",
+    "value": "CREDITS",
+    "_valueOrign": "製作者名單",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_ExitGame",
+    "value": "EXIT GAME",
+    "_valueOrign": "退出遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Collection",
+    "value": "COLLECTION",
+    "_valueOrign": "收集冊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Tutorial",
+    "value": "TUTORIAL (DEMO)",
+    "_valueOrign": "教學重置(展示用)",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainMenu_Challenge",
+    "value": "CHALLENGE (DEMO)",
+    "_valueOrign": "挑戰模式(展示用)",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIMainmenu_ScreenShotText",
+    "value": "PRESS ANY KEY TO CONTINUE",
+    "_valueOrign": "按下任意鍵後繼續...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_Title",
+    "value": "SETTINGS",
+    "_valueOrign": "設定",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_FullScreenTitle",
+    "value": "Full Screen",
+    "_valueOrign": "全螢幕",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ResolutionTitle",
+    "value": "Resolution",
+    "_valueOrign": "解析度",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_CustomResoluctionBtn",
+    "value": "Custom Resolution",
+    "_valueOrign": "自訂解析度",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ExitGame",
+    "value": "Exit Game",
+    "_valueOrign": "退出遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_BackMainMenu",
+    "value": "Return to Main Menu",
+    "_valueOrign": "退回主選單",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_BGMTitle",
+    "value": "Music",
+    "_valueOrign": "音樂",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_SFXTitle",
+    "value": "SFX",
+    "_valueOrign": "音效",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_GiveUpGame",
+    "value": "Abandon Run",
+    "_valueOrign": "放棄本次挑戰",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_AudioTitle",
+    "value": "Audio",
+    "_valueOrign": "聲音",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ScrollTitle",
+    "value": "Mouse Wheel Sensitivity",
+    "_valueOrign": "滑鼠滾輪靈敏度",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_OtherAreaTitle",
+    "value": "Others",
+    "_valueOrign": "其他",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_TutorialTitle",
+    "value": "Tutorials",
+    "_valueOrign": "查看教學",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ResetGameTitle",
+    "value": "Reset Game",
+    "_valueOrign": "重置遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ResetHistorysTitle",
+    "value": "Clear History",
+    "_valueOrign": "移除歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ResetAchievementsTitle",
+    "value": "Clear Achievements",
+    "_valueOrign": "重置成就",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UIOption_HotkeyTitle",
+    "value": "Display Hotkeys",
+    "_valueOrign": "顯示熱鍵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_ColorBlindTitle",
+    "value": "Display symbol for which hand..",
+    "_valueOrign": "顯示左右手提示符號",
+    "note": "For Color Blind",
+    "isChanged": true
+  },
+  {
+    "key": "UIOption_HoldEndTurnTitle",
+    "value": "Disable Hold to End Turn",
+    "_valueOrign": "關閉長按結束回合",
+    "note": "*如果有牌可出時的長按結束",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_DisableCamShake",
+    "value": "Disable Camera Shake",
+    "_valueOrign": "關閉攝影機震動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_DisableWarningThrowEquipment",
+    "value": "Disable Warning for Hurling Weapons",
+    "_valueOrign": "關閉投擲裝備警告",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_FpsTitle",
+    "value": "FPS",
+    "_valueOrign": "螢幕更新率",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIOption_CustomFpsBtn",
+    "value": "Custom FPS",
+    "_valueOrign": "自訂螢幕更新率",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUseItem_Use",
+    "value": "Use",
+    "_valueOrign": "使用",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TitleWin",
+    "value": "FINAL RESULTS: VICTORY",
+    "_valueOrign": "勝利-結算",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TitleLose",
+    "value": "FINAL RESULTS: LOSS",
+    "_valueOrign": "失敗-結算",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TitleDemoEnd",
+    "value": "FINAL RESULTS",
+    "_valueOrign": "結算",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_Difficulty",
+    "value": "Difficulty:",
+    "_valueOrign": "遊戲難度：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_StartClass",
+    "value": "Classes:",
+    "_valueOrign": "起始職業：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_PlayTime",
+    "value": "Run Duration:",
+    "_valueOrign": "遊戲時間：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_BeatBoss",
+    "value": "Cleared Champion Fights:",
+    "_valueOrign": "場主擊殺數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_BeatElite",
+    "value": "Cleared Elite Fights:",
+    "_valueOrign": "精英擊殺數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_PassLevel",
+    "value": "Cleared Fights:",
+    "_valueOrign": "關卡突破數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_GotCoinCnt",
+    "value": "Gold Earned:",
+    "_valueOrign": "獲得金幣量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_KillEnemyCnt",
+    "value": "Enemies Slain:",
+    "_valueOrign": "擊殺敵人數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_MakedDmg",
+    "value": "Damage Dealt:",
+    "_valueOrign": "造成傷害量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_DmgTaken",
+    "value": "Damage Taken:",
+    "_valueOrign": "承受傷害量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_BlockedDmg",
+    "value": "Blocked Damage:",
+    "_valueOrign": "成功格擋量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_OnceMaxMakedDmg",
+    "value": "Highest Single Attack Damage:",
+    "_valueOrign": "單次最大傷害量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_OnceMaxComboCnt",
+    "value": "Highest Combo:",
+    "_valueOrign": "單次最多連擊數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TitleStatistic",
+    "value": "STATISTICS",
+    "_valueOrign": "統計資料",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalBeatBoss",
+    "value": "Total Champion Fights Cleared:",
+    "_valueOrign": "總場主擊殺數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalBeatElite",
+    "value": "Total Elite Fights Cleared:",
+    "_valueOrign": "總精英擊殺數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalPassLevel",
+    "value": "Total Fights Cleared:",
+    "_valueOrign": "總關卡突破數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalGotCoin",
+    "value": "Total Gold Earned:",
+    "_valueOrign": "總獲得金幣量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalKillEnemyCnt",
+    "value": "Total Enemies Slain:",
+    "_valueOrign": "總擊殺敵人數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_QuickestWinTime",
+    "value": "Fastest Successful Run:",
+    "_valueOrign": "最短過關時間：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_BestWinDifficultyLv",
+    "value": "Hardest Successful Run:",
+    "_valueOrign": "最高過關難度：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalWinCnt",
+    "value": "Total Victories:",
+    "_valueOrign": "總勝利數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalLoseCnt",
+    "value": "Total Losses:",
+    "_valueOrign": "總失敗數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_QuickestDemoWinTime",
+    "value": "Fastest Successful Run (DEMO):",
+    "_valueOrign": "最短過關時間(DEMO)：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_TotalDemoWinCnt",
+    "value": "Total Victories (DEMO):",
+    "_valueOrign": "總勝利數(DEMO)：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_LeftCoinThisPlay",
+    "value": "Leftover Gold:",
+    "_valueOrign": "本次剩餘金幣：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_ConvertKillCoin",
+    "value": "Gold to Kill Coins:",
+    "_valueOrign": "金幣轉換擊殺幣：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_DefeatStageFirst",
+    "value": "Slave Arena Conquered:",
+    "_valueOrign": "突破奴隸鬥技場：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_DefeatStageSecond",
+    "value": "Underground Arena Conquered:",
+    "_valueOrign": "突破地下鬥技場：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_DefeatStageThird",
+    "value": "Royal Arena Conquered:",
+    "_valueOrign": "突破皇家鬥技場：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_DefeatStageUnlock",
+    "value": "Permanent Bonus",
+    "_valueOrign": "永久解鎖",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UITotal_LeftCoinLastPlay",
+    "value": "Gold Needed for Kill Coin:",
+    "_valueOrign": "累積轉換金幣：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_Title",
+    "value": "RUN HISTORY",
+    "_valueOrign": "歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_FileName",
+    "value": "Run: ",
+    "_valueOrign": "檔案名稱：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_Status",
+    "value": "Status:",
+    "_valueOrign": "狀態：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_StatusWin",
+    "value": "Victory",
+    "_valueOrign": "勝利",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_StatusLose",
+    "value": "Loss",
+    "_valueOrign": "失敗",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_StatusPlaying",
+    "value": "In Progress",
+    "_valueOrign": "遊玩中",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_Playtime",
+    "value": "Run Duration: ",
+    "_valueOrign": "遊玩時間：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_EventTitle",
+    "value": "History",
+    "_valueOrign": "歷程",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_TrinketTitle",
+    "value": "Accessories",
+    "_valueOrign": "飾品",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_EquipmentTitle",
+    "value": "Weapons & Consumables",
+    "_valueOrign": "裝備 & 道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DeckTitle",
+    "value": "Deck",
+    "_valueOrign": "牌庫",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescPlaytime",
+    "value": "Duration: ",
+    "_valueOrign": "時間：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescHp",
+    "value": "HP: ",
+    "_valueOrign": "血量：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescCoin",
+    "value": "Gold: ",
+    "_valueOrign": "金幣：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescTurn",
+    "value": "Turns: ",
+    "_valueOrign": "回合：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescDamage",
+    "value": "Damage Received: ",
+    "_valueOrign": "受傷：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescSelectable",
+    "value": "Options: ",
+    "_valueOrign": "可選擇：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescSelected",
+    "value": "Selected: ",
+    "_valueOrign": "選擇：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescRemoved",
+    "value": "Removed: ",
+    "_valueOrign": "移除：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescSwapped",
+    "value": "Switched: ",
+    "_valueOrign": "換色：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescUpgradeEquipment",
+    "value": "Stat Upgraded:",
+    "_valueOrign": "鍛造強化：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_DescUpgradeIncrease",
+    "value": "Power Moves Added:",
+    "_valueOrign": "強化技能次數：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIHistory_HardcoreMode",
+    "value": "Hardcore Mode",
+    "_valueOrign": "專家",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_Title",
+    "value": "{0}\nNew Card Unlocked: <color=yellow>{1}</color>",
+    "_valueOrign": "{0}，解鎖新卡<color=yellow> {1} </color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonKill",
+    "value": "Defeat <color=red>{0}</color>.",
+    "_valueOrign": "戰勝<color=red> {0} </color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_HintText",
+    "value": "Click to view upgrade.",
+    "_valueOrign": "點選卡片查看升級",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonTotalRunCount",
+    "value": "{0} runs achieved.",
+    "_valueOrign": "完成 {0} 場遊戲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonDefeatArenaFirst",
+    "value": "Slave Arena conquered",
+    "_valueOrign": "突破奴隸鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonDefeatArenaSecond",
+    "value": "Underground Arena conquered",
+    "_valueOrign": "突破地下鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonDefeatArenaThird",
+    "value": "Royal Arena conquered",
+    "_valueOrign": "突破皇家鬥技場",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonWinDifficultyHard",
+    "value": "Warlord difficulty cleared",
+    "_valueOrign": "突破老將難度",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_ReasonWinDifficultyRate",
+    "value": "Hellwalker level {0} cleared",
+    "_valueOrign": "突破惡夢難度：{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_UnlockNewDifficulty",
+    "value": "New difficulty unlocked: {0}",
+    "_valueOrign": "解鎖新難度：{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_UnlockStartClass",
+    "value": "New class unlocked: {0}",
+    "_valueOrign": "解鎖新職業：{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_UnlockDifficultyRate",
+    "value": "Hellwalker level {0} unlocked",
+    "_valueOrign": "解鎖難度上限至：{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIUnlock_UnlockNewFunc",
+    "value": "New function unlocked: {0}",
+    "_valueOrign": "解鎖新功能：{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_Title",
+    "value": "SELECT DIFFICULTY",
+    "_valueOrign": "難度選擇",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_DescGeneral",
+    "value": "Classic difficulty. For players familiar with the genre and enjoy a bit of challenge.",
+    "_valueOrign": "經典的難度，適合喜歡接受挑戰的玩家",
+    "note": "英文翻譯說明更多一點，像中文一樣",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_DescRookie",
+    "value": "Easy difficulty. For players who don't usually play these types of games.",
+    "_valueOrign": "較輕鬆的難度，適合初次接觸這類型遊戲的玩家",
+    "note": "英文翻譯說明更多一點，像中文一樣",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_DescChallenge",
+    "value": "Ridiculous difficulty. Adjust level to tweak enemy stats. Higher levels lead to greater imbalance. For players who enjoy testing their limits.",
+    "_valueOrign": "不合理的難度，可依照難度數字強化敵人數值，數值越大將越不平衡，只適合想要挑戰自我極限的玩家",
+    "note": "英文翻譯說明更多一點，像中文一樣",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_DescHard",
+    "value": "Hard difficulty. For players comfortable with the game and want a bigger challenge.",
+    "_valueOrign": "困難的難度，適合已經熟悉遊戲又想接受更多挑戰的玩家",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_HardcoreMode",
+    "value": "Hardcore Mode",
+    "_valueOrign": "專家模式",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIDifficulty_HardcoreModeDesc",
+    "value": "Hardcore Mode:\nYour progress will only be saved when you defeat the Champion of an arena.",
+    "_valueOrign": "專家模式說明：\n遊戲過程中不會存檔，只有在擊敗每層場主後才會進行存檔",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStartClass_Title",
+    "value": "CHOOSE YOUR CLASS",
+    "_valueOrign": "起始職業選擇",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStartClass_New",
+    "value": "New Class",
+    "_valueOrign": "新職業",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStartClass_BestDifficulty",
+    "value": "Hardest Successful Run:",
+    "_valueOrign": "最高過關難度：",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStartClass_Deck",
+    "value": "STARTING DECK",
+    "_valueOrign": "起始牌庫",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIStartClass_UnlockRule",
+    "value": "Unlok Reason:",
+    "_valueOrign": "解鎖條件：",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UICredit_Skip",
+    "value": "SKIP",
+    "_valueOrign": "略過",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UICredit_TitleCredits",
+    "value": "CREDITS",
+    "_valueOrign": "製作者 CREDITS",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleProducer",
+    "value": "PRODUCER",
+    "_valueOrign": "製作人 PRODUCER",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleDesign",
+    "value": "DESIGN",
+    "_valueOrign": "遊戲設計 DESIGN",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleProgramming",
+    "value": "PROGRAMMING",
+    "_valueOrign": "程式 PROGRAMMING",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleArt",
+    "value": "ART",
+    "_valueOrign": "美術 ART",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleMusic",
+    "value": "MUSIC",
+    "_valueOrign": "音樂 MUSIC",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleVocalist",
+    "value": "VOCALS",
+    "_valueOrign": "演唱 VOCALS",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleLocalizaionEng",
+    "value": "LOCALIZATION: ENGLISH",
+    "_valueOrign": "多國語系 LOCALIZATION: ENGLISH",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleLocalizaionKor",
+    "value": "LOCALIZATION: KOREAN",
+    "_valueOrign": "多國語系 LOCALIZATION: KOREAN",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_TitleLocalizaionJpn",
+    "value": "LOCALIZATION: JAPANESE",
+    "_valueOrign": "多國語系 LOCALIZATION: JAPANESE",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UICredit_TitleSpecialThanks",
+    "value": "SPECIAL THANKS",
+    "_valueOrign": "特別感謝 SPECIAL THANKS",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UICredit_LastWord",
+    "value": "Thank you for playing!",
+    "_valueOrign": "最後，感謝你的遊玩。",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UIFinalCutscene_Confirm",
+    "value": "Kill",
+    "_valueOrign": "執行",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UIFinalCutscene_Skip",
+    "value": "SKIP",
+    "_valueOrign": "略過結局",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "UICombo_Title",
+    "value": "COMBO",
+    "_valueOrign": "連擊",
+    "note": "",
+    "isChanged": true
+  }
+]

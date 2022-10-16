@@ -1,0 +1,994 @@
+{
+  "GE_Alchemy": {
+    "title": "The Alchemist",
+    "_titleOrign": "鍊金術士",
+    "eventDesc": "You visit an alchemist whom is rumored to grant people power. However, upon your request, he replies,\n\"You can't gain something without giving something in return.\nSo, what will it be?\"",
+    "_eventDescOrigin": "你拜訪了一位聽說可以幫助別人強化身體素質的術士，希望能增加一些戰鬥能力，但他卻告訴你「等價交換，是鍊金術的基本原則」「所以...你願意拿什麼來交換？」",
+    "selectionDescs": [
+      "Gain strength at the cost of defense.",
+      "Gain defense at the cost of strength.",
+      "Give up and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "提升力量，以防禦交換力量",
+      "提升防禦，以力量交換防禦",
+      "放棄並離開"
+    ],
+    "selectionDetails": [
+      "",
+      "",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "",
+      "",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_ArenaHost": {
+    "title": "The Host's Request",
+    "_titleOrign": "主持人的要求",
+    "eventDesc": "The host comes up to you and starts complaining about the\nlack of spectacle in recent matches,\n\"The audience needs to see more action!\" he exclaims.\nHe wants you to add something extra to your matches,\nand promises a better reward.",
+    "_eventDescOrigin": "主持人找了你過去，向你抱怨著最近的戰鬥都太過於平淡，越來越無法滿足場外那些嗜血的觀眾，希望你能做出更特別的戰鬥行為來增加看頭，並保證會給你對等的報酬。",
+    "selectionDescs": [
+      "More physical clashing.",
+      "Show off a dazzling combo.",
+      "Deal massive damage."
+    ],
+    "_selectionDescsOrigin": [
+      "更多的身體碰撞",
+      "華麗的連擊表現",
+      "震撼全場的大傷害"
+    ],
+    "selectionDetails": [
+      "",
+      "",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "",
+      "",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_BetFastWin": {
+    "title": "Speed Challenge",
+    "_titleOrign": "速攻挑戰",
+    "eventDesc": "A cloaked figure sneaks up from behind and quietly greets you, \"Gladiators aren't allowed to bet on themselves, but I can help you, for a small fee of course... heh heh. What do you say?\"",
+    "_eventDescOrigin": "一個穿著灰藍色袍子把臉蓋住的人偷偷的靠了過來，並小小聲的說到\n「鬥技場有規定鬥士不能為自己下注，不過我可以幫你，只抽一點點手續費..呵呵，有興趣嗎？」",
+    "selectionDescs": [
+      "Bet on high odds.",
+      "Bet on low odds.",
+      "Ignore them and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "下注高賠率",
+      "下注低賠率",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold.",
+      "Lose <V0> gold.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣",
+      "花費<V0>金幣",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_BetHugeDmg": {
+    "title": "Damage Challenge",
+    "_titleOrign": "高傷挑戰",
+    "eventDesc": "A cloaked figure sneaks up from behind and quietly greets you, \"Wanna place a bet on yourself? I can help you, for a small fee of course... heh heh. So how about it?\"",
+    "_eventDescOrigin": "一個穿著灰藍色袍子把臉蓋住的人偷偷的靠了過來，並小小聲的說到\n「有興趣為自己下注嗎？我可以幫你，只抽一點點手續費..呵呵，如何？」",
+    "selectionDescs": [
+      "Bet on high odds.",
+      "Bet on low odds.",
+      "Ignore them and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "下注高賠率",
+      "下注低賠率",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold.",
+      "Lose <V0> gold.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣",
+      "花費<V0>金幣",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_CloneCard": {
+    "title": "Perfect Replica",
+    "_titleOrign": "完美的複製品",
+    "eventDesc": "\"A good day to you, brave warrior.\"\nA merchant gestures politely.\n\"Every person has something they treasure. Surely you do too?\"\n\"Perhaps you'd be interested in obtaining a perfect replica of it?\n\"For a price, of course.\"",
+    "_eventDescOrigin": "「你好啊，戰士」一位彬彬有禮商人向你打著招呼「每個人都有珍藏的事物，你一定也有吧。」「如果今天有機會讓它被完美複製一份保存下來，我想你應該也很有興趣的」最後又補了一句「當然，你懂的，這絕對不便宜，呵呵」",
+    "selectionDescs": [
+      "Accept the offer.",
+      "Beg for a lower price.",
+      "Refuse and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "接受",
+      "苦苦哀求便宜一點",
+      "拒絕並離開"
+    ],
+    "selectionDetails": [
+      "Lose all current gold <VE0>. Clone 1 card.",
+      "Lose <V0> gold. Clone 1 card. Receive <CT1> x<CA1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "複製1張牌，花費全部金幣<VE0>",
+      "複製1張牌，花費<V0>金幣，獲得<CT1>x<CA1>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_CloneCardMirror": {
+    "title": "Mirror Self",
+    "_titleOrign": "鏡中的自己",
+    "eventDesc": "As you stand before an ominous-looking mirror, your reflection speaks,\n\"I have what you have, and I can give you mine, as long as you give me yours.\"",
+    "_eventDescOrigin": "你站在一面散發著不祥氣味的鏡子前，忽然鏡中的自己對著你說道「你有的，我也有。你想要的話，我的可以給你，但你也要把你的給我」",
+    "selectionDescs": [
+      "Offer your skills.",
+      "Offer your vitality.",
+      "Offer your dignity.",
+      "Refuse and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "以能力交換",
+      "以體力交換",
+      "以尊嚴交換",
+      "拒絕並離開"
+    ],
+    "selectionDetails": [
+      "Remove 1 random card. Clone 1 card.",
+      "Lose <V0> Max HP. Clone 1 card.",
+      "Receive <CT0> x<CA0>. Clone 1 card.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "隨機移除1張牌，複製1張牌",
+      "花費<V0>血量上限，複製1張牌",
+      "獲得<CT0>x<CA0>，複製1張牌",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_CrazyFan": {
+    "title": "Crazed Fan",
+    "_titleOrign": "瘋狂粉絲",
+    "eventDesc": "A fan approaches you with a crazed look\nin his eyes and grabs you by the arm,\n\"OH MY GOD I LOVE YOU! PLEASE HAVE THIS!\"\nHe displays no intention of letting go...",
+    "_eventDescOrigin": "一名粉絲帶著瘋狂的氣息接近你並用全力抓著你的手說道\n「偶像！！我...我超喜歡你的！請收下我的禮物吧！呼～呼～」\n他力氣大到似乎沒有打算讓你輕易離開...",
+    "selectionDescs": [
+      "Accept the gift.",
+      "Use something to distract him.",
+      "Wrestle your arm free and run."
+    ],
+    "_selectionDescsOrigin": [
+      "收下禮物",
+      "拿東西打發他",
+      "用力掙脫他的手並快速離開"
+    ],
+    "selectionDetails": [
+      "Receive 1 random card.",
+      "Remove 1 random card.",
+      "Lose <V0> HP."
+    ],
+    "_selectionDetailsOrigin": [
+      "隨機獲得1張牌",
+      "隨機移除1張牌",
+      "花費<V0>血量"
+    ],
+    "status": ""
+  },
+  "GE_CurseShield": {
+    "title": "Cursed Shield of Bloodthirst",
+    "_titleOrign": "渴望鮮血的詛咒盾牌",
+    "eventDesc": "Haunted by voices, you arrive at a forgotten room, where a pile of bones lie with a dusty red shield. Clearly the shield has failed to protect its owner. But just when you're about to leave, you hear it calling out to you once again, thirsting for blood and battle...",
+    "_eventDescOrigin": "跟隨腦中的聲音你來到了一間荒廢已久的休息室中，你看到了一具緊握著暗紅色盾牌的白骨，很顯然他的夥伴沒能保住他這條命。就在你準備轉身離開時，你彷彿聽到一個聲音，一個渴望戰鬥、渴望鮮血的聲音召喚著你...",
+    "selectionDescs": [
+      "Captivated, you pick up the shield.",
+      "Disturbed, you leave it."
+    ],
+    "_selectionDescsOrigin": [
+      "接受召喚，拿起盾牌",
+      "感受到不安，快速離開"
+    ],
+    "selectionDetails": [
+      "Receive <CT0>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<CT0>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_DevilContract": {
+    "title": "Devil's Deal",
+    "_titleOrign": "惡魔契約",
+    "eventDesc": "Without warning, you're teleported to a dark void.\nBefore you could comprehend what just happened,\na deep voice appears in your head,\n\"Come, chosen one. Offer up your life force,\nand you shall receive great power.\"",
+    "_eventDescOrigin": "不知道怎麼回事，在發覺時你已經身處在一個完全沒有聲音黑色空間中，有一個直接貫入你腦中聲音說到「來吧...被選中的人，用你的生命交換更強大的力量...」",
+    "selectionDescs": [
+      "Greater agility.",
+      "More strength.",
+      "Deeper insight.",
+      "Dismiss the offer."
+    ],
+    "_selectionDescsOrigin": [
+      "更靈活的動作",
+      "更強大的力量",
+      "更宏觀的思維",
+      "拒絕"
+    ],
+    "selectionDetails": [
+      "Lose <V0> Max HP. Receive <CFT1>.",
+      "Lose <V0> Max HP. Receive <CFT1>.",
+      "Lose <V0> Max HP. Receive <CFT1>.",
+      "Lose <V0> HP."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>血量上限，獲得<CFT1>",
+      "花費<V0>血量上限，獲得<CFT1>",
+      "花費<V0>血量上限，獲得<CFT1>",
+      "花費<V0>血量"
+    ],
+    "status": ""
+  },
+  "GE_DirtyFood": {
+    "title": "Disgusting Food",
+    "_titleOrign": "骯髒食物",
+    "eventDesc": "Your daily meal arrives just as you're about to sit in a quiet corner. Although you've long lost any hope for the food to be decent,\nstaring at the plate of festering garbage, you decide to...",
+    "_eventDescOrigin": "坐在角落的你拿到了剛發放下來的食物，雖然早就對這裡的食物沒有任何期待，但望向手中那些像是剛從垃圾桶中挖出來般的骯髒食物，你決定...",
+    "selectionDescs": [
+      "Eat it anyway. Can't fight on an empty stomach.",
+      "Dump it where it belongs and meditate instead."
+    ],
+    "_selectionDescsOrigin": [
+      "為了戰鬥，還是要吃",
+      "忍耐不吃，進行冥想"
+    ],
+    "selectionDetails": [
+      "Restore <V1> HP. Receive <CT0>.",
+      "Lose <V1> HP. Remove 1 card."
+    ],
+    "_selectionDetailsOrigin": [
+      "回復<V1>血量，獲得<CT0>",
+      "花費<V1>血量，移除1張牌"
+    ],
+    "status": ""
+  },
+  "GE_DrinkBeer": {
+    "title": "Private Bar",
+    "_titleOrign": "私人酒吧",
+    "eventDesc": "You're invited to a private bar by its boisterous owner, who announces upon your arrival that all your drinks tonight are on him. The patrons watch with amusement as you decide what to order...",
+    "_eventDescOrigin": "你受邀請來到了地下的私人酒吧，酒吧主人很豪氣的向全場宣布今晚你喝的酒他請客要你盡量喝，所有人以看好戲的心態看你能喝多少...",
+    "selectionDescs": [
+      "One glass is enough.",
+      "Three pints at least.",
+      "Slay the entire barrel."
+    ],
+    "_selectionDescsOrigin": [
+      "只喝一小杯",
+      "喝滿三大杯",
+      "喝完整桶"
+    ],
+    "selectionDetails": [
+      "Restore <V1> HP. Receive <CT0>.",
+      "Restore <V1> HP. Remove 1 random card.",
+      "Remove 1 card. Receive <CT1>."
+    ],
+    "_selectionDetailsOrigin": [
+      "回復<V1>血量，獲得<CT0>",
+      "回復<V1>血量，隨機移除1張牌",
+      "移除1張牌，獲得<CT1>"
+    ],
+    "status": ""
+  },
+  "GE_EquipmentsThief": {
+    "title": "Weapons Thief",
+    "_titleOrign": "裝備小偷",
+    "eventDesc": "You see a dark figure sneak out from the items shop, who then quickly approaches you after he notices you're watching,\n\"Hey, if you don't tell anyone, I can sell you some of this for cheap...\"",
+    "_eventDescOrigin": "你見到一個黑影偷偷摸摸的從裝備商人的店裡溜出來，他發現你後快速的向你走了過來\n「噓...別張揚，有興趣嗎？我可以便宜賣給你..」",
+    "selectionDescs": [
+      "Buy a cheap Weapon.",
+      "Buy a decent Weapon.",
+      "Buy an expensive Weapon.",
+      "Tackle and bring him back to the shop owner."
+    ],
+    "_selectionDescsOrigin": [
+      "購買低價裝備",
+      "購買中價裝備",
+      "購買高價裝備",
+      "打倒並抓住他去商店換取獎勵"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Receive a random common Weapon.",
+      "Lose <V0> gold. Receive a random rare Weapon.",
+      "Lose <V0> gold. Receive a random epic Weapon.",
+      "Lose <V0> HP. Receive a random Weapon."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，獲得普通裝備",
+      "花費<V0>金幣，獲得稀有裝備",
+      "花費<V0>金幣，獲得傳說裝備",
+      "花費<V0>血量，獲得隨機裝備"
+    ],
+    "status": ""
+  },
+  "GE_FanCookie": {
+    "title": "Fan's Treat",
+    "_titleOrign": "粉絲餅乾",
+    "eventDesc": "An excited fan approaches you and offers a basket of cookies,\nwhich are purple, and emit a bewildering funk.\n\"Please have one, I made them myself!\"\nYou decide to...",
+    "_eventDescOrigin": "一位年輕的粉絲提著一個籃子興沖沖的攔下你並說道\n「我很喜歡你！這是我親手做的餅乾希望你能嘗嘗！」\n你看著散發著奇妙氣味的黑色餅乾決定...",
+    "selectionDescs": [
+      "Eat all of it.",
+      "Eat one to be polite."
+    ],
+    "_selectionDescsOrigin": [
+      "全部吃掉",
+      "只吃一塊意思一下"
+    ],
+    "selectionDetails": [
+      "Restore <V1>% of your Max HP <VE1>. Receive <CT0>.",
+      "Restore <V0> HP."
+    ],
+    "_selectionDetailsOrigin": [
+      "回復<V1>%的血量<VE1>，獲得<CT0>",
+      "回復<V0>血量"
+    ],
+    "status": ""
+  },
+  "GE_Gangster": {
+    "title": "The Mafia's Offer",
+    "_titleOrign": "黑幫老大的約定",
+    "eventDesc": "You're surrounded by the mafia, whose boss has grown tired of losing bets. They \"offer\" you to help them win by doing something extra during your next match, and promises a handsome pay in advance...",
+    "_eventDescOrigin": "逢賭必輸的黑幫老大帶著小弟們包圍著你，「希望」你能在下場戰鬥中私下配合一些行動，讓他們可以大賺一筆，也保證會先給你一些好處...",
+    "selectionDescs": [
+      "End the match as quickly as you can.",
+      "Perform a dazzling combo.",
+      "Finish the fight without taking any damage.",
+      "Refuse the offer."
+    ],
+    "_selectionDescsOrigin": [
+      "速戰速決",
+      "華麗連擊",
+      "毫髮無傷",
+      "拒絕他的提議"
+    ],
+    "selectionDetails": [
+      "Gain <V1> gold.",
+      "Gain <V1> gold.",
+      "Gain <V1> gold.",
+      "Lose <V0> HP."
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<V1>金幣",
+      "獲得<V1>金幣",
+      "獲得<V1>金幣",
+      "花費<V0>血量"
+    ],
+    "status": ""
+  },
+  "GE_GashaponMachines": {
+    "title": "Gacha Machine",
+    "_titleOrign": "轉蛋機",
+    "eventDesc": "You see a strange machine with a sign on it,\n\"Insert Coin For Prizes\".\nAn overwhelming sense of curiosity urges you to\nfind out what's inside.",
+    "_eventDescOrigin": "你發現一台奇怪的機器上面寫著「投入金幣，轉出道具」好奇心驅使著你想知道會轉出什麼樣的東西",
+    "selectionDescs": [
+      "Give it a shot.",
+      "Leave."
+    ],
+    "_selectionDescsOrigin": [
+      "轉扭蛋",
+      "離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Receive a random Consumable.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，隨機獲得道具",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_HealOrMoney": {
+    "title": "Unhinged Cleric",
+    "_titleOrign": "精神異常神職者",
+    "eventDesc": "An unhinged cleric slowly walks up to you, then asks without reason, \"Dear child... do you seek fortune? Or blood?\"\nAlthough he speaks softly, his voice is full of madness...",
+    "_eventDescOrigin": "一位精神不太正常的神職者慢慢的靠近你，並沒來由的向你問道\n「孩子...你要錢？還是血？」\n你感受到他語氣雖然輕，卻充滿著瘋狂..",
+    "selectionDescs": [
+      "I seek fortune.",
+      "I seek blood."
+    ],
+    "_selectionDescsOrigin": [
+      "我要錢",
+      "我要血"
+    ],
+    "selectionDetails": [
+      "Gain <V0> gold. Lose <V1> HP.",
+      "Restore <V0> HP. Lose <V1> gold."
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<V0>金幣，花費<V1>血量",
+      "回復<V0>血量，花費<V1>金幣"
+    ],
+    "status": ""
+  },
+  "GE_Heirloom": {
+    "title": "Resigned Gladiator",
+    "_titleOrign": "絕望鬥士",
+    "eventDesc": "A fellow gladiator who has given up fighting sits on the ground in despair, selling off his belongings for the trip home.\nSome of his wares look pretty decent.",
+    "_eventDescOrigin": "一位放棄挑戰的鬥士失落的坐在地上，絕望的販售著全身上下值錢的東西來換取返回故鄉的旅費，其中似乎有一些看起來還不錯的東西",
+    "selectionDescs": [
+      "Buy heirloom Weapon.",
+      "Buy Consumable.",
+      "Buy Consumable.",
+      "Ignore and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "購買傳家裝備",
+      "購買道具",
+      "購買道具",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold.",
+      "Lose <V0> gold.",
+      "Lose <V0> gold.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣",
+      "花費<V0>金幣",
+      "花費<V0>金幣",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_HunterXHunter": {
+    "title": "Conditional Auction",
+    "_titleOrign": "條件拍賣",
+    "eventDesc": "\"Don't be shy! Come test your strength!\"\n\"Win a prize if you beat this young man at arm wrestling!\"\nA tall, slender man wearing shades and a suit can be heard\nhollaring from afar as he points at a boy with spiky hair.",
+    "_eventDescOrigin": "「來喔！來喔！快來看看！」「條件拍賣！只要比腕力能贏過這個少年即可獲得獎品！」\n一位身材高挑穿著西裝戴著圓型墨鏡的男人指著身邊刺蝟頭少年叫賣著...",
+    "selectionDescs": [
+      "Challenge the boy.",
+      "Ignore them and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "參加",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold, and <V1> HP. Receive a random Weapon.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，獲得<CT1>，隨機獲得裝備",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_LittleGirl": {
+    "title": "The Little Card Girl",
+    "_titleOrign": "賣東西的小女孩",
+    "eventDesc": "You see a girl nervously unwrap a bundle of wares,\n\"C-come have a look, they're all quality goods...\nY-you won't be disappointed.\"\nShe seems worried about being caught and kicked out of the arena.",
+    "_eventDescOrigin": "你看到一位小女孩神色緊張的攤開布包賣著東西「來..來看看喔，東..東西品質都很好的，請來看看吧...」邊說邊東張西望的，深怕下一秒就被趕出鬥技場",
+    "selectionDescs": [
+      "Buy a cheap one.",
+      "Buy an expensive one.",
+      "Attack and rob her.",
+      "Ignore her and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "買便宜的",
+      "買貴的",
+      "攻擊並搶劫他",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V1> gold.",
+      "Lose <V1> gold.",
+      "Gain <V0> gold. Receive <CT1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V1>金幣",
+      "花費<V1>金幣",
+      "獲得<V0>金幣，獲得<CT1>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_LoseGambler": {
+    "title": "Angry Gambler",
+    "_titleOrign": "暴怒賭客",
+    "eventDesc": "An enraged gambler blocks your way,\n\"You made me lose everything!! I'M GONNA MAKE YOU PAY!!\"\nIt's clear that he won't easily let you go.",
+    "_eventDescOrigin": "一個暴怒的賭客擋在你的面前喊著「都是你！你害的我輸光了我的身家！你要怎麼賠我！！」看的出來他並不想輕易的放你離開\n",
+    "selectionDescs": [
+      "Give him a good beating.",
+      "Use him to practice your skills.",
+      "Show some sympathy and pay him off."
+    ],
+    "_selectionDescsOrigin": [
+      "認真揍他",
+      "拿他來練身手",
+      "看他可憐，用點錢打發他"
+    ],
+    "selectionDetails": [
+      "Lose <V0> HP.",
+      "Lose <V1> HP. Upgrade 1 random card.",
+      "Lose <V0> gold."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>血量",
+      "花費<V1>血量，隨機升級1張牌",
+      "花費<V0>金幣"
+    ],
+    "status": ""
+  },
+  "GE_LoveMoneyShaman": {
+    "title": "Greedy Healer",
+    "_titleOrign": "貪財薩滿",
+    "eventDesc": "\"Hey there...\"\nA greasy-looking healer with the most disingenuous grin you've\never seen approaches you to offer his services...",
+    "_eventDescOrigin": "「嗨...你好」一位堆滿假笑的貪財薩滿慢慢接近你，\n在虛假的問侯中向你推銷著他的服務..",
+    "selectionDescs": [
+      "Basic Healing Package.",
+      "Deluxe Healing Package.",
+      "Super Deluxe Healing Package.",
+      "Ignore him."
+    ],
+    "_selectionDescsOrigin": [
+      "局部治療",
+      "全身治療",
+      "強化身體",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Restore <V1> HP.",
+      "Lose <V0> gold. Restore <V1>% of your Max HP <VE1>.",
+      "Lose <V0> gold. Increase Max HP by <V1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，回復<V1>血量",
+      "花費<V0>金幣，回復<V1>%的血量<VE1>",
+      "花費<V0>金幣，增加<V1>血量上限",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_LuckyBag": {
+    "title": "Mystery Bag",
+    "_titleOrign": "福袋",
+    "eventDesc": "\"Mystery bags for sale! Buy one for a chance to win some epic gear!\"\nThe shop seems to be selling bundles of random Consumables.\nIf you're lucky, you could get more than what you paid for.\nGive it shot?",
+    "_eventDescOrigin": "「來喔！來喔！快來試試看你的運氣！每人限購一包的超值福袋喔！」商店正在進行特殊銷售活動，看起來是將多個商品合賣的組合包，道具好壞全看自己運氣了",
+    "selectionDescs": [
+      "Buy a small bag.",
+      "Buy a medium bag.",
+      "Buy a large bag.",
+      "Ignore and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "買小包",
+      "買中包",
+      "買大包",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Receive <V1> random Consumables.",
+      "Lose <V0> gold. Receive <V1> random Consumables.",
+      "Lose <V0> gold. Receive <V1> random Consumables.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，隨機獲得<V1>個道具",
+      "花費<V0>金幣，隨機獲得<V1>個道具",
+      "花費<V0>金幣，隨機獲得<V1>個道具",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_MedicalRoom": {
+    "title": "Medical Room",
+    "_titleOrign": "醫療室",
+    "eventDesc": "Exhausted, you drag yourself to the medical room, where a seasoned therapist gives you a glance before pointing impatiently at a list of services for you to choose from.",
+    "_eventDescOrigin": "全身疲憊不已的你來到了醫療室，一位看起來經驗老道的治療師看了看你，一句話也不說的指著看版要求你快點選擇..",
+    "selectionDescs": [
+      "Chiropractic Treatment.",
+      "Electrotherapy.",
+      "Nevermind, it's too expensive."
+    ],
+    "_selectionDescsOrigin": [
+      "進行整骨治療",
+      "進行電擊治療",
+      "太貴了，轉頭就走"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Upgrade 1 card.",
+      "Lose <V0> gold. Remove 1 card.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，升級1張牌",
+      "花費<V0>金幣，移除1張牌",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_NewBlood": {
+    "title": "Tainted Blood",
+    "_titleOrign": "特殊血液",
+    "eventDesc": "You wake up to find yourself tied to an operating table.\n\"Don't worry, such experiments are perfectly normal in the arena.\"\na small figure squeaks as they approach.\n\"After all, what better use is there for the lowlifes here? Heh heh...\"\n\"Now come, which one do you want to try?\nI look forward to the results...\"",
+    "_eventDescOrigin": "你醒過來時發現在綁實驗台上動彈不得，正在回想發生什麼事時一個嬌小的身影走了過來說道「別緊張，做實驗這種事在這低賤的鬥技場裡是常有的事，物盡其用啊...嘿嘿嘿」「來吧來吧，選一個支你喜歡的，我很期待效果如何呢...嘿嘿嘿」",
+    "selectionDescs": [
+      "Choose the red syringe.",
+      "Choose the black syringe.",
+      "Why not BOTH?"
+    ],
+    "_selectionDescsOrigin": [
+      "選擇紅色針筒",
+      "選擇黑色針筒",
+      "小孩才做選擇"
+    ],
+    "selectionDetails": [
+      "Lose <V0>% of your current HP <VE0>. Receive <CFT1>.",
+      "Lose <V0>% of your current HP <VE0>. Receive <CFT1>.",
+      "Lose <V0>% of your current HP <VE0>. Receive both abilities."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費當前<V0>%血量<VE0>，獲得<CFT1>",
+      "花費當前<V0>%血量<VE0>，獲得<CFT1>",
+      "花費當前<V0>%血量<VE0>，獲得兩種血液"
+    ],
+    "status": ""
+  },
+  "GE_NewSkin": {
+    "title": "Tainted Fruit",
+    "_titleOrign": "特殊果實",
+    "eventDesc": "\"Why hello there, you interested in buying this fruit? Heh heh.\n\" a small figure squeaks as they approach you from behind.\n\"Don't mind the taste, I assure you the benefits\nare worth it... Heh heh.\"\nDespite their unnatural appearance, the fruits give off\na scent that compels you to take a bite.",
+    "_eventDescOrigin": "「你好啊，要買個水果吃吃嗎？...嘿嘿嘿」你發現聲音來自於站在你背後的一個嬌小身影，他繼續說到「別在意味道的話，吃下去絕對很有幫助的..嘿嘿嘿」，不知為何雖然這些水果長得奇形怪狀的，但散發出的氣味卻讓你有著強烈慾望想要吃下去...",
+    "selectionDescs": [
+      "Buy the blue one.",
+      "Buy the yellow one.",
+      "Restrain yourself and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "購買藍色果實",
+      "購買黃色果實",
+      "忍耐並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Receive <CFT1>.",
+      "Lose <V0> gold. Receive <CFT1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，獲得<CFT1>",
+      "花費<V0>金幣，獲得<CFT1>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_Nightmare": {
+    "title": "Nightmare",
+    "_titleOrign": "惡夢",
+    "eventDesc": "You find yourself having a vivid nightmare where you're being slowly devoured by the surrounding darkness. For some reason you're acutely aware that something must be discarded in order to escape...",
+    "_eventDescOrigin": "你做了一個極度真實的惡夢，在夢中你感受到力量被深沉的黑暗不斷地吸收，不知為何，你明確的知道必須捨棄掉什麼才能脫離這個困境...",
+    "selectionDescs": [
+      "Give up a Combat.",
+      "Give up an Action.",
+      "Give up a Skill.",
+      "Give up a Power."
+    ],
+    "_selectionDescsOrigin": [
+      "捨棄戰鬥",
+      "捨棄動作",
+      "捨棄技能",
+      "捨棄能力"
+    ],
+    "selectionDetails": [
+      "Remove 1 random <combatCard>.",
+      "Remove 1 random <actionCard>.",
+      "Remove 1 random <skillCard>.",
+      "Remove 1 random <powerCard>."
+    ],
+    "_selectionDetailsOrigin": [
+      "隨機移除1張<combatCard>",
+      "隨機移除1張<actionCard>",
+      "隨機移除1張<skillCard>",
+      "隨機移除1張<powerCard>"
+    ],
+    "status": ""
+  },
+  "GE_OldSlaveWarrior": {
+    "title": "Old Slave Fighter",
+    "_titleOrign": "老奴隸戰士",
+    "eventDesc": "You get the uneasy feeling that you're being watched,\nas you notice a tattered old gladiator in the corner.\nHe admires your fighting spirit, and offers to teach you some skills...",
+    "_eventDescOrigin": "你感覺到一股不舒服的目光盯著你，四處張望後發現是一個坐在角落受傷的老奴隸戰士，他說他很欣賞你想傳授你戰鬥技巧...",
+    "selectionDescs": [
+      "Train with him.",
+      "Attack and rob him.",
+      "Ignore him."
+    ],
+    "_selectionDescsOrigin": [
+      "接受訓練",
+      "攻擊並搶劫他",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Upgrade 1 random card. Receive <CT1>.",
+      "Gain <V0> gold. Lose <V1> HP.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "隨機升級1張牌，獲得<CT1>",
+      "獲得<V0>金幣，花費<V1>血量",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_PotionOldWoman": {
+    "title": "Old Lady",
+    "_titleOrign": "老婦人",
+    "eventDesc": "An elderly woman shuffles toward you and\ncarefully unveils the contents in her basket.\n\"I brew these healing potions myself, but they're just as\ngood as the branded ones sold in shops.\nPlease show some sympathy and buy a bottle, will you?\"",
+    "_eventDescOrigin": "一個看起來有點年紀的老婦人小心翼翼的拿著一個提籃走過來，慢慢的掀開蓋在上面的花布並說到\n「年輕人有愛心...來看看吧...這些都我自己做的回復藥水喔，不會輸外面賣的啦」",
+    "selectionDescs": [
+      "Buy a small bottle.",
+      "Buy a medium bottle.",
+      "Buy a large bottle.",
+      "Attack and rob her."
+    ],
+    "_selectionDescsOrigin": [
+      "購買最小瓶",
+      "購買中等大小",
+      "購買最大瓶",
+      "攻擊並搶劫他"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Receive <CT1>.",
+      "Lose <V0> gold. Receive <CT1>.",
+      "Lose <V0> gold. Receive <CT1>.",
+      "Gain <V0> gold. Receive <CT1>."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，獲得<CT1>",
+      "花費<V0>金幣，獲得<CT1>",
+      "花費<V0>金幣，獲得<CT1>",
+      "獲得<V0>金幣，獲得<CT1>"
+    ],
+    "status": ""
+  },
+  "GE_RedBluePill": {
+    "title": "Red & Blue Pill",
+    "_titleOrign": "紅藍藥丸",
+    "eventDesc": "\"You there, please, come.\" a man in shades calls for your attention, then slowly unfolds his palms to reveal a red pill in his right hand, and a blue pill in his left.\nHe gestures you to take a pick.",
+    "_eventDescOrigin": "「喂，等等」一位戴著墨鏡的人類叫住你，緩緩的攤開雙手並露出兩隻手掌上一紅一藍的藥丸給你選擇...",
+    "selectionDescs": [
+      "Take the blue pill.",
+      "Take the red pill.",
+      "Ignore him and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "選擇藍色藥丸",
+      "選擇紅色藥丸",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Upgrade 1 card. Receive <CFT1>.",
+      "Remove 1 card. Receive <CFT1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "升級1張牌，獲得<CFT1>",
+      "移除1張牌，獲得<CFT1>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_RoyalFood": {
+    "title": "Royal Dining Hall",
+    "_titleOrign": "皇家餐廳",
+    "eventDesc": "You finally have the chance to visit the extravagant royal dining hall.\nThinking you've come prepared, you are nonetheless shocked\nwhen you see the prices of each dish.\nHaving come all this way, you decide to...",
+    "_eventDescOrigin": "你終於來到了傳聞中十分高貴的皇家餐廳，雖然早有心裡準備，但看完菜單後還是覺得貧窮限制了你的想像，抱著覺悟的你決定...",
+    "selectionDescs": [
+      "Eat all you can, money is meant to be spent.",
+      "At least order a main dish.",
+      "Maybe just grab a dessert.",
+      "Nevermind, it's too expensive."
+    ],
+    "_selectionDescsOrigin": [
+      "盡情吃，錢留著也沒有用",
+      "至少點個主餐",
+      "買個點心就走",
+      "太貴了，轉身離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold. Restore <V1>% of your Max HP <VE1>.",
+      "Lose <V0> gold. Restore <V1>% of your Max HP <VE1>.",
+      "Lose <V0> gold. Restore <V1> HP.",
+      "Receive <CT0>."
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣，回復<V1>%的血量<VE1>",
+      "花費<V0>金幣，回復<V1>%的血量<VE1>",
+      "花費<V0>金幣，回復<V1>血量",
+      "獲得<CT0>"
+    ],
+    "status": ""
+  },
+  "GE_Sparring": {
+    "title": "Personal Training",
+    "_titleOrign": "有錢少爺的訓練",
+    "eventDesc": "An impeccable butler approaches you with a smile and a bag of gold.\n\"A good day to you, great warrior. My young master is enamored with the way you fight, and insists to have you train him in person. However, I ask that you refrain from injuring him...\"\nAlthough he speaks politely, it's clear that you have no choice.",
+    "_eventDescOrigin": "一位西裝筆挺的管家捧著一袋金幣走了過來，瞇著眼晴並臉帶微笑的向你問道「你好，我家少爺看完你的戰鬥後，要求我一定要找你來陪他練習，麻煩你了」「當然，練習時千萬不能傷到少爺...」雖然他語氣平緩，卻有著難以拒絕的迫力",
+    "selectionDescs": [
+      "Accept the offer and teach some moves.",
+      "Accept the offer and take some hits.",
+      "Attack and rob him."
+    ],
+    "_selectionDescsOrigin": [
+      "練習，只表演技巧",
+      "練習，只負責挨打",
+      "攻擊並搶劫他"
+    ],
+    "selectionDetails": [
+      "Gain <V1> gold. Receive <CT0>.",
+      "Gain <V1> gold. Lose <V0> HP.",
+      "Gain <V1> gold. Receive <CT0>."
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<CT0>，獲得<V1>金幣",
+      "花費<V0>血量，獲得<V1>金幣",
+      "獲得<CT0>，獲得<V1>金幣"
+    ],
+    "status": ""
+  },
+  "GE_SwordBiteBlood": {
+    "title": "Cursed Sword of the Basement",
+    "_titleOrign": "地下室的詛咒長劍",
+    "eventDesc": "You're given the opportunity to pick any weapon you like from an old storeroom, but hours of searching turns up nothing but rusted junk. Just as you are about to give up, you notice the demonic aura of a peculiar sword in the corner. You tell yourself to stay away from it, but the sword is already in your hands...",
+    "_eventDescOrigin": "你得到許可進入老舊的地下倉庫裡任選一把武器來當作獎勵，但找了半天只有各種破銅爛鐵。忽然你發現角落有把形狀奇特的長劍散發著不尋常的邪氣吸引著你，你警告自己應該遠離它，卻在回過神時已經將劍拿起...",
+    "selectionDescs": [
+      "Follow the urge and take the sword.",
+      "Resist the urge and leave it."
+    ],
+    "_selectionDescsOrigin": [
+      "順應本能，選擇長劍",
+      "以意志力丟下長劍快速離開"
+    ],
+    "selectionDetails": [
+      "Receive <CT0>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<CT0>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_SwordSoulEater": {
+    "title": "Soul-Devouring Sword",
+    "_titleOrign": "受詛咒的嗜魂長劍",
+    "eventDesc": "\"You there, please wait!\" a crooked old man croaks as he\napproaches you with a sword in his arms.\n\"Take this blade, it has chosen you as its master... You must have it!\"\nYou sense a powerful curse coming from the sword,\nas if it craves a new host.",
+    "_eventDescOrigin": "「等等...年輕人」你順著這蒼老的聲音看過去，一位身穿黑袍的駝背老人抱著一把劍向你走來「請收下這把劍吧，它只認定你是它的主人...求求你了」，你感受到他手中的劍帶著強烈詛咒，似乎在尋找著下一位宿主...",
+    "selectionDescs": [
+      "Take it.",
+      "Refuse and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "收下",
+      "拒絕並離開"
+    ],
+    "selectionDetails": [
+      "Receive <CT0>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "獲得<CT0>",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_Training": {
+    "title": "Training Room",
+    "_titleOrign": "訓練室",
+    "eventDesc": "You've heard that the arena's training room\nprovides excellent results.\nNow that you finally have the chance to use it,\nyou decide it would be best to engage in...",
+    "_eventDescOrigin": "傳聞鬥技場的訓練室效果超群，好不容易獲得了使用的機會，你決定將這得來不易的保貴時間用於...",
+    "selectionDescs": [
+      "Muscle training.",
+      "Pain conditioning.",
+      "Normal conditioning.",
+      "Leave."
+    ],
+    "_selectionDescsOrigin": [
+      "進行肌肉訓練",
+      "進行耐打訓練",
+      "進行普通訓練",
+      "直接離開"
+    ],
+    "selectionDetails": [
+      "Upgrade all of general attack cards in start deck. Receive <CT1> x<CA1>.",
+      "Upgrade all of general block cards in start deck. Receive <CT1> x<CA1>.",
+      "Random upgrade a card. Receive <CT1>.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "升級所有的起始攻擊牌，獲得<CT1>x<CA1>",
+      "升級所有的起始格擋牌，獲得<CT1>x<CA1>",
+      "隨機升級1張牌，獲得<CT1>",
+      ""
+    ],
+    "status": "Changed"
+  },
+  "GE_TrinketSeller": {
+    "title": "The Accessories Merchant",
+    "_titleOrign": "珠寶商",
+    "eventDesc": "\"Hey, you want this?\"\nA shady merchant sneaks up from behind with a charm he just acquired from the crowd.\n\"Too expensive? Tsk, well I got cheaper stuff in my sack.\"",
+    "_eventDescOrigin": "「嘿，有興趣嗎？」一個看起來手腳俐落的商人向你兜售著剛從人群中補貨的項鍊「錢不夠？呿...不然也有便宜的啦」他指向手中黑色布袋",
+    "selectionDescs": [
+      "Buy the charm.",
+      "Buy a random accessory.",
+      "Attack and rob him.",
+      "Ignore him and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "購買項鍊",
+      "付錢，隨便抓1個",
+      "攻擊並搶劫他",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Lose <V0> gold.",
+      "Lose <V0> gold. Receive a random accessory.",
+      "Receive <CT0>. Receive a random accessory.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "花費<V0>金幣",
+      "花費<V0>金幣，獲得隨機飾品",
+      "獲得<CT0>，獲得隨機飾品",
+      ""
+    ],
+    "status": ""
+  },
+  "GE_WeaponCollector": {
+    "title": "Used Weapons Collector",
+    "_titleOrign": "原味武器收藏家",
+    "eventDesc": "A wealthy looking collector approaches you, claiming to be an admirer of your performances. He offers to buy one of your weapons for a handsome price, so that he may add it to his collection.\nFor some reason you can hear him breathing heavily...",
+    "_eventDescOrigin": "一位戴著單眼眼鏡身穿高貴服飾的收藏家走到你面前，說十分欣賞你的戰鬥方式，並希望能以高價買下你用過的武器做為收藏...",
+    "selectionDescs": [
+      "Sell the weapon in your left hand.",
+      "Sell the weapon in your right hand.",
+      "Ignore him and leave."
+    ],
+    "_selectionDescsOrigin": [
+      "賣出左手武器",
+      "賣出右手武器",
+      "無視並離開"
+    ],
+    "selectionDetails": [
+      "Sell <EQT0>. Gain <V1> gold.",
+      "Sell <EQT0>. Gain <V1> gold.",
+      ""
+    ],
+    "_selectionDetailsOrigin": [
+      "賣出<EQT0>，獲得<V1>金幣",
+      "賣出<EQT0>，獲得<V1>金幣",
+      ""
+    ],
+    "status": ""
+  }
+}

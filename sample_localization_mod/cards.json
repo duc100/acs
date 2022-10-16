@@ -1,0 +1,2338 @@
+{
+  "ActCard_AddDeathFlag": {
+    "title": "Deadly Touch",
+    "_titleOrign": "死亡烙印",
+    "desc": "Apply <CHFDA0> <CHFDK0> and <CHFDA1> <CHFDK1> to a target.",
+    "_descRef": "給予 99 層 <color=orange>死亡標記</color>，及 2 層 <color=orange>喪失力量</color>",
+    "_descOrigin": "給予 <CHFDA0> 層 <CHFDK0>，及 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_AddDeathFlag_Plus": {
+    "title": "Deadly Touch+",
+    "_titleOrign": "死亡烙印+",
+    "desc": "Apply <CHFDA0> <CHFDK0> and <CHFDA1> <CHFDK1> to a target.",
+    "_descRef": "給予 99 層 <color=orange>死亡標記</color>，及 3 層 <color=orange>喪失力量</color>",
+    "_descOrigin": "給予 <CHFDA0> 層 <CHFDK0>，及 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_AddWeakToNeighbors": {
+    "title": "Terrorize",
+    "_titleOrign": "威壓",
+    "desc": "Apply <CHFDA0> <CHFDK0> to all enemies.",
+    "_descRef": "給予全部敵人 1 層 <color=orange>虛弱</color>",
+    "_descOrigin": "給予全部敵人 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_AddWeakToNeighbors_Plus": {
+    "title": "Terrorize+",
+    "_titleOrign": "威壓+",
+    "desc": "Apply <CHFDA0> <CHFDK0> to all enemies.",
+    "_descRef": "給予全部敵人 2 層 <color=orange>虛弱</color>",
+    "_descOrigin": "給予全部敵人 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Charge": {
+    "title": "Slam",
+    "_titleOrign": "衝撞",
+    "desc": "Charge up to <M> <tile> forward. Deal <A> damage and knockback first enemy hit.",
+    "_descRef": "向前移動 2 格，撞擊單位後擊退它並停下，造成 2 傷害",
+    "_descOrigin": "向前移動 <M> <tile>，撞擊單位後擊退它並停下，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Charge_Plus": {
+    "title": "Slam+",
+    "_titleOrign": "衝撞+",
+    "desc": "Charge up to <M> <tile> forward. Deal <A> damage and knockback first enemy hit.",
+    "_descRef": "向前移動 2 格，撞擊單位後擊退它並停下，造成 2 傷害",
+    "_descOrigin": "向前移動 <M> <tile>，撞擊單位後擊退它並停下，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_ChargeKeepBlock": {
+    "title": "Shield Charge",
+    "_titleOrign": "帶盾衝鋒",
+    "desc": "Charge <M> <tile>. Knockback for <A> damage and deal additional damage for each Block. If damage is dealt, gain <CDF2> <CDFCHFT2>.",
+    "_descRef": "向前移動 1 格，造成 2 傷害，並依當前格擋值增加傷害，命中後獲得 1 層 <color=orange>持盾</color> ",
+    "_descOrigin": "向前移動 <M> <tile>，造成 <A> 傷害，並依當前格擋值增加傷害，命中後獲得 <CDF2> 層 <CDFCHFT2> ",
+    "note": "",
+    "status": "Changed"
+  },
+  "ActCard_ChargeKeepBlock_Plus": {
+    "title": "Shield Charge+",
+    "_titleOrign": "帶盾衝鋒+",
+    "desc": "Charge <M> <tile>. Knockback for <A> damage and deal additional damage for each Block. If damage is dealt, gain <CDF2> <CDFCHFT2>.",
+    "_descRef": "向前移動 1 格，造成 2 傷害，並依當前格擋值增加傷害，命中後獲得 1 層 <color=orange>持盾</color> ",
+    "_descOrigin": "向前移動 <M> <tile>，造成 <A> 傷害，並依當前格擋值增加傷害，命中後獲得 <CDF2> 層 <CDFCHFT2> ",
+    "note": "",
+    "status": "Changed"
+  },
+  "ActCard_DarkRoll": {
+    "title": "Dark Roll",
+    "_titleOrign": "黑暗翻滾",
+    "desc": "Move <M> <tile>.",
+    "_descRef": "移動 1 格",
+    "_descOrigin": "移動 <M> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_DoubleBuring": {
+    "title": "Oil",
+    "_titleOrign": "潑油",
+    "desc": "Double target's <CDFCHFT0>.",
+    "_descRef": "使目標的<color=orange>燃燒</color>變成兩倍",
+    "_descOrigin": "使目標的<CDFCHFT0>變成兩倍",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_DoubleBuring_Plus": {
+    "title": "Oil+",
+    "_titleOrign": "潑油+",
+    "desc": "Triple target's <CDFCHFT0>.",
+    "_descRef": "使目標的<color=orange>燃燒</color>變成三倍",
+    "_descOrigin": "使目標的<CDFCHFT0>變成三倍",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireBall": {
+    "title": "Fireball",
+    "_titleOrign": "豪火球",
+    "desc": "Hurl an exploding ball of fire that deals <A> area damage and applies <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出後爆炸，造成 8 傷害，給予 2 層<color=orange>燃燒</color>",
+    "_descOrigin": "向前方直線射出後爆炸，造成 <A> 傷害，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireBall_Plus": {
+    "title": "Fireball+",
+    "_titleOrign": "豪火球+",
+    "desc": "Hurl an exploding ball of fire that deals <A> area damage and applies <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出後爆炸，造成 12 傷害，給予 3 層<color=orange>燃燒</color>",
+    "_descOrigin": "向前方直線射出後爆炸，造成 <A> 傷害，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireBallSmall": {
+    "title": "Small Fireball",
+    "_titleOrign": "小火球",
+    "desc": "Hurl a flaming ball that deals <A> damage and applies <CHFDA0> <CHFDK0>. Does not stack <CDFCHFT3>.",
+    "_descRef": "向前方直線射出，造成 2 傷害，給予 2 層<color=orange>燃燒</color>，無法觸發<color=orange>火焰射手</color>",
+    "_descOrigin": "向前方直線射出，造成 <A> 傷害，給予 <CHFDA0> 層<CHFDK0>，無法觸發<CDFCHFT3>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireSelfBomb": {
+    "title": "Combust",
+    "_titleOrign": "烈焰鬥氣",
+    "desc": "Apply <CHFDA0> <CHFDK0> to every enemy within range.",
+    "_descRef": "以自身為中心做圓型爆炸，給予 2 層<color=orange>燃燒</color>",
+    "_descOrigin": "以自身為中心做圓型爆炸，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireSelfBomb_Plus": {
+    "title": "Combust+",
+    "_titleOrign": "烈焰鬥氣+",
+    "desc": "Apply <CHFDA0> <CHFDK0> to every enemy within range.",
+    "_descRef": "以自身為中心做圓型爆炸，給予 3 層<color=orange>燃燒</color>",
+    "_descOrigin": "以自身為中心做圓型爆炸，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireSurge": {
+    "title": "Fire Surge",
+    "_titleOrign": "噴射火焰",
+    "desc": "Apply <CHFDA0> <CHFDK0> to enemies within a frontal diamond.",
+    "_descRef": "向前方菱形噴射，給予 3 層<color=orange>燃燒</color>",
+    "_descOrigin": "向前方菱形噴射，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_FireSurge_Plus": {
+    "title": "Fire Surge+",
+    "_titleOrign": "噴射火焰+",
+    "desc": "Apply <CHFDA0> <CHFDK0> to enemies within a frontal diamond.",
+    "_descRef": "向前方菱形噴射，給予 4 層<color=orange>燃燒</color>",
+    "_descOrigin": "向前方菱形噴射，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Ignite": {
+    "title": "Ignite",
+    "_titleOrign": "引燃",
+    "desc": "Deal <CDF0> damage for each <CDFCHFT0> on target. Then apply equal number of <CDFCHFT0> to all adjacent enemies.",
+    "_descRef": "目標每有1層<color=orange>燃燒</color>時造成 1 傷害，並給予相連的敵方單位同等層數的<color=orange>燃燒</color>",
+    "_descOrigin": "目標每有1層<CDFCHFT0>時造成 <CDF0> 傷害，並給予相連的敵方單位同等層數的<CDFCHFT0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Ignite_Plus": {
+    "title": "Ignite+",
+    "_titleOrign": "引燃+",
+    "desc": "Deal <CDF0> damage for each <CDFCHFT0> on target. Then apply equal number of <CDFCHFT0> to all adjacent enemies.",
+    "_descRef": "目標每有1層<color=orange>燃燒</color>時造成 2 傷害，並給予相連的敵方單位同等層數的<color=orange>燃燒</color>",
+    "_descOrigin": "目標每有1層<CDFCHFT0>時造成 <CDF0> 傷害，並給予相連的敵方單位同等層數的<CDFCHFT0>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Jump": {
+    "title": "Ground Slam",
+    "_titleOrign": "重壓攻擊",
+    "desc": "Jump <M> <tile>. Force knockback for <A> damage and deal additional damage for each Block.",
+    "_descRef": "跳壓 2 格並強制擠退目標，造成 2 傷害，並依當前格擋值增加傷害",
+    "_descOrigin": "跳壓 <M> <tile>並強制擠退目標，造成 <A> 傷害，並依當前格擋值增加傷害",
+    "note": "玩家取的，如果沒太奇怪盡量保留",
+    "status": "New"
+  },
+  "ActCard_Jump_Plus": {
+    "title": "Ground Slam+",
+    "_titleOrign": "重壓攻擊+",
+    "desc": "Jump <M> <tile>. Force knockback for <A> damage and deal additional damage for each Block.",
+    "_descRef": "跳壓 2 格並強制擠退目標，對著陸周圍所有單位造成 2 傷害，並依當前格擋值增加傷害",
+    "_descOrigin": "跳壓 <M> <tile>並強制擠退目標，對著陸周圍所有單位造成 <A> 傷害，並依當前格擋值增加傷害",
+    "note": "",
+    "status": "New"
+  },
+  "ActCard_Kick": {
+    "title": "Kick",
+    "_titleOrign": "踢飛",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 2 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Kick_Plus": {
+    "title": "Kick+",
+    "_titleOrign": "踢飛+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 2 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_MoneyAttack": {
+    "title": "Money is Power",
+    "_titleOrign": "乾坤一擲",
+    "desc": "Hurl <CDFVAP1>% of your gold to deal an equal amount of damage.",
+    "_descRef": "向前方直線射出，花費擁有金幣量的5%，並造成等量的傷害",
+    "_descOrigin": "向前方直線射出，花費擁有金幣量的<CDFVAP1>%，並造成等量的傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_MoneyAttack_Plus": {
+    "title": "Money is Power+",
+    "_titleOrign": "乾坤一擲+",
+    "desc": "Hurl <CDFVAP1>% of your gold to deal an equal amount of damage.",
+    "_descRef": "向前方直線射出，花費擁有金幣量的10%，並造成等量的傷害",
+    "_descOrigin": "向前方直線射出，花費擁有金幣量的<CDFVAP1>%，並造成等量的傷害",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_MoveGeneral": {
+    "title": "Initiative",
+    "_titleOrign": "基礎移動",
+    "desc": "Move <M> <tile>.",
+    "_descRef": "移動 1 格",
+    "_descOrigin": "移動 <M> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Pull": {
+    "title": "Rope Hook",
+    "_titleOrign": "拉繩",
+    "desc": "Pull a target within <M> <tile> to you, or pull yourself to the arena walls.",
+    "_descRef": "將距離 2 格外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "_descOrigin": "將距離 <M> <tile>外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Pull_Plus": {
+    "title": "Rope Hook+",
+    "_titleOrign": "拉繩+",
+    "desc": "Pull a target within <M> <tile> to you, or pull yourself to the arena walls.",
+    "_descRef": "將距離 3 格外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "_descOrigin": "將距離 <M> <tile>外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Roll": {
+    "title": "Roll",
+    "_titleOrign": "翻滾",
+    "desc": "Move <M> <tile>. Reduce cost by <CDF1> <Energy> each time the card is retained this fight. Cost resets when played.",
+    "_descRef": "移動 1 格，每當這張牌被保留時，其耗能<sprite index=1>減少 1，使用後耗能<sprite index=1>重置",
+    "_descOrigin": "移動 <M> <tile>，每當這張牌被保留時，其耗能<Energy>減少 <CDF1>，使用後耗能<Energy>重置",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_Roll_Plus": {
+    "title": "Roll+",
+    "_titleOrign": "翻滾+",
+    "desc": "Move <M> <tile>. Reduce cost by <CDF1> <Energy> each time the card is retained this fight. Cost resets when played.",
+    "_descRef": "移動 1 格，每當這張牌被保留時，其耗能<sprite index=1>減少 1，使用後耗能<sprite index=1>重置",
+    "_descOrigin": "移動 <M> <tile>，每當這張牌被保留時，其耗能<Energy>減少 <CDF1>，使用後耗能<Energy>重置",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_StopAttack": {
+    "title": "Low Blow",
+    "_titleOrign": "踢要害",
+    "desc": "Deal <A> damage and interrupt the target. The target gains <CHFDA0> <CHFDK0>.",
+    "_descRef": "中斷目標行動，造成 2 傷害，使目標增加 3 層 <color=orange>力量</color> ",
+    "_descOrigin": "中斷目標行動，造成 <A> 傷害，使目標增加 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_StopAttack_Plus": {
+    "title": "Low Blow+",
+    "_titleOrign": "踢要害+",
+    "desc": "Deal <A> damage and interrupt the target. The target gains <CHFDA0> <CHFDK0>.",
+    "_descRef": "中斷目標行動，造成 2 傷害，使目標增加 2 層 <color=orange>力量</color> ",
+    "_descOrigin": "中斷目標行動，造成 <A> 傷害，使目標增加 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_StopAttackMulti": {
+    "title": "Throw Dirt",
+    "_titleOrign": "飛沙走石",
+    "desc": "Interrupt multiple enemies.",
+    "_descRef": "中斷多數目標行動",
+    "_descOrigin": "中斷多數目標行動",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_StopAttackMulti_Plus": {
+    "title": "Throw Dirt+",
+    "_titleOrign": "飛沙走石+",
+    "desc": "Interrupt multiple enemies.",
+    "_descRef": "中斷多數目標行動",
+    "_descOrigin": "中斷多數目標行動",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_SwapTile": {
+    "title": "Shuffle",
+    "_titleOrign": "移形換位",
+    "desc": "Switch positions with a target.",
+    "_descRef": "和目標交換位置",
+    "_descOrigin": "和目標交換位置",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_SwapTile_Plus": {
+    "title": "Shuffle+",
+    "_titleOrign": "移形換位+",
+    "desc": "Switch positions with a target.",
+    "_descRef": "和目標交換位置",
+    "_descOrigin": "和目標交換位置",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapBurnSet": {
+    "title": "Flaming Trap",
+    "_titleOrign": "燃燒陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>燃燒陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapBurnSet_Plus": {
+    "title": "Flaming Trap+",
+    "_titleOrign": "燃燒陷阱+",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>燃燒陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapHemorthageSet": {
+    "title": "Bloody Trap",
+    "_titleOrign": "出血陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>出血陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapHemorthageSet_Plus": {
+    "title": "Bloody Trap+",
+    "_titleOrign": "出血陷阱+",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>出血陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapVulnerableSet": {
+    "title": "Crippling Trap",
+    "_titleOrign": "易傷陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>易傷陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ActCard_TrapVulnerableSet_Plus": {
+    "title": "Crippling Trap+",
+    "_titleOrign": "易傷陷阱+",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>易傷陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddCostZeroForStatus": {
+    "title": "Get Psyched",
+    "_titleOrign": "肉體活化",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>肉體活化</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddCostZeroForStatus_Plus": {
+    "title": "Get Psyched+",
+    "_titleOrign": "肉體活化+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 3 層 <color=orange>肉體活化</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEnergy": {
+    "title": "Adrenaline",
+    "_titleOrign": "腎上腺素",
+    "desc": "Gain <CDF0> <Energy>.",
+    "_descRef": "獲得 2 <sprite index=1>",
+    "_descOrigin": "獲得 <CDF0> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEnergy_Plus": {
+    "title": "Adrenaline+",
+    "_titleOrign": "腎上腺素+",
+    "desc": "Gain <CDF0> <Energy>.",
+    "_descRef": "獲得 3 <sprite index=1>",
+    "_descOrigin": "獲得 <CDF0> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEnergyCostHp": {
+    "title": "No Pain No Gain",
+    "_titleOrign": "生命能量",
+    "desc": "Lose <CDF0> HP. Gain <CDF1> <Energy>. Cost is nonlethal.",
+    "_descRef": "花費 4 血量但不致死，獲得 1 <sprite index=1>",
+    "_descOrigin": "花費 <CDF0> 血量但不致死，獲得 <CDF1> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEnergyCostHp_Plus": {
+    "title": "No Pain No Gain+",
+    "_titleOrign": "生命能量+",
+    "desc": "Lose <CDF0> HP. Gain <CDF1> <Energy>. Draw <CDF2> <card>. Cost is nonlethal.",
+    "_descRef": "花費 4 血量但不致死，獲得 1 <sprite index=1>，抽 1 張牌",
+    "_descOrigin": "花費 <CDF0> 血量但不致死，獲得 <CDF1> <Energy>，抽 <CDF2> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEquipIncrease": {
+    "title": "Reinforced Gear",
+    "_titleOrign": "裝備賦魂",
+    "desc": "All your Weapons gain <CDF0> additional Power Move this fight.",
+    "_descRef": "在本場戰鬥中，給予身上所有裝備 1 層額外技能使用次數<sprite index=0>",
+    "_descOrigin": "在本場戰鬥中，給予身上所有裝備 <CDF0> 層額外技能使用次數<Increase>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddEquipIncrease_Plus": {
+    "title": "Reinforced Gear+",
+    "_titleOrign": "裝備賦魂+",
+    "desc": "All your Weapons gain <CDF0> additional Power Move this fight.",
+    "_descRef": "在本場戰鬥中，給予身上所有裝備 1 層額外技能使用次數<sprite index=0>",
+    "_descOrigin": "在本場戰鬥中，給予身上所有裝備 <CDF0> 層額外技能使用次數<Increase>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddIncreaseBlock": {
+    "title": "Tough Nut",
+    "_titleOrign": "格擋專精",
+    "desc": "Gain <D> Block, and <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 格擋，獲得 2 層 <color=orange>堅硬</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddIncreaseBlock_Plus": {
+    "title": "Tough Nut+",
+    "_titleOrign": "格擋專精+",
+    "desc": "Gain <D> Block, and <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 4 格擋，獲得 3 層 <color=orange>堅硬</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddStrength": {
+    "title": "Beef Up",
+    "_titleOrign": "增強力量",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>力量</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AddStrength_Plus": {
+    "title": "Beef Up+",
+    "_titleOrign": "增強力量+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>力量</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AfterImage": {
+    "title": "Double Take",
+    "_titleOrign": "殘影",
+    "desc": "Clone <CDF1> <card> in your hand and place it on top of your draw pile.",
+    "_descRef": "複製 1 張手牌放入抽牌堆頂端",
+    "_descOrigin": "複製 <CDF1> 張手牌放入抽牌堆頂端",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AfterImage_Plus": {
+    "title": "Double Take+",
+    "_titleOrign": "殘影+",
+    "desc": "Clone <CDF1> <card> in your hand and place it on top of your draw pile.",
+    "_descRef": "複製 1 張手牌放入抽牌堆頂端",
+    "_descOrigin": "複製 <CDF1> 張手牌放入抽牌堆頂端",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_AutoPlayTiredToStrength": {
+    "title": "Power Through",
+    "_titleOrign": "疲勞轉化",
+    "desc": "Play all <CDFCDT0> in your hand. Gain <CDF1> <CDFCHFT1> each.",
+    "_descRef": "自動打出手中所有<color=orange>疲勞</color>，每打出1張<color=orange>疲勞</color>獲得 1 層<color=orange>力量</color> ",
+    "_descOrigin": "自動打出手中所有<CDFCDT0>，每打出1張<CDFCDT1>獲得 <CDF1> 層<CDFCHFT1> ",
+    "note": "",
+    "status": "Changed"
+  },
+  "SkillCard_AutoPlayTiredToStrength_Plus": {
+    "title": "Power Through+",
+    "_titleOrign": "疲勞轉化+",
+    "desc": "Play all <CDFCDT0> in your hand. Gain <CDF1> <CDFCHFT1> each.",
+    "_descRef": "自動打出手中所有<color=orange>疲勞</color>，每打出1張<color=orange>疲勞</color>獲得 1 層<color=orange>力量</color> ",
+    "_descOrigin": "自動打出手中所有<CDFCDT0>，每打出1張<CDFCDT1>獲得 <CDF1> 層<CDFCHFT1> ",
+    "note": "",
+    "status": "Changed"
+  },
+  "SkillCard_DiscardAndDraw": {
+    "title": "Change Tactics",
+    "_titleOrign": "重整計畫",
+    "desc": "Select cards to discard from your hand, then draw as many cards.",
+    "_descRef": "選擇手牌丟入棄牌堆，並依丟棄的數量抽同數量的牌",
+    "_descOrigin": "選擇手牌丟入棄牌堆，並依丟棄的數量抽同數量的牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_DiscardAndDraw_Plus": {
+    "title": "Change Tactics+",
+    "_titleOrign": "重整計畫+",
+    "desc": "Select cards to discard from your hand, then draw as many cards.",
+    "_descRef": "選擇手牌丟入棄牌堆，並依丟棄的數量抽同數量的牌",
+    "_descOrigin": "選擇手牌丟入棄牌堆，並依丟棄的數量抽同數量的牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_Dodge": {
+    "title": "Mind's Eye",
+    "_titleOrign": "見切",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>見切</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_Dodge_Plus": {
+    "title": "Mind's Eye+",
+    "_titleOrign": "見切+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>見切</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_DoublePower": {
+    "title": "Unlocked Mind",
+    "_titleOrign": "心靈強化",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>心靈強化</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_DoublePower_Plus": {
+    "title": "Unlocked Mind+",
+    "_titleOrign": "心靈強化+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>心靈強化</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_Draw": {
+    "title": "Think Fast",
+    "_titleOrign": "急中生智",
+    "desc": "Draw <CDF0> <card>.",
+    "_descRef": "抽 3 張牌",
+    "_descOrigin": "抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_Draw_Plus": {
+    "title": "Think Fast+",
+    "_titleOrign": "急中生智+",
+    "desc": "Draw <CDF0> <card>.",
+    "_descRef": "抽 4 張牌",
+    "_descOrigin": "抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_DrawByNeighbors": {
+    "title": "Bloodthirsty",
+    "_titleOrign": "好戰",
+    "desc": "Draw <CDF0> <card> for each surrounding unit.",
+    "_descRef": "依照周圍單位數量，每有1單位抽 1 張牌",
+    "_descOrigin": "依照周圍單位數量，每有1單位抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_DrawByNeighbors_Plus": {
+    "title": "Bloodthirsty+",
+    "_titleOrign": "好戰+",
+    "desc": "Draw <CDF0> <card> for each surrounding unit.",
+    "_descRef": "依照周圍單位數量，每有1單位抽 2 張牌",
+    "_descOrigin": "依照周圍單位數量，每有1單位抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_FullShuriken": {
+    "title": "Arsenal",
+    "_titleOrign": "深藏暗器",
+    "desc": "Fill all empty item slots with <CDFCDT0>s.",
+    "_descRef": "將空的道具格補滿 <color=orange>暗器</color>",
+    "_descOrigin": "將空的道具格補滿 <CDFCDT0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_FullShuriken_Plus": {
+    "title": "Arsenal+",
+    "_titleOrign": "深藏暗器+",
+    "desc": "Fill all empty item slots with <CDFCDT0>s.",
+    "_descRef": "將空的道具格補滿 <color=orange>暗器</color>",
+    "_descOrigin": "將空的道具格補滿 <CDFCDT0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_KeepCards": {
+    "title": "Strategist",
+    "_titleOrign": "戰術規劃",
+    "desc": "Draw <CDF0> <card>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "抽 1 張牌，獲得 2 層 <color=orange>手牌保留</color> ",
+    "_descOrigin": "抽 <CDF0> 張<card>，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_KeepCards_Plus": {
+    "title": "Strategist+",
+    "_titleOrign": "戰術規劃+",
+    "desc": "Draw <CDF0> <card>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "抽 2 張牌，獲得 3 層 <color=orange>手牌保留</color> ",
+    "_descOrigin": "抽 <CDF0> 張<card>，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_KeepEnergy": {
+    "title": "Conserve",
+    "_titleOrign": "能量保存",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>能量保存</color>",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_KeepEnergy_Plus": {
+    "title": "Conserve+",
+    "_titleOrign": "能量保存+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>能量保存</color>",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_MagicBlock": {
+    "title": "Protective Ward",
+    "_titleOrign": "魔力護盾",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>魔力護盾</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_MagicBlock_Plus": {
+    "title": "Protective Ward+",
+    "_titleOrign": "魔力護盾+",
+    "desc": "Gain <CHFSA0> <CHFSK0>. Restore <CDF1> HP.",
+    "_descRef": "獲得 1 層 <color=orange>魔力護盾</color>，回復 7 點血量",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>，回復 <CDF1> 點血量",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_MutiplyFocus": {
+    "title": "Flow State",
+    "_titleOrign": "心流",
+    "desc": "Double your current <CDFCHFT0>.",
+    "_descRef": "使目前的<color=orange>專注</color>變成兩倍",
+    "_descOrigin": "使目前的<CDFCHFT0>變成兩倍",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_MutiplyFocus_Plus": {
+    "title": "Flow State+",
+    "_titleOrign": "心流+",
+    "desc": "Triple your current <CDFCHFT0>.",
+    "_descRef": "使目前的<color=orange>專注</color>變成三倍",
+    "_descOrigin": "使目前的<CDFCHFT0>變成三倍",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_PrepareNextRound": {
+    "title": "Battle Stance",
+    "_titleOrign": "準備攻勢",
+    "desc": "Gain <CHFSA0> <CHFSK0>, and <CHFSA1> <CHFSK1>.",
+    "_descRef": "獲得 2 層 <color=orange>戰鬥蹲姿</color>，獲得 2 層 <color=orange>輕快腳步</color>",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_PrepareNextRound_Plus": {
+    "title": "Battle Stance+",
+    "_titleOrign": "準備攻勢+",
+    "desc": "Gain <CHFSA0> <CHFSK0>, and <CHFSA1> <CHFSK1>.",
+    "_descRef": "獲得 2 層 <color=orange>戰鬥蹲姿</color>，獲得 2 層 <color=orange>輕快腳步</color>",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_QuickReload": {
+    "title": "Fast Reload",
+    "_titleOrign": "快速裝填",
+    "desc": "Draw <CDF1> <card>. Reload Weapon.",
+    "_descRef": "抽 1 張牌，並自動裝填手中的裝備",
+    "_descOrigin": "抽 <CDF1> 張<card>，並自動裝填手中的裝備",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_QuickReload_Plus": {
+    "title": "Fast Reload+",
+    "_titleOrign": "快速裝填+",
+    "desc": "Draw <CDF1> <card>. Discard <CDF2> <card>. Reload Weapon.",
+    "_descRef": "抽 2 張牌，棄 1 張牌，並自動裝填手中的裝備",
+    "_descOrigin": "抽 <CDF1> 張<card>，棄 <CDF2> 張<card>，並自動裝填手中的裝備",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectDrawToHand": {
+    "title": "One More Trick",
+    "_titleOrign": "秘技",
+    "desc": "Select a card from your draw pile and add it to your hand.",
+    "_descRef": "從抽牌堆選擇1張牌回到手牌",
+    "_descOrigin": "從抽牌堆選擇1張牌回到手牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectDrawToHand_Plus": {
+    "title": "One More Trick+",
+    "_titleOrign": "秘技+",
+    "desc": "Select a card from your draw pile and add it to your hand.",
+    "_descRef": "從抽牌堆選擇1張牌回到手牌",
+    "_descOrigin": "從抽牌堆選擇1張牌回到手牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectExhaustToHand": {
+    "title": "Echo",
+    "_titleOrign": "殘心",
+    "desc": "Return a card from the exhaust pile to your hand.",
+    "_descRef": "從消耗牌堆選擇1張牌回到手牌",
+    "_descOrigin": "從消耗牌堆選擇1張牌回到手牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectExhaustToHand_Plus": {
+    "title": "Echo+",
+    "_titleOrign": "殘心+",
+    "desc": "Return a card from the exhaust pile to your hand.",
+    "_descRef": "從消耗牌堆選擇1張牌回到手牌",
+    "_descOrigin": "從消耗牌堆選擇1張牌回到手牌",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandsForFocus": {
+    "title": "Empty Mind",
+    "_titleOrign": "心無雜念",
+    "desc": "Select cards to <H>exhaust</H> from your hand. Gain <CDF0> <CDFCHFT0> and <CDF1> <CDFCHFT1> for each card exhausted.",
+    "_descRef": "選擇手牌丟入<color=orange>消耗</color>牌堆，每消耗1張牌獲得 2 <color=orange>專注</color>和 1 <color=orange>平靜</color>",
+    "_descOrigin": "選擇手牌丟入<H>消耗</H>牌堆，每消耗1張牌獲得 <CDF0> <CDFCHFT0>和 <CDF1> <CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandsForFocus_Plus": {
+    "title": "Empty Mind+",
+    "_titleOrign": "心無雜念+",
+    "desc": "Select cards to <H>exhaust</H> from your hand. Gain <CDF0> <CDFCHFT0> and <CDF1> <CDFCHFT1> for each card exhausted.",
+    "_descRef": "選擇手牌丟入<color=orange>消耗</color>牌堆，每消耗1張牌獲得 3 <color=orange>專注</color>和 1 <color=orange>平靜</color>",
+    "_descOrigin": "選擇手牌丟入<H>消耗</H>牌堆，每消耗1張牌獲得 <CDF0> <CDFCHFT0>和 <CDF1> <CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandToAddRetain": {
+    "title": "Trump Card",
+    "_titleOrign": "留一手",
+    "desc": "Select <CDF1> <card> from your hand to <H>Retain</H> until played.",
+    "_descRef": "選擇 1 張手牌，使其在打出前獲得<color=orange>保留</color>",
+    "_descOrigin": "選擇 <CDF1> 張手牌，使其在打出前獲得<H>保留</H>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandToAddRetain_Plus": {
+    "title": "Trump Card+",
+    "_titleOrign": "留一手+",
+    "desc": "Select <CDF1> <card> from your hand to <H>Retain</H> until played.",
+    "_descRef": "選擇 1 張手牌，使其在打出前獲得<color=orange>保留</color>",
+    "_descOrigin": "選擇 <CDF1> 張手牌，使其在打出前獲得<H>保留</H>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandToSubCost": {
+    "title": "Muscle Memory",
+    "_titleOrign": "肌肉記憶",
+    "desc": "Select <CDF0> <card> from your hand that costs more than 1 <Energy>, and reduce its cost to 1 <Energy> this fight.",
+    "_descRef": "選擇 1 張<sprite index=1>大於1的手牌，使<sprite index=1>在本場戰鬥中降為1",
+    "_descOrigin": "選擇 <CDF0> 張<Energy>大於1的手牌，使<Energy>在本場戰鬥中降為1",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_SelectHandToSubCost_Plus": {
+    "title": "Muscle Memory+",
+    "_titleOrign": "肌肉記憶+",
+    "desc": "Select <CDF0> <card> from your hand that costs more than 1 <Energy>, and reduce their cost to 1 <Energy> this fight.",
+    "_descRef": "選擇 2 張<sprite index=1>大於1的手牌，使<sprite index=1>在本場戰鬥中降為1",
+    "_descOrigin": "選擇 <CDF0> 張<Energy>大於1的手牌，使<Energy>在本場戰鬥中降為1",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_WarCry": {
+    "title": "Warcry",
+    "_titleOrign": "戰吼",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>戰吼</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_WarCry_Plus": {
+    "title": "Warcry+",
+    "_titleOrign": "戰吼+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>戰吼</color>",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_WindUp": {
+    "title": "Wind Up",
+    "_titleOrign": "蓄力",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>蓄力</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_WindUp_Plus": {
+    "title": "Wind Up+",
+    "_titleOrign": "蓄力+",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>蓄力</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_ZeroZone": {
+    "title": "Zero Zone",
+    "_titleOrign": "零的領域",
+    "desc": "All cards in your hand cost 0 <Energy> this turn. Draw <CDF0> <card>. Receive <CHFSA0> <CHFSK0>.",
+    "_descRef": "本回合目前所有手牌耗能變為0，抽 1 張牌，獲得 1 層 <color=orange>無法抽牌</color>",
+    "_descOrigin": "本回合目前所有手牌耗能變為0，抽 <CDF0> 張<card>，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "SkillCard_ZeroZone_Plus": {
+    "title": "Zero Zone+",
+    "_titleOrign": "零的領域+",
+    "desc": "All cards in your hand cost 0 <Energy> this turn. Draw <CDF0> <card>. Receive <CHFSA0> <CHFSK0>. Gain <CHFSA1> <CHFSK1>.",
+    "_descRef": "本回合目前所有手牌耗能變為0，抽 2 張牌，獲得 1 層 <color=orange>無法抽牌</color>，獲得 1 層 <color=orange>保留專注</color>",
+    "_descOrigin": "本回合目前所有手牌耗能變為0，抽 <CDF0> 張<card>，獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Attack": {
+    "title": "Strike",
+    "_titleOrign": "攻擊",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 4 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Attack_Plus": {
+    "title": "Strike+",
+    "_titleOrign": "攻擊+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 7 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Attack_ZBandit": {
+    "title": "Ban-Strike",
+    "_titleOrign": "盜賊攻擊",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 3 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZBandit_Plus": {
+    "title": "Ban-Strike+",
+    "_titleOrign": "盜賊攻擊+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 6 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZHunter": {
+    "title": "Hun-Strike",
+    "_titleOrign": "獵人攻擊",
+    "desc": "Deal <A> damage. Gain <CDF0> <CDFCHFT0> by reload.",
+    "_descRef": "造成 4 傷害，使用於裝填時獲得 1 層 <color=orange>瞄準</color>",
+    "_descOrigin": "造成 <A> 傷害，使用於裝填時獲得 <CDF0> 層 <CDFCHFT0>",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZHunter_Plus": {
+    "title": "Hun-Strike+",
+    "_titleOrign": "獵人攻擊+",
+    "desc": "Deal <A> damage. Gain <CDF0> <CDFCHFT0> by reload.",
+    "_descRef": "造成 7 傷害，使用於裝填時獲得 2 層 <color=orange>瞄準</color>",
+    "_descOrigin": "造成 <A> 傷害，使用於裝填時獲得 <CDF0> 層 <CDFCHFT0>",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZMercenary": {
+    "title": "Mer-Strike",
+    "_titleOrign": "傭兵攻擊",
+    "desc": "Deal <A> damage, plus 1 additional damage for each <CDF0> <H>same color attack</H> <combatCard> in your deck.",
+    "_descRef": "造成 3 傷害，牌庫中每擁有 2 張<color=orange>同顏色攻擊用</color>的<color=orange>戰鬥牌</color>時傷害增加 1",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每擁有 <CDF0> 張<H>同顏色攻擊用</H>的<combatCard>時傷害增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZMercenary_Plus": {
+    "title": "Mer-Strike+",
+    "_titleOrign": "傭兵攻擊+",
+    "desc": "Deal <A> damage, plus 1 additional damage for each <CDF0> <H>same color attack</H> <combatCard> in your deck.",
+    "_descRef": "造成 6 傷害，牌庫中每擁有 1 張<color=orange>同顏色攻擊用</color>的<color=orange>戰鬥牌</color>時傷害增加 1",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每擁有 <CDF0> 張<H>同顏色攻擊用</H>的<combatCard>時傷害增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZPyromancer": {
+    "title": "Pyr-Strike",
+    "_titleOrign": "燃燒者攻擊",
+    "desc": "Deal <A> damage. Multiply total damage by <CDF0> when target occupying a <CDFCHFT0>.",
+    "_descRef": "造成 4 傷害，目標站在<color=orange>燃燒之地</color>時，傷害加乘 1.25 倍",
+    "_descOrigin": "造成 <A> 傷害，目標站在<CDFCHFT0>時，傷害加乘 <CDF0> 倍",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZPyromancer_Plus": {
+    "title": "Pyr-Strike+",
+    "_titleOrign": "燃燒者攻擊+",
+    "desc": "Deal <A> damage. Multiply total damage by <CDF0> when target occupying a <CDFCHFT0>.",
+    "_descRef": "造成 7 傷害，目標站在<color=orange>燃燒之地</color>時，傷害加乘 1.5 倍",
+    "_descOrigin": "造成 <A> 傷害，目標站在<CDFCHFT0>時，傷害加乘 <CDF0> 倍",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZSamurai": {
+    "title": "Sam-Strike",
+    "_titleOrign": "武者攻擊",
+    "desc": "Deal <A> damage. Multiply total damage by <CDF0> when this card is the last one in your hand.",
+    "_descRef": "造成 4 傷害，手牌只剩這1張時，傷害加乘 1.25 倍",
+    "_descOrigin": "造成 <A> 傷害，手牌只剩這1張時，傷害加乘 <CDF0> 倍",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZSamurai_Plus": {
+    "title": "Sam-Strike+",
+    "_titleOrign": "武者攻擊+",
+    "desc": "Deal <A> damage. Multiply total damage by <CDF0> when this card is the last one in your hand.",
+    "_descRef": "造成 7 傷害，手牌只剩這1張時，傷害加乘 1.5 倍",
+    "_descOrigin": "造成 <A> 傷害，手牌只剩這1張時，傷害加乘 <CDF0> 倍",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZWarrior": {
+    "title": "War-Strike",
+    "_titleOrign": "戰士攻擊",
+    "desc": "Deal <A> damage, plus 1 additional damage for each <CDF0> <card> in your deck.",
+    "_descRef": "造成 2 傷害，牌庫中每擁有 5 張牌時傷害增加 1",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每擁有 <CDF0> 張牌時傷害增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Attack_ZWarrior_Plus": {
+    "title": "War-Strike+",
+    "_titleOrign": "戰士攻擊+",
+    "desc": "Deal <A> damage, plus 1 additional damage for each <CDF0> <card> in your deck.",
+    "_descRef": "造成 4 傷害，牌庫中每擁有 4 張牌時傷害增加 1",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每擁有 <CDF0> 張牌時傷害增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_AttackAddBurnExtra": {
+    "title": "Brand",
+    "_titleOrign": "炙燒施虐",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 4 傷害，給予 1 層 <color=orange>畏火烙印</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddBurnExtra_Plus": {
+    "title": "Brand+",
+    "_titleOrign": "炙燒施虐+",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 7 傷害，給予 2 層 <color=orange>畏火烙印</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddDmgByRetain": {
+    "title": "Final Blow",
+    "_titleOrign": "殺手鐧",
+    "desc": "Deal <A><TMPAA> damage. Increase damage by <CDF1> each time the card is retained this fight. Increased damage is reset when played.",
+    "_descRef": "造成 4<color=orange>(+0)</color> 傷害，每當這張牌被保留時，使其在打出前的傷害增加 2",
+    "_descOrigin": "造成 <A><TMPAA> 傷害，每當這張牌被保留時，使其在打出前的傷害增加 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddDmgByRetain_Plus": {
+    "title": "Final Blow+",
+    "_titleOrign": "殺手鐧+",
+    "desc": "Deal <A><TMPAA> damage. Increase damage by <CDF1> each time the card is retained this fight. Increased damage is reset when played.",
+    "_descRef": "造成 6<color=orange>(+0)</color> 傷害，每當這張牌被保留時，使其在打出前的傷害增加 3",
+    "_descOrigin": "造成 <A><TMPAA> 傷害，每當這張牌被保留時，使其在打出前的傷害增加 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddVulnerable": {
+    "title": "Cripple",
+    "_titleOrign": "製造傷口",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 10 傷害，給予 2 層 <color=orange>易傷</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddVulnerable_Plus": {
+    "title": "Cripple+",
+    "_titleOrign": "製造傷口+",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 16 傷害，給予 3 層 <color=orange>易傷</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddWeak": {
+    "title": "Blind",
+    "_titleOrign": "視覺剝奪",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 6 傷害，給予 1 層 <color=orange>虛弱</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAddWeak_Plus": {
+    "title": "Blind+",
+    "_titleOrign": "視覺剝奪+",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 8 傷害，給予 2 層 <color=orange>虛弱</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAutoExhaust": {
+    "title": "Full-on Attack",
+    "_titleOrign": "全力攻擊",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 18 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackAutoExhaust_Plus": {
+    "title": "Full-on Attack+",
+    "_titleOrign": "全力攻擊+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 26 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackBack": {
+    "title": "Leverage",
+    "_titleOrign": "借力使力",
+    "desc": "Deal <A> damage. Discard <CDF1> <card>. If damage is dealt, move 1 tile back.",
+    "_descRef": "造成 6 傷害，棄 1 張牌，命中目標後後退後1格",
+    "_descOrigin": "造成 <A> 傷害，棄 <CDF1> 張<card>，命中目標後後退後1格",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackBack_Plus": {
+    "title": "Leverage+",
+    "_titleOrign": "借力使力+",
+    "desc": "Deal <A> damage. If damage is dealt, move 1 tile back.",
+    "_descRef": "造成 9 傷害，命中目標後後退後1格",
+    "_descOrigin": "造成 <A> 傷害，命中目標後後退後1格",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackCostDef": {
+    "title": "The Best Defense",
+    "_titleOrign": "轉守為攻",
+    "desc": "Deal <A> damage. Expend all Block and deal <CDF0> additional damage each.",
+    "_descRef": "造成 6 傷害，花費當前格擋值轉化為傷害，每花費1格擋傷害增加 1 ",
+    "_descOrigin": "造成 <A> 傷害，花費當前格擋值轉化為傷害，每花費1格擋傷害增加 <CDF0> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackCostDef_Plus": {
+    "title": "The Best Defense+",
+    "_titleOrign": "轉守為攻+",
+    "desc": "Deal <A> damage. Expend all Block and deal <CDF0> additional damage each.",
+    "_descRef": "造成 8 傷害，花費當前格擋值轉化為傷害，每花費1格擋傷害增加 2 ",
+    "_descOrigin": "造成 <A> 傷害，花費當前格擋值轉化為傷害，每花費1格擋傷害增加 <CDF0> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackCostDown": {
+    "title": "Payback",
+    "_titleOrign": "報復一擊",
+    "desc": "Deal <A> damage. Reduce cost by <CDF0> <Energy> each time you lose HP this fight.",
+    "_descRef": "造成 14 傷害，每當這場戰鬥中受到傷害就降低 1 <sprite index=1>",
+    "_descOrigin": "造成 <A> 傷害，每當這場戰鬥中受到傷害就降低 <CDF0> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackCostDown_Plus": {
+    "title": "Payback+",
+    "_titleOrign": "報復一擊+",
+    "desc": "Deal <A> damage. Reduce cost by <CDF0> <Energy> each time you lose HP this fight.",
+    "_descRef": "造成 18 傷害，每當這場戰鬥中受到傷害就降低 1 <sprite index=1>",
+    "_descOrigin": "造成 <A> 傷害，每當這場戰鬥中受到傷害就降低 <CDF0> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDiscardZeroCostToHand": {
+    "title": "Dupe",
+    "_titleOrign": "聲東擊西",
+    "desc": "Deal <A> damage. Return a <H>random</H> 0 <Energy> card from the discard pile to your hand. Dupe not included.",
+    "_descRef": "造成 6 傷害，從棄牌堆<color=orange>隨機</color>選擇1張<sprite index=1>為0的牌回到手牌 (不可選擇其他聲東擊西)",
+    "_descOrigin": "造成 <A> 傷害，從棄牌堆<H>隨機</H>選擇1張<Energy>為0的牌回到手牌 (不可選擇其他聲東擊西)",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDiscardZeroCostToHand_Plus": {
+    "title": "Dupe+",
+    "_titleOrign": "聲東擊西+",
+    "desc": "Deal <A> damage. Return a 0 <Energy> card from the discard pile to your hand. Dupe not included.",
+    "_descRef": "造成 10 傷害，從棄牌堆選擇1張<sprite index=1>為0的牌回到手牌 (不可選擇其他聲東擊西)",
+    "_descOrigin": "造成 <A> 傷害，從棄牌堆選擇1張<Energy>為0的牌回到手牌 (不可選擇其他聲東擊西)",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDraw": {
+    "title": "Improvise",
+    "_titleOrign": "試探攻擊",
+    "desc": "Deal <A> damage. Draw <CDF0> <card>.",
+    "_descRef": "造成 5 傷害，抽 1 張牌",
+    "_descOrigin": "造成 <A> 傷害，抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDraw_Plus": {
+    "title": "Improvise+",
+    "_titleOrign": "試探攻擊+",
+    "desc": "Deal <A> damage. Draw <CDF0> <card>.",
+    "_descRef": "造成 8 傷害，抽 2 張牌",
+    "_descOrigin": "造成 <A> 傷害，抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDrawByHit": {
+    "title": "Breach",
+    "_titleOrign": "突圍",
+    "desc": "Deal <A> damage. Draw <CDF0> <card> and gain <CDF1> <CDFCHFT1> for each enemy attacked.",
+    "_descRef": "造成 6 傷害，每命中1個目標抽 1 張牌並獲得 2 層<color=orange>暫時力量</color>",
+    "_descOrigin": "造成 <A> 傷害，每命中1個目標抽 <CDF0> 張<card>並獲得 <CDF1> 層<CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackDrawByHit_Plus": {
+    "title": "Breach+",
+    "_titleOrign": "突圍+",
+    "desc": "Deal <A> damage. Draw <CDF0> <card> and gain <CDF1> <CDFCHFT1> for each enemy attacked.",
+    "_descRef": "造成 9 傷害，每命中1個目標抽 2 張牌並獲得 3 層<color=orange>暫時力量</color>",
+    "_descOrigin": "造成 <A> 傷害，每命中1個目標抽 <CDF0> 張<card>並獲得 <CDF1> 層<CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFake": {
+    "title": "Feint",
+    "_titleOrign": "佯攻",
+    "desc": "Deal <A> damage. Gain <CDFCHFT1> equal to <H><CDFVAP1>% damage dealt</H>. Does not use <CDFCHFT0>.",
+    "_descRef": "造成 6 傷害，不使用<color=orange>專注</color>，獲得<color=orange>造成傷害量25%</color>的<color=orange>專注</color>",
+    "_descOrigin": "造成 <A> 傷害，不使用<CDFCHFT0>，獲得<H>造成傷害量<CDFVAP1>%</H>的<CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFake_Plus": {
+    "title": "Feint+",
+    "_titleOrign": "佯攻+",
+    "desc": "Deal <A> damage. Gain <CDFCHFT1> equal to <H><CDFVAP1>% damage dealt</H>. Does not use <CDFCHFT0>.",
+    "_descRef": "造成 8 傷害，不使用<color=orange>專注</color>，獲得<color=orange>造成傷害量50%</color>的<color=orange>專注</color>",
+    "_descOrigin": "造成 <A> 傷害，不使用<CDFCHFT0>，獲得<H>造成傷害量<CDFVAP1>%</H>的<CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFlash": {
+    "title": "Issen",
+    "_titleOrign": "一閃",
+    "desc": "Deal <A> damage. If damage is dealt, keep half your <CDFCHFT0>. If target is killed, keep all your <CDFCHFT1>.",
+    "_descRef": "造成 6 傷害，如果命中目標可保留一半<color=orange>專注</color>，殺死目標可保留全部<color=orange>專注</color>",
+    "_descOrigin": "造成 <A> 傷害，如果命中目標可保留一半<CDFCHFT0>，殺死目標可保留全部<CDFCHFT1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFlash_Plus": {
+    "title": "Issen+",
+    "_titleOrign": "一閃+",
+    "desc": "Deal <A> damage. If damage is dealt, keep half your <CDFCHFT0>. If target is killed, keep all your <CDFCHFT1> and return card to your hand.",
+    "_descRef": "造成 10 傷害，如果命中目標可保留一半<color=orange>專注</color>，殺死目標可保留全部<color=orange>專注</color>，並且此牌回到手中",
+    "_descOrigin": "造成 <A> 傷害，如果命中目標可保留一半<CDFCHFT0>，殺死目標可保留全部<CDFCHFT1>，並且此牌回到手中",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFlurry": {
+    "title": "Flurry",
+    "_titleOrign": "連擊",
+    "desc": "Deal <A> damage <CDF0> times.",
+    "_descRef": "造成 2 傷害，攻擊次數x2",
+    "_descOrigin": "造成 <A> 傷害，攻擊次數x<CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackFlurry_Plus": {
+    "title": "Flurry+",
+    "_titleOrign": "連擊+",
+    "desc": "Deal <A> damage <CDF0> times.",
+    "_descRef": "造成 2 傷害，攻擊次數x3",
+    "_descOrigin": "造成 <A> 傷害，攻擊次數x<CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackHarvest": {
+    "title": "Harvest",
+    "_titleOrign": "收割",
+    "desc": "Deal <A> damage. If target is killed, gain <CDF0> <Energy>.",
+    "_descRef": "造成 4 傷害，如果殺死目標獲得 1 <sprite index=1>",
+    "_descOrigin": "造成 <A> 傷害，如果殺死目標獲得 <CDF0> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackHarvest_Plus": {
+    "title": "Harvest+",
+    "_titleOrign": "收割+",
+    "desc": "Deal <A> damage. If target is killed, gain <CDF0> <Energy> and return card to your hand.",
+    "_descRef": "造成 6 傷害，如果殺死目標獲得 1 <sprite index=1>，並且此牌回到手中",
+    "_descOrigin": "造成 <A> 傷害，如果殺死目標獲得 <CDF0> <Energy>，並且此牌回到手中",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackJump": {
+    "title": "Jump Attack",
+    "_titleOrign": "前躍攻擊",
+    "desc": "Move forward and deal <A> damage. Multiply total damage by <CDF2>.",
+    "_descRef": "向前方躍進並造成 8 傷害，並使本次傷害加乘 1.5 倍",
+    "_descOrigin": "向前方躍進並造成 <A> 傷害，並使本次傷害加乘 <CDF2> 倍",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackJump_Plus": {
+    "title": "Jump Attack+",
+    "_titleOrign": "前躍攻擊+",
+    "desc": "Move forward and deal <A> damage. Multiply total damage by <CDF2>.",
+    "_descRef": "向前方躍進並造成 8 傷害，並使本次傷害加乘 2 倍",
+    "_descOrigin": "向前方躍進並造成 <A> 傷害，並使本次傷害加乘 <CDF2> 倍",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackMultiCombo": {
+    "title": "Combo Finisher",
+    "_titleOrign": "終結技",
+    "desc": "Deal <A> damage per combo count.",
+    "_descRef": "造成 4 傷害 x 連擊數",
+    "_descOrigin": "造成 <A> 傷害 x 連擊數",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackMultiCombo_Plus": {
+    "title": "Combo Finisher+",
+    "_titleOrign": "終結技+",
+    "desc": "Deal <A> damage per combo count.",
+    "_descRef": "造成 6 傷害 x 連擊數",
+    "_descOrigin": "造成 <A> 傷害 x 連擊數",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackParry": {
+    "title": "Parry",
+    "_titleOrign": "招架",
+    "desc": "Deal <A> damage. Gain Block equal to <H>damage dealt</H>.",
+    "_descRef": "造成 6 傷害，並獲得<color=orange>造成傷害量</color>的格擋",
+    "_descOrigin": "造成 <A> 傷害，並獲得<H>造成傷害量</H>的格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackParry_Plus": {
+    "title": "Parry+",
+    "_titleOrign": "招架+",
+    "desc": "Deal <A> damage. Gain Block equal to <H>damage dealt</H>.",
+    "_descRef": "造成 12 傷害，並獲得<color=orange>造成傷害量</color>的格擋",
+    "_descOrigin": "造成 <A> 傷害，並獲得<H>造成傷害量</H>的格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackPlus": {
+    "title": "Heavy Blow",
+    "_titleOrign": "強力攻擊",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 12 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackPlus_Plus": {
+    "title": "Heavy Blow+",
+    "_titleOrign": "強力攻擊+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 20 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackPush": {
+    "title": "Swing",
+    "_titleOrign": "擊退攻擊",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 4 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackPush_Plus": {
+    "title": "Swing+",
+    "_titleOrign": "擊退攻擊+",
+    "desc": "Deal <A> damage.",
+    "_descRef": "造成 8 傷害",
+    "_descOrigin": "造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackQuick": {
+    "title": "Jab",
+    "_titleOrign": "速攻",
+    "desc": "Deal <A> damage, plus <CDF0> additional damage for each <CDFCDT0> in your deck. If damage is dealt, add a copy to your discard pile.",
+    "_descRef": "造成 1 傷害，牌庫中每有1張<color=orange>速攻</color>時傷害增加 1， 攻擊命中後複製1張到棄牌堆",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每有1張<CDFCDT0>時傷害增加 <CDF0>， 攻擊命中後複製1張到棄牌堆",
+    "note": "Once played",
+    "status": ""
+  },
+  "UeCard_AttackQuick_Plus": {
+    "title": "Jab+",
+    "_titleOrign": "速攻+",
+    "desc": "Deal <A> damage, plus <CDF0> additional damage for each <CDFCDT0> in your deck. If damage is dealt, add a copy to your discard pile.",
+    "_descRef": "造成 2 傷害，牌庫中每有1張<color=orange>速攻</color>時傷害增加 1， 攻擊命中後複製1張到棄牌堆",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每有1張<CDFCDT0>時傷害增加 <CDF0>， 攻擊命中後複製1張到棄牌堆",
+    "note": "Once played",
+    "status": ""
+  },
+  "UeCard_AttackRain": {
+    "title": "Heavy Rain",
+    "_titleOrign": "暴雨連擊",
+    "desc": "Deal <A> damage. If damage is dealt, draw a <H>random</H> <CDFCDT0> from the draw pile and reduce its cost to 0 <Energy> this turn.",
+    "_descRef": "造成 8 傷害，命中後從抽牌堆<color=orange>隨機</color>選擇1張<color=orange>暴雨連擊</color>回到手牌，並使其本回合耗能<sprite index=1>降為0",
+    "_descOrigin": "造成 <A> 傷害，命中後從抽牌堆<H>隨機</H>選擇1張<CDFCDT0>回到手牌，並使其本回合耗能<Energy>降為0",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackRain_Plus": {
+    "title": "Heavy Rain+",
+    "_titleOrign": "暴雨連擊+",
+    "desc": "Deal <A> damage. If damage is dealt, draw a <H>random</H> <CDFCDT0> from the draw pile and reduce its cost to 0 <Energy> this turn.",
+    "_descRef": "造成 11 傷害，命中後從抽牌堆<color=orange>隨機</color>選擇1張<color=orange>暴雨連擊</color>回到手牌，並使其本回合耗能<sprite index=1>降為0",
+    "_descOrigin": "造成 <A> 傷害，命中後從抽牌堆<H>隨機</H>選擇1張<CDFCDT0>回到手牌，並使其本回合耗能<Energy>降為0",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackRequireRewards": {
+    "title": "Entertainer",
+    "_titleOrign": "斬首示眾",
+    "desc": "Deal <A> damage. If target is killed, receive rewards from the audience.",
+    "_descRef": "造成 14 傷害，如果殺死目標獲得觀眾獎賞",
+    "_descOrigin": "造成 <A> 傷害，如果殺死目標獲得觀眾獎賞",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackRequireRewardsPlus": {
+    "title": "Entertainer+",
+    "_titleOrign": "斬首示眾+",
+    "desc": "Deal <A> damage. If target is killed, receive rewards from the audience.",
+    "_descRef": "造成 22 傷害，如果殺死目標獲得觀眾獎賞",
+    "_descOrigin": "造成 <A> 傷害，如果殺死目標獲得觀眾獎賞",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackReturnOnMove": {
+    "title": "Follow-up",
+    "_titleOrign": "閃避追擊",
+    "desc": "Deal <A> damage. Whenever you move, return this card from the discard pile to your hand, and reduce its cost to 0 <Energy> this turn.",
+    "_descRef": "造成 2 傷害，主動位移後這張牌將從棄牌堆中回到手牌，並使其本回合耗能<sprite index=1>降為0",
+    "_descOrigin": "造成 <A> 傷害，主動位移後這張牌將從棄牌堆中回到手牌，並使其本回合耗能<Energy>降為0",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackReturnOnMove_Plus": {
+    "title": "Follow-up+",
+    "_titleOrign": "閃避追擊+",
+    "desc": "Deal <A> damage. Whenever you move, return this card from the discard pile to your hand, and reduce its cost to 0 <Energy> this turn.",
+    "_descRef": "造成 5 傷害，主動位移後這張牌將從棄牌堆中回到手牌，並使其本回合耗能<sprite index=1>降為0",
+    "_descOrigin": "造成 <A> 傷害，主動位移後這張牌將從棄牌堆中回到手牌，並使其本回合耗能<Energy>降為0",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackSneak": {
+    "title": "Backstab",
+    "_titleOrign": "偷襲",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 4 傷害，給予 1 層 <color=orange>易傷</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackSneak_Plus": {
+    "title": "Backstab+",
+    "_titleOrign": "偷襲+",
+    "desc": "Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "造成 8 傷害，給予 1 層 <color=orange>易傷</color>",
+    "_descOrigin": "造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackSpike": {
+    "title": "Lunge",
+    "_titleOrign": "突襲",
+    "desc": "Move 1 tile and attack the tile ahead. Deal <A> damage.",
+    "_descRef": "移動1格並對前方造成 6 傷害",
+    "_descOrigin": "移動1格並對前方造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackSpike_Plus": {
+    "title": "Lunge+",
+    "_titleOrign": "突襲+",
+    "desc": "Move 1 tile and attack the tile ahead. Deal <A> damage.",
+    "_descRef": "移動1格並對前方造成 9 傷害",
+    "_descOrigin": "移動1格並對前方造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackThird": {
+    "title": "Swipe",
+    "_titleOrign": "三向攻擊",
+    "desc": "Attack 3 surrounding tiles. Deal <A> damage.",
+    "_descRef": "造成 6 傷害，同時攻擊前方三個方向",
+    "_descOrigin": "造成 <A> 傷害，同時攻擊前方三個方向",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackThird_Plus": {
+    "title": "Swipe+",
+    "_titleOrign": "三向攻擊+",
+    "desc": "Attack 3 surrounding tiles. Deal <A> damage.",
+    "_descRef": "造成 10 傷害，同時攻擊前方三個方向",
+    "_descOrigin": "造成 <A> 傷害，同時攻擊前方三個方向",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackTiredBombo": {
+    "title": "Lash Out",
+    "_titleOrign": "疲勞轟炸",
+    "desc": "Deal <A> damage. Play all <CDFCDT0> in your hand and deal <CDF0> additional damage each.",
+    "_descRef": "造成 6 傷害，自動打出手中所有<color=orange>疲勞</color>，每打出1張<color=orange>疲勞</color>傷害增加 3 ",
+    "_descOrigin": "造成 <A> 傷害，自動打出手中所有<CDFCDT0>，每打出1張<CDFCDT0>傷害增加 <CDF0> ",
+    "note": "花費=>自動打出, 自動打出會觸發打出的效果, 花費不會",
+    "status": ""
+  },
+  "UeCard_AttackTiredBombo_Plus": {
+    "title": "Lash Out+",
+    "_titleOrign": "疲勞轟炸+",
+    "desc": "Deal <A> damage. Play all <CDFCDT0> in your hand and deal <CDF0> additional damage each.",
+    "_descRef": "造成 8 傷害，自動打出手中所有<color=orange>疲勞</color>，每打出1張<color=orange>疲勞</color>傷害增加 4 ",
+    "_descOrigin": "造成 <A> 傷害，自動打出手中所有<CDFCDT0>，每打出1張<CDFCDT0>傷害增加 <CDF0> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackTiredTotal": {
+    "title": "Last Stand",
+    "_titleOrign": "背水一擊",
+    "desc": "Deal <A> damage, plus <CDF0> additional damage for each <CDFCDT0> in your deck.",
+    "_descRef": "造成 8 傷害，牌庫中每有1張<color=orange>疲勞</color>時傷害增加 3",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每有1張<CDFCDT0>時傷害增加 <CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_AttackTiredTotal_Plus": {
+    "title": "Last Stand+",
+    "_titleOrign": "背水一擊+",
+    "desc": "Deal <A> damage, plus <CDF0> additional damage for each <CDFCDT0> in your deck.",
+    "_descRef": "造成 12 傷害，牌庫中每有1張<color=orange>疲勞</color>時傷害增加 4",
+    "_descOrigin": "造成 <A> 傷害，牌庫中每有1張<CDFCDT0>時傷害增加 <CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Defend": {
+    "title": "Guard",
+    "_titleOrign": "格擋",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 4 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Defend_Plus": {
+    "title": "Guard+",
+    "_titleOrign": "格擋+",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 8 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_Defend_ZBandit": {
+    "title": "Ban-Guard",
+    "_titleOrign": "盜賊格擋",
+    "desc": "Gain <D> Block, plus <CDF0> additional Block for each combo. Reduce cost by 1 <Energy> for over <CDF1> combo.",
+    "_descRef": "獲得 2 格擋，每多 1 連擊時格擋增加 1，達到 4 連擊時降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，每多 1 連擊時格擋增加 <CDF0>，達到 <CDF1> 連擊時降低 1 <Energy> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZBandit_Plus": {
+    "title": "Ban-Guard+",
+    "_titleOrign": "盜賊格擋+",
+    "desc": "Gain <D> Block, plus <CDF0> additional Block for each combo. Reduce cost by 1 <Energy> for over <CDF1> combo.",
+    "_descRef": "獲得 4 格擋，每多 1 連擊時格擋增加 2，達到 4 連擊時降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，每多 1 連擊時格擋增加 <CDF0>，達到 <CDF1> 連擊時降低 1 <Energy> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZHunter": {
+    "title": "Hun-Guard",
+    "_titleOrign": "獵人格擋",
+    "desc": "Gain <D> Block. Draw <CDF0> <card> by reload.",
+    "_descRef": "獲得 4 格擋，使用於裝填時抽 1 張牌",
+    "_descOrigin": "獲得 <D> 格擋，使用於裝填時抽 <CDF0> 張<card>",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZHunter_Plus": {
+    "title": "Hun-Guard+",
+    "_titleOrign": "獵人格擋+",
+    "desc": "Gain <D> Block. Draw <CDF0> <card> by reload.",
+    "_descRef": "獲得 8 格擋，使用於裝填時抽 2 張牌",
+    "_descOrigin": "獲得 <D> 格擋，使用於裝填時抽 <CDF0> 張<card>",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZMercenary": {
+    "title": "Mer-Guard",
+    "_titleOrign": "傭兵格擋",
+    "desc": "Gain <D> Block, plus 1 additional Bloack for each <CDF0> <H>same color defend</H> <combatCard> in your deck.",
+    "_descRef": "獲得 3 格擋，牌庫中每擁有 2 張<color=orange>同顏色格擋用</color>的<color=orange>戰鬥牌</color>時格擋增加 1",
+    "_descOrigin": "獲得 <D> 格擋，牌庫中每擁有 <CDF0> 張<H>同顏色格擋用</H>的<combatCard>時格擋增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZMercenary_Plus": {
+    "title": "Mer-Guard+",
+    "_titleOrign": "傭兵格擋+",
+    "desc": "Gain <D> Block, plus 1 additional Bloack for each <CDF0> <H>same color defend</H> <combatCard> in your deck.",
+    "_descRef": "獲得 5 格擋，牌庫中每擁有 1 張<color=orange>同顏色格擋用</color>的<color=orange>戰鬥牌</color>時格擋增加 1",
+    "_descOrigin": "獲得 <D> 格擋，牌庫中每擁有 <CDF0> 張<H>同顏色格擋用</H>的<combatCard>時格擋增加 1",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZPyromancer": {
+    "title": "Pyr-Guard",
+    "_titleOrign": "燃燒者格擋",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 3 格擋，獲得 1 層 <color=orange>火焰屏障</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZPyromancer_Plus": {
+    "title": "Pyr-Guard+",
+    "_titleOrign": "燃燒者格擋+",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 7 格擋，獲得 2 層 <color=orange>火焰屏障</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZSamurai": {
+    "title": "Sam-Guard",
+    "_titleOrign": "武者格擋",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 4 格擋，獲得 1 層 <color=orange>專注</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZSamurai_Plus": {
+    "title": "Sam-Guard+",
+    "_titleOrign": "武者格擋+",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 8 格擋，獲得 2 層 <color=orange>專注</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZWarrior": {
+    "title": "War-Guard",
+    "_titleOrign": "戰士格擋",
+    "desc": "Gain <D> Block. Reduce cost by 1 <Energy> for has greater than <CDF0> <card> in your hand.",
+    "_descRef": "獲得 4 格擋，手牌數大於 5 張時降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，手牌數大於 <CDF0> 張時降低 1 <Energy> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_Defend_ZWarrior_Plus": {
+    "title": "War-Guard+",
+    "_titleOrign": "戰士格擋+",
+    "desc": "Gain <D> Block. Reduce cost by 1 <Energy> for has greater than <CDF0> <card> in your hand.",
+    "_descRef": "獲得 8 格擋，手牌數大於 4 張時降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，手牌數大於 <CDF0> 張時降低 1 <Energy> ",
+    "note": "",
+    "status": "New"
+  },
+  "UeCard_DefendAddDefByRetain": {
+    "title": "Watchful",
+    "_titleOrign": "戰況分析",
+    "desc": "Gain <D><TMPFB> Block. Increase gained Block by <CDF1> each time the card is retained this fight.",
+    "_descRef": "獲得 4<color=orange>(+0)</color> 格擋，每當這張牌被保留時，其在本場戰鬥中的格擋增加 1",
+    "_descOrigin": "獲得 <D><TMPFB> 格擋，每當這張牌被保留時，其在本場戰鬥中的格擋增加 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendAddDefByRetain_Plus": {
+    "title": "Watchful+",
+    "_titleOrign": "戰況分析+",
+    "desc": "Gain <D><TMPFB> Block. Increase gained Block by <CDF1> each time the card is retained this fight.",
+    "_descRef": "獲得 6<color=orange>(+0)</color> 格擋，每當這張牌被保留時，其在本場戰鬥中的格擋增加 2",
+    "_descOrigin": "獲得 <D><TMPFB> 格擋，每當這張牌被保留時，其在本場戰鬥中的格擋增加 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendAlert": {
+    "title": "Defend",
+    "_titleOrign": "戒備",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 10 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendAlert_Plus": {
+    "title": "Defend+",
+    "_titleOrign": "戒備+",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 14 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendCostDown": {
+    "title": "Perception",
+    "_titleOrign": "看破",
+    "desc": "Gain <D> Block. Reduce cost by <CDF0> <Energy> each time you lose HP this fight.",
+    "_descRef": "獲得 10 格擋，每當這場戰鬥中受到傷害就降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，每當這場戰鬥中受到傷害就降低 <CDF0> <Energy> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendCostDown_Plus": {
+    "title": "Perception+",
+    "_titleOrign": "看破+",
+    "desc": "Gain <D> Block. Reduce cost by <CDF0> <Energy> each time you lose HP this fight.",
+    "_descRef": "獲得 16 格擋，每當這場戰鬥中受到傷害就降低 1 <sprite index=1> ",
+    "_descOrigin": "獲得 <D> 格擋，每當這場戰鬥中受到傷害就降低 <CDF0> <Energy> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDiscardToDraw": {
+    "title": "Breathing Technique",
+    "_titleOrign": "調整呼吸",
+    "desc": "Gain <D> Block. Return a card from your discard pile to your draw pile.",
+    "_descRef": "獲得 5 格擋，從棄牌堆選擇1張牌回到抽牌堆",
+    "_descOrigin": "獲得 <D> 格擋，從棄牌堆選擇1張牌回到抽牌堆",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDiscardToDraw_Plus": {
+    "title": "Breathing Technique+",
+    "_titleOrign": "調整呼吸+",
+    "desc": "Gain <D> Block. Return a card from your discard pile to the top of your draw pile.",
+    "_descRef": "獲得 8 格擋，從棄牌堆選擇1張牌回到抽牌堆頂端",
+    "_descOrigin": "獲得 <D> 格擋，從棄牌堆選擇1張牌回到抽牌堆頂端",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDraw": {
+    "title": "Vigilant",
+    "_titleOrign": "伺機而動",
+    "desc": "Gain <D> Block. Draw <CDF0> <card>.",
+    "_descRef": "獲得 6 格擋，並抽 1 張牌",
+    "_descOrigin": "獲得 <D> 格擋，並抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDraw_Plus": {
+    "title": "Vigilant+",
+    "_titleOrign": "伺機而動+",
+    "desc": "Gain <D> Block. Draw <CDF0> <card>.",
+    "_descRef": "獲得 10 格擋，並抽 2 張牌",
+    "_descOrigin": "獲得 <D> 格擋，並抽 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDropDrawHands": {
+    "title": "Refocus",
+    "_titleOrign": "重整架勢",
+    "desc": "Gain <D> Block. Discard your hand. For each card discarded, draw 1 card, and gain <CDF2> additional Block.",
+    "_descRef": "獲得 5 格擋，丟棄所有手牌，每丟棄1張牌，獲得 1 格擋，抽1張牌",
+    "_descOrigin": "獲得 <D> 格擋，丟棄所有手牌，每丟棄1張牌，獲得 <CDF2> 格擋，抽1張牌",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendDropDrawHands_Plus": {
+    "title": "Refocus+",
+    "_titleOrign": "重整架勢+",
+    "desc": "Gain <D> Block. Discard your hand. For each card discarded, draw 1 card, and gain <CDF2> additional Block.",
+    "_descRef": "獲得 7 格擋，丟棄所有手牌，每丟棄1張牌，獲得 2 格擋，抽1張牌",
+    "_descOrigin": "獲得 <D> 格擋，丟棄所有手牌，每丟棄1張牌，獲得 <CDF2> 格擋，抽1張牌",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendFullDef": {
+    "title": "Fortify",
+    "_titleOrign": "完全防禦",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 30 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendFullDef_Plus": {
+    "title": "Fortify+",
+    "_titleOrign": "完全防禦+",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 45 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendHoldShield": {
+    "title": "Raise Shield",
+    "_titleOrign": "舉盾",
+    "desc": "Gain <D><TMPFB> Block. Increase gained Block by <CDF0> each time the card is played this fight.",
+    "_descRef": "獲得 3<color=orange>(+0)</color> 格擋，這張牌每打出一次，在本場戰鬥中其格擋增加 2",
+    "_descOrigin": "獲得 <D><TMPFB> 格擋，這張牌每打出一次，在本場戰鬥中其格擋增加 <CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendHoldShield_Plus": {
+    "title": "Raise Shield+",
+    "_titleOrign": "舉盾+",
+    "desc": "Gain <D><TMPFB> Block. Increase gained Block by <CDF0> each time the card is played this fight.",
+    "_descRef": "獲得 5<color=orange>(+0)</color> 格擋，這張牌每打出一次，在本場戰鬥中其格擋增加 3",
+    "_descOrigin": "獲得 <D><TMPFB> 格擋，這張牌每打出一次，在本場戰鬥中其格擋增加 <CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendMultiDefByNeighbors": {
+    "title": "Stand Your Ground",
+    "_titleOrign": "無懼圍攻",
+    "desc": "Gain <D> Block for each surrounding unit.",
+    "_descRef": "獲得 7 格擋 x 周圍單位數量",
+    "_descOrigin": "獲得 <D> 格擋 x 周圍單位數量",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendMultiDefByNeighbors_Plus": {
+    "title": "Stand Your Ground+",
+    "_titleOrign": "無懼圍攻+",
+    "desc": "Gain <D> Block for each surrounding unit.",
+    "_descRef": "獲得 9 格擋 x 周圍單位數量",
+    "_descOrigin": "獲得 <D> 格擋 x 周圍單位數量",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendPlus": {
+    "title": "Deflect",
+    "_titleOrign": "強力格擋",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 14 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendPlus_Plus": {
+    "title": "Deflect+",
+    "_titleOrign": "強力格擋+",
+    "desc": "Gain <D> Block.",
+    "_descRef": "獲得 20 格擋",
+    "_descOrigin": "獲得 <D> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendReturnAttack": {
+    "title": "Repel",
+    "_titleOrign": "盾反",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 5 格擋，獲得 1 層 <color=orange>盾反</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DefendReturnAttack_Plus": {
+    "title": "Repel+",
+    "_titleOrign": "盾反+",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 9 格擋，獲得 2 層 <color=orange>盾反</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DeffendAddFocusOnUnderDmg": {
+    "title": "Blood for Blood",
+    "_titleOrign": "以牙還牙",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>. Discard <CDF0> <card>.",
+    "_descRef": "獲得 7 格擋，獲得 1 層 <color=orange>以牙還牙</color> ，棄 1 張牌",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ，棄 <CDF0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "UeCard_DeffendAddFocusOnUnderDmg_Plus": {
+    "title": "Blood for Blood+",
+    "_titleOrign": "以牙還牙+",
+    "desc": "Gain <D> Block. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 10 格擋，獲得 1 層 <color=orange>以牙還牙</color> ",
+    "_descOrigin": "獲得 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddCardOnDrawStatus": {
+    "title": "<CHFSK0>",
+    "_titleRef": "加速代謝",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每當抽到<color=orange>狀態牌</color>時，再抽 1 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddCardOnDrawStatus_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "加速代謝+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "每當抽到<color=orange>狀態牌</color>時，再抽 1 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddDefOnPlayStatus": {
+    "title": "<CHFSK0>",
+    "_titleRef": "代謝盾牌",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每打出1張<color=orange>狀態牌</color>，獲得 3 層格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddDefOnPlayStatus_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "代謝盾牌+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "每打出1張<color=orange>狀態牌</color>，獲得 4 層格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddDmgByDeathFlag": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狩魔獵人",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "當攻擊目標有<color=orange>死亡標記</color>時，造成的傷害提升 25%",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddDmgByDeathFlag_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "狩魔獵人+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "當攻擊目標有<color=orange>死亡標記</color>時，造成的傷害提升 50%",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddFocusOnAddBlock": {
+    "title": "<CHFSK0>",
+    "_titleRef": "弱點觀察",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每當獲得格擋時，額外獲得 1 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddFocusOnAddBlock_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "弱點觀察+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "每當獲得格擋時，額外獲得 2 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddFocusOnRoundSt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "集中精神",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每回合開始時獲得 2 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_AddFocusOnRoundSt_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "集中精神+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "每回合開始時獲得 4 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnMan": {
+    "title": "<CHFSK0>",
+    "_titleRef": "火焰護盾",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0> <CHFSD1>",
+    "_descRef": "回合結束時站在<color=orange>燃燒之地</color>，獲得 3 層格擋，免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "<CHFSD0>，<CHFSD1>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnMan_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "火焰護盾+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0> <CHFSD1>",
+    "_descRef": "回合結束時站在<color=orange>燃燒之地</color>，獲得 5 層格擋，免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "<CHFSD0>，<CHFSD1>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnShooter": {
+    "title": "<CHFSK0>",
+    "_titleRef": "火焰射手",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中 4 次後，交換1張<color=orange>小火球</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnShooter_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "火焰射手+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中 3 次後，交換1張<color=orange>小火球</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnWeapon": {
+    "title": "<CHFSK0>",
+    "_titleRef": "火焰武器",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "攻擊命中後，給予 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_BurnWeapon_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "火焰武器+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "攻擊命中後，給予 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DarkSouls": {
+    "title": "<CHFSK0>",
+    "_titleRef": "黑暗靈魂",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中 6 次後，交換1張<color=orange>黑暗翻滾</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DarkSouls_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "黑暗靈魂+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中 5 次後，交換1張<color=orange>黑暗翻滾</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DempseyRoll": {
+    "title": "<CHFSK0>",
+    "_titleRef": "輪擺位移",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "主動位移後獲得 2 層 <color=orange>暫時力量</color>，獲得 2 格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DempseyRoll_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "輪擺位移+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "主動位移後獲得 3 層 <color=orange>暫時力量</color>，獲得 3 格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DrawCardsByDstHasFlag": {
+    "title": "<CHFSK0>",
+    "_titleRef": "殺手本能",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中並給予<color=orange>出血</color> 2 次後，抽1張牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_DrawCardsByDstHasFlag_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "殺手本能+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "累積攻擊命中並給予<color=orange>出血</color> 2 次後，抽1張牌，疊加可降低需求次數",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_KeepBlock": {
+    "title": "<CHFSK0>",
+    "_titleRef": "不動如山",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "在你的回合時如果沒有主動移動過，該回合格擋將不會歸零",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_KeepBlock_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "不動如山+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "在你的回合時如果沒有主動移動過，該回合格擋將不會歸零",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_KeepNoAttack": {
+    "title": "<CHFSK0>",
+    "_titleRef": "觀察戰場",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "在你的回合時如果沒有主動攻擊過，下回合額外獲得 1 能量<sprite index=1>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_KeepNoAttack_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "觀察戰場+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "在你的回合時如果沒有主動攻擊過，下回合額外獲得 1 能量<sprite index=1>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_Reflex": {
+    "title": "<CHFSK0>",
+    "_titleRef": "本能閃避",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "攻擊命中後，獲得 2 層格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_Reflex_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "本能閃避+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "攻擊命中後，獲得 3 層格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_RollReload": {
+    "title": "<CHFSK0>",
+    "_titleRef": "翻滾裝填",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "主動位移後自動裝填手中的裝備，並抽 1 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_RollReload_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "翻滾裝填+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "主動位移後自動裝填手中的裝備，並抽 1 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_Sharp": {
+    "title": "<CHFSK0>",
+    "_titleRef": "鋒利",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "造成未被格擋的傷害時，給予 1 層<color=orange>出血</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "PowerCard_Sharp_Plus": {
+    "title": "<CHFSK0>+",
+    "_titleRef": "鋒利+",
+    "_titleOrign": "<CHFSK0>+",
+    "desc": "<CHFSD0>",
+    "_descRef": "造成未被格擋的傷害時，給予 1 層<color=orange>出血</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Distract": {
+    "title": "Distracted",
+    "_titleOrign": "恍神",
+    "desc": "Whenever this card is drawn, receive <CHFSA0> <CHFSK0>.",
+    "_descRef": "如果抽到這張牌時，獲得 1 層 <color=orange>易傷</color> ",
+    "_descOrigin": "如果抽到這張牌時，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Freeze": {
+    "title": "Frostbite",
+    "_titleOrign": "凍傷",
+    "desc": "Does nothing.",
+    "_descRef": "無效果",
+    "_descOrigin": "無效果",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Hesitation": {
+    "title": "Hesitation",
+    "_titleOrign": "猶豫",
+    "desc": "At the end of your turn, permanently reduce cost by <CDF1> <Energy>.",
+    "_descRef": "這張牌的耗能<sprite index=1>在回合結束時永久減少 1",
+    "_descOrigin": "這張牌的耗能<Energy>在回合結束時永久減少 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Injury": {
+    "title": "Injury",
+    "_titleOrign": "受傷",
+    "desc": "Does nothing.",
+    "_descRef": "無效果",
+    "_descOrigin": "無效果",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Lighting": {
+    "title": "Shock",
+    "_titleOrign": "電流",
+    "desc": "Whenever this card is in your hand, take <A> direct damage each time you play a card.",
+    "_descRef": "如果在手中，每打出1張牌時受到 1 直接傷害",
+    "_descOrigin": "如果在手中，每打出1張牌時受到 <A> 直接傷害",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_MuscleAche": {
+    "title": "Muscle Pain",
+    "_titleOrign": "肌肉疼痛",
+    "desc": "At the end of your turn, permanently reduce cost by <CDF1> <Energy>.",
+    "_descRef": "這張牌的耗能<sprite index=1>在回合結束時永久減少 1",
+    "_descOrigin": "這張牌的耗能<Energy>在回合結束時永久減少 <CDF1>",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Scare": {
+    "title": "Fear",
+    "_titleOrign": "恐懼",
+    "desc": "Whenever this card is drawn, increase the cost of a random card in your hand by 1 <Energy> for 1 turn.",
+    "_descRef": "如果抽到這張牌時，使隨機1張手牌耗能<sprite index=1>增加 1，持續1回合",
+    "_descOrigin": "如果抽到這張牌時，使隨機<CDF1>張手牌耗能<Energy>增加 1，持續1回合",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Shame": {
+    "title": "Shame",
+    "_titleOrign": "羞愧",
+    "desc": "Does nothing.",
+    "_descRef": "無效果",
+    "_descOrigin": "無效果",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Slime": {
+    "title": "Slime",
+    "_titleOrign": "黏液",
+    "desc": "Whenever this card is in your hand, increase cost of all movement cards by 1 <Energy>. Cannot be stacked.",
+    "_descRef": "如果在手中，造成有移動效果牌的耗能<sprite index=1>增加 1",
+    "_descOrigin": "如果在手中，造成有移動效果牌的耗能<Energy>增加 1",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Stun": {
+    "title": "Stun",
+    "_titleOrign": "暈眩",
+    "desc": "Whenever this card is in your hand, increase cost of all movement cards by 1 <Energy>. Cannot be stacked.",
+    "_descRef": "如果在手中，造成有移動效果牌的耗能<sprite index=1>增加 1",
+    "_descOrigin": "如果在手中，造成有移動效果牌的耗能<Energy>增加 1",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Tired": {
+    "title": "Fatigue",
+    "_titleOrign": "疲勞",
+    "desc": "Does nothing.",
+    "_descRef": "無效果",
+    "_descOrigin": "無效果",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_TummyAche": {
+    "title": "Stomach Ache",
+    "_titleOrign": "肚子痛",
+    "desc": "Whenever this card is drawn, receive <CHFSA0> <CHFSK0>.",
+    "_descRef": "如果抽到這張牌時，獲得 1 層 <color=orange>虛弱</color> ",
+    "_descOrigin": "如果抽到這張牌時，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_WhipPain": {
+    "title": "Sore",
+    "_titleOrign": "抽痛",
+    "desc": "Whenever this card is drawn, receive <CHFSA0> <CHFSK0>.",
+    "_descRef": "如果抽到這張牌時，獲得 1 層 <color=orange>暫時喪失力量</color> ",
+    "_descOrigin": "如果抽到這張牌時，獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "StaCard_Wound": {
+    "title": "Wound",
+    "_titleOrign": "傷口",
+    "desc": "At the end of your turn, take 1 direct damage <H>for each Wound</H> in your hand.",
+    "_descRef": "回合結束時仍在手中將受到直接傷害，每多1張<color=orange>傷口</color>時傷害增加 1",
+    "_descOrigin": "回合結束時仍在手中將受到直接傷害，每多1張<H>傷口</H>時傷害增加 1",
+    "note": "",
+    "status": ""
+  },
+  "SpeCard_FinalExecute": {
+    "title": "處決",
+    "_titleOrign": "處決",
+    "desc": "處決目標",
+    "_descRef": "處決目標",
+    "_descOrigin": "處決目標",
+    "note": "",
+    "status": "New"
+  }
+}

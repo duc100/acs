@@ -1,0 +1,50 @@
+{
+  "StartClassBandit": {
+    "title": "Bandit",
+    "_titleOrign": "盜賊",
+    "note": "",
+    "status": ""
+  },
+  "StartClassGeneral": {
+    "title": "Slave",
+    "_titleOrign": "奴隸鬥士",
+    "note": "",
+    "status": ""
+  },
+  "StartClassHunter": {
+    "title": "Hunter",
+    "_titleOrign": "獵人",
+    "note": "",
+    "status": ""
+  },
+  "StartClassMercenary": {
+    "title": "Mercenary",
+    "_titleOrign": "傭兵",
+    "note": "",
+    "status": ""
+  },
+  "StartClassNothing": {
+    "title": "Deprived",
+    "_titleOrign": "一無所有",
+    "note": "",
+    "status": ""
+  },
+  "StartClassPyromancer": {
+    "title": "Pyromancer",
+    "_titleOrign": "燃燒者",
+    "note": "",
+    "status": ""
+  },
+  "StartClassSamurai": {
+    "title": "Samurai",
+    "_titleOrign": "武者",
+    "note": "",
+    "status": ""
+  },
+  "StartClassWarrior": {
+    "title": "Warrior",
+    "_titleOrign": "戰士",
+    "note": "",
+    "status": ""
+  }
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "key": "GPE_Fight",
+    "value": "Fight",
+    "_valueOrign": "戰鬥",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Elite",
+    "value": "Elite",
+    "_valueOrign": "精英",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_FinalBoss",
+    "value": "Final Boss",
+    "_valueOrign": "最終魔王",
+    "note": "這隻登場比較特別，不算Champion",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Boss",
+    "value": "Champion",
+    "_valueOrign": "場主",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Store",
+    "value": "Shop",
+    "_valueOrign": "黑市",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Rest",
+    "value": "Rest",
+    "_valueOrign": "休息",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Meditation",
+    "value": "Meditate",
+    "_valueOrign": "冥想",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Event",
+    "value": "Event",
+    "_valueOrign": "事件",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_LaunchStore",
+    "value": "Mystery Shop",
+    "_valueOrign": "神祕商店",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Fight",
+    "value": "Enter a fight.",
+    "_valueOrign": "挑戰一般戰鬥",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Elite",
+    "value": "Enter an Elite fight.",
+    "_valueOrign": "挑戰精英",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Boss",
+    "value": "Enter a Champion fight.",
+    "_valueOrign": "挑戰場主",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Store",
+    "value": "Buy [Cards] or [Items].",
+    "_valueOrign": "選擇 [卡片商人] [裝備商人]",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Rest",
+    "value": "Choose to [Heal] or [Train].",
+    "_valueOrign": "選擇 [療傷] 或 [鍛鍊]",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Meditation",
+    "value": "Choose to [Create], [Forget], or [Switch].",
+    "_valueOrign": "選擇 [創造] [遺忘] [交換]",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_Event",
+    "value": "Encounter a random event.",
+    "_valueOrign": "遭遇隨機事件",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_LaunchStore",
+    "value": "A mysterious shop inside the arena.",
+    "_valueOrign": "鬥技場內的神祕商店",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_HealByLastEvent",
+    "value": "Challenge Now",
+    "_valueOrign": "加速通關獎勵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GPE_Desc_HealByLastEvent",
+    "value": "Go straight for the champion, and restore {0} HP for each remaining encounter. You will restore {1} HP in total.",
+    "_valueOrign": "剩餘關卡每個可回復{0}血量，\n目前總計可回復{1}血量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_HandCardsFull",
+    "value": "Your hand is full. You can't draw any more cards.",
+    "_valueOrign": "手牌達到上限，無法再拿更多牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_CantMoveByStruggling",
+    "value": "Snagged. You can't move!",
+    "_valueOrign": "纏身，無法移動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_CantMoveByFreezeMove",
+    "value": "Immobilized. You can't move!",
+    "_valueOrign": "禁錮，無法移動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_NoEnoughEnergy",
+    "value": "Not enough Energy.",
+    "_valueOrign": "沒有足夠能量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MGS_Unplayable",
+    "value": "You cannot play this card.",
+    "_valueOrign": "不能主動打出",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_NeedReload",
+    "value": "Select yourself to Reload.",
+    "_valueOrign": "點選角色來進行裝填",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_CantAddBlock",
+    "value": "You cannot gain any Block.",
+    "_valueOrign": "無法獲得格擋值",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_DisableRemoveCard",
+    "value": "You cannot remove cards.",
+    "_valueOrign": "功能被限制，無法使用",
+    "note": "商店and冥想，移除卡片功能因為飾品不能用時",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_DisableUnequip",
+    "value": "Cannot Unequip",
+    "_valueOrign": "無法取下",
+    "note": "詛咒裝備",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_CantSwapUsedEquipment",
+    "value": "Weapons used this turn cannot be unequipped.",
+    "_valueOrign": "使用過的裝備本回合無法更換",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_AddAttPower",
+    "value": "Damage Increased",
+    "_valueOrign": "提升傷害",
+    "note": "特殊武器擊殺後會加1傷害",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_ReloadNeedSelect",
+    "value": "Please select a Combat card of the same color to reload.",
+    "_valueOrign": "請先選擇同色戰鬥牌再進行裝填",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_ReloadErrorSelected",
+    "value": "Only Combat cards of the same color can be used to reload.",
+    "_valueOrign": "只能使用同色戰鬥牌進行裝填",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MSG_DisableDraw",
+    "value": "Cannot Draw",
+    "_valueOrign": "無法抽牌",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KW_Increase",
+    "value": "Power Move Effect<sprite name=Increase>",
+    "_valueOrign": "技能啟動後<sprite name=Increase>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FightSettingBoth",
+    "value": "{0} + {1}",
+    "_valueOrign": "{0} 與 {1}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FightSettingGroup",
+    "value": "{0} mix",
+    "_valueOrign": "{0}組合",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GameEvent_ConditionsNoPass",
+    "value": "Unqualified",
+    "_valueOrign": "不符條件",
+    "note": "事件時選項(要賣手中武器時，沒有武器的情境)",
+    "isChanged": false
+  },
+  {
+    "key": "GameDifficulty_General",
+    "value": "Veteran",
+    "_valueOrign": "鬥士",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GameDifficulty_Rookie",
+    "value": "Rookie",
+    "_valueOrign": "新秀",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GameDifficulty_Challenge",
+    "value": "Hellwalker",
+    "_valueOrign": "惡夢",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GameDifficulty_Hard",
+    "value": "Warlord",
+    "_valueOrign": "老將",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GameMode_Hardcore",
+    "value": "Hardcore Mode",
+    "_valueOrign": "專家",
+    "note": "",
+    "isChanged": false
+  }
+]

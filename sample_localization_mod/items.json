@@ -1,0 +1,1971 @@
+{
+  "EquipCard_AxeDH": {
+    "title": "Demon Slayer Axe",
+    "_titleOrign": "狩魔斧",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 3 傷害，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeDmg": {
+    "title": "Battle Axe",
+    "_titleOrign": "戰斧",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 4 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeDmgInc": {
+    "title": "Battle Axe+",
+    "_titleOrign": "戰斧+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 4 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Increase <CDF1> additional damage.",
+    "_increaseDescRef": "額外增強 4 傷害 ",
+    "_increaseDescOrigin": "額外增強 <CDF1> 傷害 ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeExtraBurn": {
+    "title": "Flaming Axe",
+    "_titleOrign": "烈焰斧",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 3 傷害，給予 1 層 <color=orange>燃燒</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeExtraBurnInc": {
+    "title": "Flaming Axe+",
+    "_titleOrign": "烈焰斧+",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 3 傷害，給予 1 層 <color=orange>燃燒</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "increaseDesc": "Change attack range to a frontal diamond.",
+    "_increaseDescRef": "攻擊範圍變成前方菱形",
+    "_increaseDescOrigin": "攻擊範圍變成前方菱形",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeNormal": {
+    "title": "Hand Axe",
+    "_titleOrign": "手斧",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeParry": {
+    "title": "Stone Axe",
+    "_titleOrign": "鐵甲斧",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxeParryInc": {
+    "title": "Stone Axe+",
+    "_titleOrign": "鐵甲斧+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Gain Block <H>equal to damage dealt</H>.",
+    "_increaseDescRef": "獲得<color=orange>造成傷害量</color>的格擋",
+    "_increaseDescOrigin": "獲得<H>造成傷害量</H>的格擋",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxePush": {
+    "title": "Broad Axe",
+    "_titleOrign": "重斧",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_AxePushInc": {
+    "title": "Broad Axe+",
+    "_titleOrign": "重斧+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Deal Knockback.",
+    "_increaseDescRef": "擊退敵人1格",
+    "_increaseDescOrigin": "擊退敵人1格",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowContinue": {
+    "title": "Black Bow",
+    "_titleOrign": "黑弓",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is within 1 tile.",
+    "_descRef": "增強 2 傷害，射程 3 格，攻擊距離1格以內的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊距離1格以內的敵人時，傷害加乘 <CDF3> 倍",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowContinueInc": {
+    "title": "Black Bow+",
+    "_titleOrign": "黑弓+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is within 1 tile.",
+    "_descRef": "增強 2 傷害，射程 3 格，攻擊距離1格以內的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊距離1格以內的敵人時，傷害加乘 <CDF3> 倍",
+    "increaseDesc": "Automatically reload. If damage is dealt, draw <CDF5> <card>.",
+    "_increaseDescRef": "攻擊後自動裝填，如果命中目標抽 1 張牌",
+    "_increaseDescOrigin": "攻擊後自動裝填，如果命中目標抽 <CDF5> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowMax": {
+    "title": "Max's Bow",
+    "_titleOrign": "馬克斯弓",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is 3 tiles or beyond.",
+    "_descRef": "增強 2 傷害，射程 4 格，攻擊距離3格以外的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊距離3格以外的敵人時，傷害加乘 <CDF3> 倍",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowMaxInc": {
+    "title": "Max's Bow+",
+    "_titleOrign": "馬克斯弓+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is 3 tiles or beyond.",
+    "_descRef": "增強 2 傷害，射程 4 格，攻擊距離3格以外的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊距離3格以外的敵人時，傷害加乘 <CDF3> 倍",
+    "increaseDesc": "Shoot through multiple targets. Draw <CDF4> <card> for each enemy attacked.",
+    "_increaseDescRef": "可貫穿複數目標，每命中1個目標抽 1 張牌",
+    "_increaseDescOrigin": "可貫穿複數目標，每命中1個目標抽 <CDF4> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowNormal": {
+    "title": "Short Bow",
+    "_titleOrign": "短弓",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 1 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowPush": {
+    "title": "Recurve Bow",
+    "_titleOrign": "反曲弓",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is <CDFCHFT3>.",
+    "_descRef": "增強 3 傷害，射程 3 格，攻擊被<color=orange>禁錮</color>的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊被<CDFCHFT3>的敵人時，傷害加乘 <CDF3> 倍",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_BowPushInc": {
+    "title": "Recurve Bow+",
+    "_titleOrign": "反曲弓+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Deal <CDF3>X damage if target is <CDFCHFT3>.",
+    "_descRef": "增強 3 傷害，射程 3 格，攻擊被<color=orange>禁錮</color>的敵人時，傷害加乘 1.25 倍",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，攻擊被<CDFCHFT3>的敵人時，傷害加乘 <CDF3> 倍",
+    "increaseDesc": "Deal Knockback.",
+    "_increaseDescRef": "擊退敵人1格",
+    "_increaseDescOrigin": "擊退敵人1格",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowBasic": {
+    "title": "Rusty Crossbow",
+    "_titleOrign": "破舊弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 1 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowCombo": {
+    "title": "Repeating Crossbow",
+    "_titleOrign": "連弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowComboInc": {
+    "title": "Repeating Crossbow+",
+    "_titleOrign": "連弩+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "increaseDesc": "Attack <CDF2> times.",
+    "_increaseDescRef": "攻擊次數 x2",
+    "_increaseDescOrigin": "攻擊次數 x<CDF2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowDH": {
+    "title": "Demon Slayer Crossbow",
+    "_titleOrign": "狩魔弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 2 傷害，射程 3 格，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowNormal": {
+    "title": "Crossbow",
+    "_titleOrign": "弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowPush": {
+    "title": "Heavy Crossbow",
+    "_titleOrign": "重弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowPushInc": {
+    "title": "Heavy Crossbow+",
+    "_titleOrign": "重弩+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 3 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "increaseDesc": "Increase <CDF3> additional damage. Deal Knockback.",
+    "_increaseDescRef": "額外增強 2 傷害 ，擊退敵人1格",
+    "_increaseDescOrigin": "額外增強 <CDF3> 傷害 ，擊退敵人1格",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowThrough": {
+    "title": "Compound Crossbow",
+    "_titleOrign": "強弩",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 4 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_CrossBowThroughInc": {
+    "title": "Compound Crossbow+",
+    "_titleOrign": "強弩+",
+    "desc": "Increase damage by <A>. Attack up to <WMR> <tile>.",
+    "_descRef": "增強 2 傷害，射程 4 格",
+    "_descOrigin": "增強 <A> 傷害，射程 <WMR> <tile>",
+    "increaseDesc": "Shoot through multiple targets. Draw <CDF2> <card> for each enemy attacked.",
+    "_increaseDescRef": "可貫穿複數目標，每命中1個目標抽 1 張牌",
+    "_increaseDescOrigin": "可貫穿複數目標，每命中1個目標抽 <CDF2> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerBasic": {
+    "title": "Rusty Dagger",
+    "_titleOrign": "破舊匕首",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerCombo": {
+    "title": "Knuckle Dagger",
+    "_titleOrign": "拳刃",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerComboInc": {
+    "title": "Knuckle Dagger+",
+    "_titleOrign": "拳刃+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Deal damage <CDF0> times.",
+    "_increaseDescRef": "攻擊次數 x2",
+    "_increaseDescOrigin": "攻擊次數 x<CDF0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerDH": {
+    "title": "Demon Slayer Dagger",
+    "_titleOrign": "狩魔短刃",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 1 傷害，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerEXCombo": {
+    "title": "Triple Fists",
+    "_titleOrign": "拳刃參式",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerEXComboInc": {
+    "title": "Triple Fists+",
+    "_titleOrign": "拳刃參式+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Deal damage <CDF0> times for an additonal 1 <Energy>.",
+    "_increaseDescRef": "攻擊次數 x3，但增加1耗能",
+    "_increaseDescOrigin": "攻擊次數 x<CDF0>，但增加1耗能",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerNormal": {
+    "title": "Dagger",
+    "_titleOrign": "匕首",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerNormalInc": {
+    "title": "Dagger+",
+    "_titleOrign": "匕首+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Increase <CDF1> additional damage.",
+    "_increaseDescRef": "額外增強 1 傷害 ",
+    "_increaseDescOrigin": "額外增強 <CDF1> 傷害 ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerPierce": {
+    "title": "Mail Breaker",
+    "_titleOrign": "破甲尖刃",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerPierceInc": {
+    "title": "Mail Breaker+",
+    "_titleOrign": "破甲尖刃+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Deal Piercing damage.",
+    "_increaseDescRef": "無視格擋直接造成傷害",
+    "_increaseDescOrigin": "無視格擋直接造成傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerSharp": {
+    "title": "Sharpened Dagger",
+    "_titleOrign": "鋒利匕首",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_DaggerSharpInc": {
+    "title": "Sharpened Dagger+",
+    "_titleOrign": "鋒利匕首+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Increase applied <CDFCHFT0> to <CDF0>.",
+    "_increaseDescRef": "<color=orange>出血</color>增加為 3 層",
+    "_increaseDescOrigin": "<CDFCHFT0>增加為 <CDF0> 層",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerHeavy": {
+    "title": "War Hammer",
+    "_titleOrign": "戰鎚",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerHeavyInc": {
+    "title": "War Hammer+",
+    "_titleOrign": "戰鎚+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Reverse direction of the target's attack.",
+    "_increaseDescRef": "反轉目標的攻擊方向",
+    "_increaseDescOrigin": "反轉目標的攻擊方向",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerLight": {
+    "title": "Hammer",
+    "_titleOrign": "小鐵鎚",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerLightInc": {
+    "title": "Hammer+",
+    "_titleOrign": "小鐵鎚+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Reverse direction of the target's attack.",
+    "_increaseDescRef": "反轉目標的攻擊方向",
+    "_increaseDescOrigin": "反轉目標的攻擊方向",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerMightySD": {
+    "title": "Great Hammer",
+    "_titleOrign": "巨型大鎚",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_HammerMightySDInc": {
+    "title": "Great Hammer+",
+    "_titleOrign": "巨型大鎚+",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "increaseDesc": "Reverse direction of the target's attack.",
+    "_increaseDescRef": "反轉目標的攻擊方向",
+    "_increaseDescOrigin": "反轉目標的攻擊方向",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaCombo": {
+    "title": "Musashi",
+    "_titleOrign": "武藏",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaComboInc": {
+    "title": "Musashi+",
+    "_titleOrign": "武藏+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Deal damage <CDF3> times. If target is killed, keep half your <CDFCHFT2>.",
+    "_increaseDescRef": "攻擊次數 x2，如果殺死目標保留一半<color=orange>專注</color>",
+    "_increaseDescOrigin": "攻擊次數 x<CDF3>，如果殺死目標保留一半<CDFCHFT2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaDH": {
+    "title": "Kitetsu",
+    "_titleOrign": "鬼徹",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 3 傷害，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaDHInc": {
+    "title": "Kitetsu+",
+    "_titleOrign": "鬼徹+",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 3 傷害，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "increaseDesc": "If target is killed, keep half your <CDFCHFT2>.",
+    "_increaseDescRef": "如果殺死目標保留一半<color=orange>專注</color>",
+    "_increaseDescOrigin": "如果殺死目標保留一半<CDFCHFT2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaKeepFocus": {
+    "title": "Ichimonji",
+    "_titleOrign": "一文字",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 4 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaKeepFocusInc": {
+    "title": "Ichimonji+",
+    "_titleOrign": "一文字+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 4 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Keep half your <CDFCHFT2> <H>whenever you deal damage.</H>",
+    "_increaseDescRef": "如果<color=orange>命中</color>目標保留一半<color=orange>專注</color>",
+    "_increaseDescOrigin": "如果<H>命中</H>目標保留一半<CDFCHFT2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaNormal": {
+    "title": "Uchigatana",
+    "_titleOrign": "打刀",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaNormalInc": {
+    "title": "Uchigatana+",
+    "_titleOrign": "打刀+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "If target is killed, keep half your <CDFCHFT2>.",
+    "_increaseDescRef": "如果殺死目標保留一半<color=orange>專注</color>",
+    "_increaseDescOrigin": "如果殺死目標保留一半<CDFCHFT2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaSector": {
+    "title": "Osafune",
+    "_titleOrign": "長船",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_KatanaSectorInc": {
+    "title": "Osafune+",
+    "_titleOrign": "長船+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Attack 3 surrounding tiles. If a target is killed, keep half your <CDFCHFT2>.",
+    "_increaseDescRef": "同時攻擊前方三個方向，如果殺死目標保留一半<color=orange>專注</color>",
+    "_increaseDescOrigin": "同時攻擊前方三個方向，如果殺死目標保留一半<CDFCHFT2>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordBasic": {
+    "title": "Rusty Longsword",
+    "_titleOrign": "破舊雙手劍",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 1 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordDmg": {
+    "title": "Imperial Longsword",
+    "_titleOrign": "騎士雙手劍",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 2 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordDmgInc": {
+    "title": "Imperial Longsword+",
+    "_titleOrign": "騎士雙手劍+",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 2 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "increaseDesc": "Increase <CDF2> additional damage.",
+    "_increaseDescRef": "額外增強 4 傷害 ",
+    "_increaseDescOrigin": "額外增強 <CDF2> 傷害 ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordNormal": {
+    "title": "Longsword",
+    "_titleOrign": "雙手劍",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 2 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordParry": {
+    "title": "Zweihander",
+    "_titleOrign": "鐵甲巨劍",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordParryInc": {
+    "title": "Zweihander+",
+    "_titleOrign": "鐵甲巨劍+",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "increaseDesc": "Gain Block <H>equal to damage dealt</H>.",
+    "_increaseDescRef": "獲得<color=orange>造成傷害量</color>的格擋",
+    "_increaseDescOrigin": "獲得<H>造成傷害量</H>的格擋",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordPush": {
+    "title": "Greatsword",
+    "_titleOrign": "重劍",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 2 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordPushInc": {
+    "title": "Greatsword+",
+    "_titleOrign": "重劍+",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 2 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "increaseDesc": "Deal Knockback.",
+    "_increaseDescRef": "擊退敵人1格",
+    "_increaseDescOrigin": "擊退敵人1格",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordRadius": {
+    "title": "Greatblade",
+    "_titleOrign": "斬馬刀",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_LongswordRadiusInc": {
+    "title": "Greatblade+",
+    "_titleOrign": "斬馬刀+",
+    "desc": "Increase damage by <A>. Area attack.",
+    "_descRef": "增強 3 傷害，範圍攻擊",
+    "_descOrigin": "增強 <A> 傷害，範圍攻擊",
+    "increaseDesc": "Increase attack range.",
+    "_increaseDescRef": "更大的攻擊範圍",
+    "_increaseDescOrigin": "更大的攻擊範圍",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeBurn": {
+    "title": "Flaming Spear",
+    "_titleOrign": "火焰槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 1 傷害，攻擊距離 2，給予 1 層 <color=orange>燃燒</color> ",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeDmg": {
+    "title": "Imperial Lance",
+    "_titleOrign": "騎士槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeDmgInc": {
+    "title": "Imperial Lance+",
+    "_titleOrign": "騎士槍+",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "increaseDesc": "Increase <CDF2> additional damage.",
+    "_increaseDescRef": "額外增強 4 傷害 ",
+    "_increaseDescOrigin": "額外增強 <CDF2> 傷害 ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeNormal": {
+    "title": "Spear",
+    "_titleOrign": "長槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikePierce": {
+    "title": "Stinger",
+    "_titleOrign": "刺槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeThirdDirect": {
+    "title": "Trident",
+    "_titleOrign": "三尖槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeThirdDirectInc": {
+    "title": "Trident+",
+    "_titleOrign": "三尖槍+",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "increaseDesc": "Attack 3 surrounding tiles in front.",
+    "_increaseDescRef": "同時攻擊前方三個方向",
+    "_increaseDescOrigin": "同時攻擊前方三個方向",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeVulnerable": {
+    "title": "Shield Breaker",
+    "_titleOrign": "破陣槍",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_PikeVulnerableInc": {
+    "title": "Shield Breaker+",
+    "_titleOrign": "破陣槍+",
+    "desc": "Increase damage by <A>. Attack 2 tiles.",
+    "_descRef": "增強 1 傷害，攻擊距離 2",
+    "_descOrigin": "增強 <A> 傷害，攻擊距離 2",
+    "increaseDesc": "Apply <CHFDA0> <CHFDK0>.",
+    "_increaseDescRef": "給予 1 層 <color=orange>易傷</color> ",
+    "_increaseDescOrigin": "給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldBackAttack": {
+    "title": "Buckler",
+    "_titleOrign": "小圓盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldBackAttackInc": {
+    "title": "Buckler+",
+    "_titleOrign": "小圓盾+",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "increaseDesc": "Gain <CHFSA1> <CHFSK1>.",
+    "_increaseDescRef": "獲得 1 層 <color=orange>盾反</color>",
+    "_increaseDescOrigin": "獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldBackAttackLv2": {
+    "title": "Iron Buckler",
+    "_titleOrign": "圓鐵盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldBackAttackLv2Inc": {
+    "title": "Iron Buckler+",
+    "_titleOrign": "圓鐵盾+",
+    "desc": "Increash Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "increaseDesc": "Gain <CHFSA1> <CHFSK1>.",
+    "_increaseDescRef": "獲得 1 層 <color=orange>盾反</color>",
+    "_increaseDescOrigin": "獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldBasic": {
+    "title": "Rusty Shield",
+    "_titleOrign": "破舊單手盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldCurse": {
+    "title": "Bloodcurse Shield",
+    "_titleOrign": "咒血盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>. Using it costs HP equal to <H>increased Block <ADJB></H> and raises increased Block by 1 for this fight. Cost is nonlethal.",
+    "_descRef": "增強 4 格擋，獲得 1 層 <color=orange>咒血盾</color>。使用時花費等同<color=orange>增強值<color=orange>(-0)</color></color>的血量但不會致死，並在本場戰鬥中再強化 1 格擋",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>。使用時花費等同<H>增強值<ADJB></H>的血量但不會致死，並在本場戰鬥中再強化 <CDF2> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldDef": {
+    "title": "Steel Shield",
+    "_titleOrign": "鋼盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 3 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldHardDef": {
+    "title": "Grass Emblem Shield",
+    "_titleOrign": "草紋盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldHardDefInc": {
+    "title": "Grass Emblem Shield+",
+    "_titleOrign": "草紋盾+",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "increaseDesc": "Gain <CHFSA1> <CHFSK1>.",
+    "_increaseDescRef": "獲得 3 層 <color=orange>堅硬</color>",
+    "_increaseDescOrigin": "獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldHeavyBody": {
+    "title": "Stone Shield",
+    "_titleOrign": "石盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0> and <CHFSA1> <CHFSK1>.",
+    "_descRef": "增強 1 格擋，獲得 1 層 <color=orange>持盾</color>，獲得 1 層 <color=orange>暫時沉重身驅</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldMultiDefAddCost": {
+    "title": "Black Iron Shield",
+    "_titleOrign": "黑鐵重盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldMultiDefAddCostInc": {
+    "title": "Black Iron Shield+",
+    "_titleOrign": "黑鐵重盾+",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "increaseDesc": "Gain <CDF0>X Block. Increase cost by 1 <Energy>.",
+    "_increaseDescRef": "格擋效果 x2，但增加1耗能",
+    "_increaseDescOrigin": "格擋效果 x<CDF0>，但增加1耗能",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldNormal": {
+    "title": "Shield",
+    "_titleOrign": "單手盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldPush": {
+    "title": "Strike Shield",
+    "_titleOrign": "衝擊盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldPushInc": {
+    "title": "Strike Shield+",
+    "_titleOrign": "衝擊盾+",
+    "desc": "Increase <H>damage</H> by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Enter strike mode. Deal Knockback.",
+    "_increaseDescRef": "變成攻擊模式，擊退敵人1格",
+    "_increaseDescOrigin": "變成攻擊模式，擊退敵人1格",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldReturnBurn": {
+    "title": "Flame Shield",
+    "_titleOrign": "火焰盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0> and <CHFSA1> <CHFSK1>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>，獲得 1 層 <color=orange>火焰屏障</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_ShieldSpikes": {
+    "title": "Spiked Shield",
+    "_titleOrign": "尖刺盾",
+    "desc": "Increase Block by <D>. Gain <CHFSA0> <CHFSK0> and <CHFSA1> <CHFSK1>.",
+    "_descRef": "增強 2 格擋，獲得 1 層 <color=orange>持盾</color>，獲得 2 層 <color=orange>暫時尖刺</color>",
+    "_descOrigin": "增強 <D> 格擋，獲得 <CHFSA0> 層 <CHFSK0>，獲得 <CHFSA1> 層 <CHFSK1>",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_Stick": {
+    "title": "Stick",
+    "_titleOrign": "木棒",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_StickInc": {
+    "title": "Stick+",
+    "_titleOrign": "木棒+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Reverse direction of the target's attack.",
+    "_increaseDescRef": "反轉目標的攻擊方向",
+    "_increaseDescOrigin": "反轉目標的攻擊方向",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordAddAttByKill": {
+    "title": "Soul Feeder",
+    "_titleOrign": "嗜魂者",
+    "desc": "Attacks cost <CDF1> HP. Cost is nonlethal.",
+    "_descRef": "攻擊時花費 2 血量，不會致死",
+    "_descOrigin": "攻擊時花費 <CDF1> 血量，不會致死",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordAddAttByKillInc": {
+    "title": "Soul Feeder+",
+    "_titleOrign": "嗜魂者+",
+    "desc": "Attacks cost <CDF1> HP. Cost is nonlethal.",
+    "_descRef": "攻擊時花費 2 血量，不會致死",
+    "_descOrigin": "攻擊時花費 <CDF1> 血量，不會致死",
+    "increaseDesc": "Permanently raise increased damage by <CDF2> when you kill an enemy.",
+    "_increaseDescRef": "擊殺單位後永久增強 1 傷害",
+    "_increaseDescOrigin": "擊殺單位後永久增強 <CDF2> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordBasic": {
+    "title": "Rusty Sword",
+    "_titleOrign": "破舊單手劍",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordBiteBlood": {
+    "title": "Blood Biter",
+    "_titleOrign": "咬血",
+    "desc": "Increase damage by <A>. Attacks cost <CDF1> HP. Cost is nonlethal.",
+    "_descRef": "增強 8 傷害，攻擊時花費 3 血量，不會致死",
+    "_descOrigin": "增強 <A> 傷害，攻擊時花費 <CDF1> 血量，不會致死",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordBiteBloodInc": {
+    "title": "Blood Biter+",
+    "_titleOrign": "咬血+",
+    "desc": "Increase damage by <A>. Attacks cost <CDF1> HP. Cost is nonlethal.",
+    "_descRef": "增強 8 傷害，攻擊時花費 3 血量，不會致死",
+    "_descOrigin": "增強 <A> 傷害，攻擊時花費 <CDF1> 血量，不會致死",
+    "increaseDesc": "Restore HP <H>equal to <CDFVAP2>% of damage dealt</H>.",
+    "_increaseDescRef": "回復<color=orange>造成傷害量50%</color> 的血量",
+    "_increaseDescOrigin": "回復<H>造成傷害量<CDFVAP2>%</H> 的血量",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordBurn": {
+    "title": "Flaming Sword",
+    "_titleOrign": "火焰劍",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 2 傷害，給予 1 層 <color=orange>燃燒</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordCircle": {
+    "title": "Master Sword",
+    "_titleOrign": "大師之劍",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "致敬Zelta",
+    "status": ""
+  },
+  "EquipCard_SwordCircleInc": {
+    "title": "Master Sword+",
+    "_titleOrign": "大師之劍+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 3 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Attack all surrounding tiles.",
+    "_increaseDescRef": "攻擊範圍變成自身周圍一圈",
+    "_increaseDescOrigin": "攻擊範圍變成自身周圍一圈",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordDH": {
+    "title": "Demon Slayer Sword",
+    "_titleOrign": "狩魔劍",
+    "desc": "Increase damage by <A>. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "增強 2 傷害，給予 1 層 <color=orange>死亡標記</color> ",
+    "_descOrigin": "增強 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordNormal": {
+    "title": "Sword",
+    "_titleOrign": "單手劍",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordPierce": {
+    "title": "Rapier",
+    "_titleOrign": "西洋刺劍",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordPierceInc": {
+    "title": "Rapier+",
+    "_titleOrign": "西洋刺劍+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 1 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Move 1 tile. Attack tile in front.",
+    "_increaseDescRef": "移動1格並對前方造成傷害",
+    "_increaseDescOrigin": "移動1格並對前方造成傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordWeak": {
+    "title": "Gladiator Sword",
+    "_titleOrign": "鬥士直劍",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "EquipCard_SwordWeakInc": {
+    "title": "Gladiator Sword+",
+    "_titleOrign": "鬥士直劍+",
+    "desc": "Increase damage by <A>.",
+    "_descRef": "增強 2 傷害",
+    "_descOrigin": "增強 <A> 傷害",
+    "increaseDesc": "Apply <CHFDA0> <CHFDK0>.",
+    "_increaseDescRef": "給予 1 層 <color=orange>虛弱</color> ",
+    "_increaseDescOrigin": "給予 <CHFDA0> 層 <CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunBurnExtra": {
+    "title": "Searing Blowgun",
+    "_titleOrign": "畏火吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 3 層<color=orange>畏火烙印</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunDeathFlag": {
+    "title": "Demon Slayer Blowgun",
+    "_titleOrign": "狩魔吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 3 層<color=orange>死亡標記</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunLostStrength": {
+    "title": "Sapping Blowgun",
+    "_titleOrign": "無力吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 2 層<color=orange>喪失力量</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunStun": {
+    "title": "Paralyzing Blowgun",
+    "_titleOrign": "麻痺吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 1 層<color=orange>暈眩</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunVulnerable": {
+    "title": "Crippling Blowgun",
+    "_titleOrign": "易傷吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 2 層<color=orange>易傷</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_BlowgunWeak": {
+    "title": "Weakening Blowgun",
+    "_titleOrign": "虛弱吹箭",
+    "desc": "Shoot straight forward. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線射出，給予 2 層<color=orange>虛弱</color> ",
+    "_descOrigin": "向前方直線射出，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectApple": {
+    "title": "Apple Core",
+    "_titleOrign": "蘋果",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectBone": {
+    "title": "Fish Bones",
+    "_titleOrign": "魚骨",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectCup": {
+    "title": "Cup",
+    "_titleOrign": "杯具",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectDiamond": {
+    "title": "Gemstone",
+    "_titleOrign": "小寶石",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectRock": {
+    "title": "Rock",
+    "_titleOrign": "石頭",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectRock1": {
+    "title": "Rock",
+    "_titleOrign": "石頭",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectRock2": {
+    "title": "Rock",
+    "_titleOrign": "石頭",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectRock3": {
+    "title": "Rock",
+    "_titleOrign": "石頭",
+    "desc": "Throw straight forward. Deal <A> damage.",
+    "_descRef": "向前方直線投出，造成 1 傷害",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_DirectShuriken": {
+    "title": "Shuriken",
+    "_titleOrign": "暗器",
+    "desc": "Throw straight forward. Deal <A> damage. Apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "向前方直線投出，造成 2 傷害，給予 2 層<color=orange>出血</color> ",
+    "_descOrigin": "向前方直線投出，造成 <A> 傷害，給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_ParabolaBomb": {
+    "title": "Bomb",
+    "_titleOrign": "炸彈",
+    "desc": "Throw to deal <A> area damage.",
+    "_descRef": "投擲後造成範圍 12 傷害",
+    "_descOrigin": "投擲後造成範圍 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_ParabolaBottle": {
+    "title": "Bottle",
+    "_titleOrign": "空瓶",
+    "desc": "Throw to deal <A> damage.",
+    "_descRef": "投擲後造成 1 傷害",
+    "_descOrigin": "投擲後造成 <A> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_ParabolaBurn": {
+    "title": "Flaming Bottle",
+    "_titleOrign": "燃燒瓶",
+    "desc": "Throw to apply <CHFDA0> <CHFDK0> to enemies within an area.",
+    "_descRef": "投擲後給予範圍內單位 5 層<color=orange>燃燒</color> ",
+    "_descOrigin": "投擲後給予範圍內單位 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_ParabolaFreezeMove": {
+    "title": "Wire Net",
+    "_titleOrign": "鐵網",
+    "desc": "Throw to apply <CHFDA0> <CHFDK0>.",
+    "_descRef": "投擲後給予 1 層<color=orange>禁錮</color> ",
+    "_descOrigin": "投擲後給予 <CHFDA0> 層<CHFDK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionAddBlockBuff": {
+    "title": "Granite Potion",
+    "_titleOrign": "堅硬藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 3 層 <color=orange>堅硬</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionAddBlockLv1": {
+    "title": "Shield Potion (S)",
+    "_titleOrign": "格擋藥水(小)",
+    "desc": "Gain <CDF1> Block.",
+    "_descRef": "獲得 8 格擋",
+    "_descOrigin": "獲得 <CDF1> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionAddBlockLv2": {
+    "title": "Shield Potion (M)",
+    "_titleOrign": "格擋藥水(中)",
+    "desc": "Gain <CDF1> Block.",
+    "_descRef": "獲得 14 格擋",
+    "_descOrigin": "獲得 <CDF1> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionAddBlockLv3": {
+    "title": "Shield Potion (L)",
+    "_titleOrign": "格擋藥水(大)",
+    "desc": "Gain <CDF1> Block.",
+    "_descRef": "獲得 30 格擋",
+    "_descOrigin": "獲得 <CDF1> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionAutoHeal": {
+    "title": "Refreshing Tonic",
+    "_titleOrign": "自癒藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 6 層 <color=orange>自癒</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionBackAttack": {
+    "title": "Needle Potion",
+    "_titleOrign": "尖刺藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>尖刺</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionCostZeroToMove": {
+    "title": "Wind Potion",
+    "_titleOrign": "疾風藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>輕快腳步</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionCostZeroToStatus": {
+    "title": "Lightning Potion",
+    "_titleOrign": "活化藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>肉體活化</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionEnergyLv1": {
+    "title": "Vitality Potion (S)",
+    "_titleOrign": "能量藥水(小)",
+    "desc": "Gain <CDF1> <Energy>.",
+    "_descRef": "獲得 1 <sprite index=1>",
+    "_descOrigin": "獲得 <CDF1> <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionEnergyLv2": {
+    "title": "Vitality Potion (L)",
+    "_titleOrign": "能量藥水(大)",
+    "desc": "Gain <CDF1> <Energy>.",
+    "_descRef": "獲得 2 <sprite index=1>",
+    "_descOrigin": "獲得 <CDF1> <Energy>",
+    "note": "Caffeinated Drink",
+    "status": ""
+  },
+  "ItemCard_PotionFocusKeep": {
+    "title": "Strong Tea",
+    "_titleOrign": "專心藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>保留專注</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionFocusOnUnderAtt": {
+    "title": "Foul Liquid",
+    "_titleOrign": "耐心藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>耐心</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionHeavyBody": {
+    "title": "Root Potion",
+    "_titleOrign": "沉重身驅藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 5 層 <color=orange>暫時沉重身驅</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionHpLv1": {
+    "title": "Health Potion (S)",
+    "_titleOrign": "回血藥水(小)",
+    "desc": "Restore <CDF0> HP.",
+    "_descRef": "回復 10 點血量",
+    "_descOrigin": "回復 <CDF0> 點血量",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionHpLv2": {
+    "title": "Health Potion (M)",
+    "_titleOrign": "回血藥水(中)",
+    "desc": "Restore <CDF0> HP.",
+    "_descRef": "回復 20 點血量",
+    "_descOrigin": "回復 <CDF0> 點血量",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionHpLv3": {
+    "title": "Health Potion (L)",
+    "_titleOrign": "回血藥水(大)",
+    "desc": "Restore <CDF0> HP.",
+    "_descRef": "回復 35 點血量",
+    "_descOrigin": "回復 <CDF0> 點血量",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionMagicBlock": {
+    "title": "Ward Potion",
+    "_titleOrign": "護盾藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 1 層 <color=orange>魔力護盾</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionPierce": {
+    "title": "Spear Potion",
+    "_titleOrign": "穿刺藥水",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>穿刺</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionRandomCostZero": {
+    "title": "Fortune Potion",
+    "_titleOrign": "強運藥水",
+    "desc": "Reduce the cost of <CDF0> random <card> in your hand to 0 <Energy> this fight.",
+    "_descRef": "隨機 1 張手牌本場戰鬥降為 0 <sprite index=1>",
+    "_descOrigin": "隨機 <CDF0> 張手牌本場戰鬥降為 0 <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionStrengthLv1": {
+    "title": "Muscle Potion (S)",
+    "_titleOrign": "力量藥水(小)",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 2 層 <color=orange>力量</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionStrengthLv2": {
+    "title": "Muscle Potion (M)",
+    "_titleOrign": "力量藥水(中)",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 3 層 <color=orange>力量</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PotionStrengthLv3": {
+    "title": "Muscle Potion (L)",
+    "_titleOrign": "力量藥水(大)",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 4 層 <color=orange>力量</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_PullString": {
+    "title": "Grappling Hook",
+    "_titleOrign": "緊急拉繩",
+    "desc": "Pull a target within <M> <tile> to you, or pull yourself to the arena walls.",
+    "_descRef": "將距離 3 格外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "_descOrigin": "將距離 <M> <tile>外的目標拉到身邊，如果目標是戰場邊界則移動過去",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SectorBurnExtra": {
+    "title": "Searing Ashes",
+    "_titleOrign": "畏火沙塵",
+    "desc": "Interrupt and apply <CHFDA0> <CHFDK0> to enemies within a frontal arc.",
+    "_descRef": "向前方扇形丟出，中斷多數目標行動，給予 3 層<color=orange>畏火烙印</color>",
+    "_descOrigin": "向前方扇形丟出，中斷多數目標行動，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SectorStop": {
+    "title": "Dust",
+    "_titleOrign": "普通沙塵",
+    "desc": "Interrupt enemies within a frontal arc.",
+    "_descRef": "向前方扇形丟出，中斷多數目標行動",
+    "_descOrigin": "向前方扇形丟出，中斷多數目標行動",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SectorVulnerable": {
+    "title": "Crippling Dust",
+    "_titleOrign": "易傷沙塵",
+    "desc": "Interrupt and apply <CHFDA0> <CHFDK0> to enemies within a frontal arc.",
+    "_descRef": "向前方扇形丟出，中斷多數目標行動，給予 2 層<color=orange>易傷</color>",
+    "_descOrigin": "向前方扇形丟出，中斷多數目標行動，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SectorWeak": {
+    "title": "Weakening Dust",
+    "_titleOrign": "虛弱沙塵",
+    "desc": "Interrupt and apply <CHFDA0> <CHFDK0> to enemies within a frontal arc.",
+    "_descRef": "向前方扇形丟出，中斷多數目標行動，給予 2 層<color=orange>虛弱</color>",
+    "_descOrigin": "向前方扇形丟出，中斷多數目標行動，給予 <CHFDA0> 層<CHFDK0>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SetTrapBurn": {
+    "title": "Flaming Trap",
+    "_titleOrign": "燃燒陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>燃燒陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SetTrapHemorthage": {
+    "title": "Bloody Trap",
+    "_titleOrign": "出血陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>出血陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SetTrapLostStrength": {
+    "title": "Sapping Trap",
+    "_titleOrign": "無力陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>無力陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SetTrapVulnerable": {
+    "title": "Crippling Trap",
+    "_titleOrign": "易傷陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>易傷陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_SetTrapWeak": {
+    "title": "Weakening Trap",
+    "_titleOrign": "虛弱陷阱",
+    "desc": "Place a <CDFCDT0> within <M> <tile>.",
+    "_descRef": "設置<color=orange>虛弱陷阱</color>於距離 2 格內",
+    "_descOrigin": "設置<CDFCDT0>於距離 <M> <tile>內",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_UseDrawCards": {
+    "title": "Bag of Tricks",
+    "_titleOrign": "錦囊妙計",
+    "desc": "Draw <CDF1> <card>.",
+    "_descRef": "抽 3 張牌",
+    "_descOrigin": "抽 <CDF1> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_UseDrawCardsOnRoundSt": {
+    "title": "The Art of War",
+    "_titleOrign": "單兵手冊",
+    "desc": "Gain <CHFSA0> <CHFSK0>.",
+    "_descRef": "獲得 3 層 <color=orange>戰鬥蹲姿</color> ",
+    "_descOrigin": "獲得 <CHFSA0> 層 <CHFSK0> ",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddBlockOnRndSt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "硬甲護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "回合開始時獲得 2 層格擋",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddDeathFlag": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狩魔護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "攻擊命中後，給予 1 層<color=orange>死亡標記</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddDraw": {
+    "title": "<CHFSK0>",
+    "_titleRef": "敏捷護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每回合抽牌增加 1",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddFocusOnRndSt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "集中護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "回合開始時獲得 1 層 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddFocusOnUnderAtt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "耐心護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "受到攻擊時，獲得 2 <color=orange>專注</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddMaxHp": {
+    "title": "<CHFSK0>",
+    "_titleRef": "血量護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "血量上限增加 14 ",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddStrength": {
+    "title": "<CHFSK0>",
+    "_titleRef": "力量護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，獲得 2 層<color=orange>力量</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_AddStrengthOnBurnTile": {
+    "title": "<CHFSK0>",
+    "_titleRef": "火拳護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "回合結束時站在<color=orange>燃燒之地</color>，獲得 2 層<color=orange>力量</color>，免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_BackAttack": {
+    "title": "<CHFSK0>",
+    "_titleRef": "尖刺護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "受到攻擊後，對攻擊者造成 4 傷害",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_Berserker": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狂戰士護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "受到傷害時增加 1 <color=orange>力量</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_DrawCardsOnFightSt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "速攻護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，額外多抽 2 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_DrawCardsOnKill": {
+    "title": "<CHFSK0>",
+    "_titleRef": "獵首護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "擊殺敵人後抽 1 張牌",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_ExtraBurning": {
+    "title": "<CHFSK0>",
+    "_titleRef": "火焰護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "主動造成的燃燒量提升 1 ",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_FeatureLvup": {
+    "title": "<CHFSK0>",
+    "_titleRef": "進化護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "獲得的獎勵卡片都將是升級後的，但無法再主動移除卡片",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_HealOnFightSt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "治療護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，回復 5 血量",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_HurtPlayHealKill": {
+    "title": "<CHFSK0>",
+    "_titleRef": "吸血鬼護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "擊殺單位回復 3 血量",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_IncreaseBlock": {
+    "title": "<CHFSK0>",
+    "_titleRef": "守護護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "手牌格擋值提升 2 ",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_MoveCostZero": {
+    "title": "<CHFSK0>",
+    "_titleRef": "疾風護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，獲得 4 層<color=orange>輕快腳步</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_RandomCardZeroCost": {
+    "title": "<CHFSK0>",
+    "_titleRef": "強運護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，隨機 1 張手牌本場戰鬥降為 0 <sprite index=1>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_RefCardCostZero": {
+    "title": "<CHFSK0>",
+    "_titleRef": "減壓護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "牌庫中的<color=orange>疲勞</color>降為 0 <sprite index=1>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_SaveThrowEquipment": {
+    "title": "<CHFSK0>",
+    "_titleRef": "投擲護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "投擲後的裝備不會使消失於鬥技場",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": "New"
+  },
+  "TriCard_Bracer_Sharp": {
+    "title": "<CHFSK0>",
+    "_titleRef": "殺手護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，獲得 1 層<color=orange>鋒利</color>，獲得 1 層<color=orange>喪失力量</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Bracer_Violent": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狂暴護腕",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "每場戰鬥開始時，獲得 1 層<color=orange>狂暴</color>，獲得 3 層<color=orange>喪失力量</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_AddHesitation": {
+    "title": "<CHFSK0>",
+    "_titleRef": "孤狼項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，每次移動獲得 1 張<color=orange>猶豫</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_AddMovableCost": {
+    "title": "<CHFSK0>",
+    "_titleRef": "鐵龜項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，每場戰鬥開始時，獲得 3 層<color=orange>移動枷鎖</color> 及 3 層<color=orange>堅硬</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_DisableChangeEquipments": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狂犬項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，戰鬥中無法更換手中的裝備",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_DisableItemPackLimit": {
+    "title": "<CHFSK0>",
+    "_titleRef": "主貓項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，道具格上限減少 2 ",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_DisableRemoveCard": {
+    "title": "<CHFSK0>",
+    "_titleRef": "山豬項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，無法再使用冥想移除卡片",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_GetWoundPerRound": {
+    "title": "<CHFSK0>",
+    "_titleRef": "猛鶴項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，每場戰鬥開始時，獲得 4 層<color=orange>舊傷</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_HalfGetCoin": {
+    "title": "<CHFSK0>",
+    "_titleRef": "錢鼠項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，獲得的金錢減半",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_HalfHandLimit": {
+    "title": "<CHFSK0>",
+    "_titleRef": "獵豹項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，手牌上限減少 2",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_MultiplyAddHp": {
+    "title": "<CHFSK0>",
+    "_titleRef": "狡兔項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，回復的血量減半",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_MultiplyDmgOnUnderAtt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "赤蛇項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，受到的傷害提升 25%",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_NoBlock": {
+    "title": "<CHFSK0>",
+    "_titleRef": "巨熊項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，無法獲得格擋，每場戰鬥開始時，獲得 2 層<color=orange>力量</color>",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_SubDrawCards": {
+    "title": "<CHFSK0>",
+    "_titleRef": "戰象項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，每回合抽牌減少 1",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_SubMaxHp": {
+    "title": "<CHFSK0>",
+    "_titleRef": "靈猴項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，血量上限減少 30 ",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "TriCard_Charm_SubRewardCardCnt": {
+    "title": "<CHFSK0>",
+    "_titleRef": "水豚項鍊",
+    "_titleOrign": "<CHFSK0>",
+    "desc": "<CHFSD0>",
+    "_descRef": "<sprite index=1>上限+1，獎勵卡片可選擇數量減少 2",
+    "_descOrigin": "<CHFSD0>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_TrapBurn": {
+    "title": "Flaming Trap",
+    "_titleOrign": "燃燒陷阱",
+    "desc": "Deals <A> damage when stepped on, then applies <CHFDA0> <CHFDK0>, and <CHFDA1> <CHFDK1>.",
+    "_descRef": "給予踩到的單位造成 4 傷害，給予 3 層 <color=orange>燃燒</color>，給予 1 層 <color=orange>禁錮</color>",
+    "_descOrigin": "給予踩到的單位造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>，給予 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_TrapHemorthage": {
+    "title": "Bloody Trap",
+    "_titleOrign": "出血陷阱",
+    "desc": "Deals <A> damage when stepped on, then applies <CHFDA0> <CHFDK0>, and <CHFDA1> <CHFDK1>.",
+    "_descRef": "給予踩到的單位造成 4 傷害，給予 3 層 <color=orange>出血</color>，給予 1 層 <color=orange>禁錮</color>",
+    "_descOrigin": "給予踩到的單位造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>，給予 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_TrapLostStrength": {
+    "title": "Sapping Trap",
+    "_titleOrign": "無力陷阱",
+    "desc": "Deals <A> damage when stepped on, then applies <CHFDA0> <CHFDK0>, and <CHFDA1> <CHFDK1>.",
+    "_descRef": "給予踩到的單位造成 4 傷害，給予 2 層 <color=orange>喪失力量</color>，給予 1 層 <color=orange>禁錮</color>",
+    "_descOrigin": "給予踩到的單位造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>，給予 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_TrapVulnerable": {
+    "title": "Crippling Trap",
+    "_titleOrign": "易傷陷阱",
+    "desc": "Deals <A> damage when stepped on, then applies <CHFDA0> <CHFDK0>, and <CHFDA1> <CHFDK1>.",
+    "_descRef": "給予踩到的單位造成 4 傷害，給予 2 層 <color=orange>易傷</color>，給予 1 層 <color=orange>禁錮</color>",
+    "_descOrigin": "給予踩到的單位造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>，給予 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  },
+  "ItemCard_TrapWeak": {
+    "title": "Weakening Trap",
+    "_titleOrign": "虛弱陷阱",
+    "desc": "Deals <A> damage when stepped on, then applies <CHFDA0> <CHFDK0>, and <CHFDA1> <CHFDK1>.",
+    "_descRef": "給予踩到的單位造成 4 傷害，給予 2 層 <color=orange>虛弱</color>，給予 1 層 <color=orange>禁錮</color>",
+    "_descOrigin": "給予踩到的單位造成 <A> 傷害，給予 <CHFDA0> 層 <CHFDK0>，給予 <CHFDA1> 層 <CHFDK1>",
+    "note": "",
+    "status": ""
+  }
+}

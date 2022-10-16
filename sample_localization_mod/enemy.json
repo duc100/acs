@@ -1,0 +1,392 @@
+{
+  "Boss_Bigsword": {
+    "title": "Giga Blade",
+    "_titleOrign": "巨劍場主",
+    "note": "",
+    "status": ""
+  },
+  "Boss_CurseBigMan": {
+    "title": "Cursed Brute",
+    "_titleOrign": "受咒者",
+    "note": "",
+    "status": ""
+  },
+  "Boss_CurseOldMan": {
+    "title": "Cult Lord",
+    "_titleOrign": "長老",
+    "note": "",
+    "status": ""
+  },
+  "Boss_FinalBoss": {
+    "title": "Demon of the Arena",
+    "_titleOrign": "鬥技場的惡魔",
+    "note": "",
+    "status": ""
+  },
+  "Boss_FinalBossFireball": {
+    "title": "Hellfire",
+    "_titleOrign": "炎爆彈",
+    "note": "",
+    "status": ""
+  },
+  "Boss_IceBall": {
+    "title": "Frost Orb",
+    "_titleOrign": "冰霜球",
+    "note": "",
+    "status": ""
+  },
+  "Boss_IceReaper": {
+    "title": "Ice Reaper",
+    "_titleOrign": "冰鐮場主",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterBomb": {
+    "title": "Rolling Jack",
+    "_titleOrign": "踩球傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterFire": {
+    "title": "Flaming Jack",
+    "_titleOrign": "火焰傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterGiftBox": {
+    "title": "Jack-in-the-Box",
+    "_titleOrign": "禮物盒",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterHammer": {
+    "title": "Hammer Jack",
+    "_titleOrign": "大鎚傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterKnife": {
+    "title": "Knife Jack",
+    "_titleOrign": "利刃傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterMaster": {
+    "title": "Jester Prince",
+    "_titleOrign": "傀儡大師",
+    "note": "",
+    "status": ""
+  },
+  "Boss_JesterThrowBall": {
+    "title": "Juggle Jack",
+    "_titleOrign": "雜耍傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Boss_Knight": {
+    "title": "Sir Knight",
+    "_titleOrign": "騎士場主",
+    "note": "",
+    "status": ""
+  },
+  "Boss_Spider": {
+    "title": "Spiderling",
+    "_titleOrign": "小蜘蛛",
+    "note": "",
+    "status": ""
+  },
+  "Boss_SpiderEgg": {
+    "title": "Spider Egg",
+    "_titleOrign": "蜘蛛卵",
+    "note": "",
+    "status": ""
+  },
+  "Boss_SpiderQueen": {
+    "title": "Spider Queen",
+    "_titleOrign": "蜘蛛女王",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Archer": {
+    "title": "Tri Archer",
+    "_titleOrign": "三眼射手",
+    "note": "",
+    "status": ""
+  },
+  "Chara_ArcherPlus": {
+    "title": "Tri Stalker",
+    "_titleOrign": "三眼獵手",
+    "note": "",
+    "status": ""
+  },
+  "Chara_ArcherRoyal": {
+    "title": "Royal Bowman",
+    "_titleOrign": "皇家弩手",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Beast": {
+    "title": "Big Beastie",
+    "_titleOrign": "大熊",
+    "note": "",
+    "status": ""
+  },
+  "Chara_BeastDog": {
+    "title": "Beastie",
+    "_titleOrign": "獵犬",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Beastmaster": {
+    "title": "Beastmaster",
+    "_titleOrign": "馴獸師",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Berserker": {
+    "title": "Berserker",
+    "_titleOrign": "狂戰士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_BombFrog": {
+    "title": "Acid Toad",
+    "_titleOrign": "酸液蛙",
+    "note": "",
+    "status": ""
+  },
+  "Chara_BombFrogPlus": {
+    "title": "Boom Toad",
+    "_titleOrign": "炎爆蛙",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Charge": {
+    "title": "Cyclops",
+    "_titleOrign": "獨眼巨人",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Dissenter": {
+    "title": "Acolyte",
+    "_titleOrign": "異教徒",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Dog": {
+    "title": "Hellhound",
+    "_titleOrign": "獵犬",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Fast": {
+    "title": "Stab Beast",
+    "_titleOrign": "利刃獸",
+    "note": "",
+    "status": ""
+  },
+  "Chara_FireSpirit": {
+    "title": "Fire Sprite",
+    "_titleOrign": "焰靈",
+    "note": "Max",
+    "status": ""
+  },
+  "Chara_Gladiator": {
+    "title": "Sword Gladiator",
+    "_titleOrign": "劍鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Hammer": {
+    "title": "Hammer Gladiator",
+    "_titleOrign": "巨鎚鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_HammerPartner": {
+    "title": "Armored Stab Beast",
+    "_titleOrign": "硬甲利刃獸",
+    "note": "",
+    "status": ""
+  },
+  "Chara_HeavyShield": {
+    "title": "Shield Gladiator",
+    "_titleOrign": "重盾鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_HugeBlocker": {
+    "title": "Crystal Golem",
+    "_titleOrign": "結晶巨人",
+    "note": "",
+    "status": ""
+  },
+  "Chara_HumanPriest": {
+    "title": "Cleric",
+    "_titleOrign": "聖職者",
+    "note": "Max",
+    "status": ""
+  },
+  "Chara_JumpFat": {
+    "title": "Crusher",
+    "_titleOrign": "重壓戰士",
+    "note": "Max",
+    "status": ""
+  },
+  "Chara_MagicDummy": {
+    "title": "Possessed Mannequin",
+    "_titleOrign": "魔力傀儡",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Monk": {
+    "title": "Boxer Monk",
+    "_titleOrign": "武鬥家",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Piker": {
+    "title": "Spear Gladiator",
+    "_titleOrign": "槍鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Priest": {
+    "title": "Necroshamancer",
+    "_titleOrign": "亡靈薩滿",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Prisoner": {
+    "title": "Slave Fighter",
+    "_titleOrign": "奴隸",
+    "note": "",
+    "status": ""
+  },
+  "Chara_RefleatBeetle": {
+    "title": "Spike Beetle",
+    "_titleOrign": "刺甲獸",
+    "note": "",
+    "status": ""
+  },
+  "Chara_RefleatBeetlePlus": {
+    "title": "Armored Spike Beetle",
+    "_titleOrign": "利爪刺甲獸",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Rider": {
+    "title": "Knight Ryder",
+    "_titleOrign": "狂飆騎士",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Scavenger": {
+    "title": "Max Armor",
+    "_titleOrign": "鐵甲兵",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Slime": {
+    "title": "Slime",
+    "_titleOrign": "黏液怪",
+    "note": "",
+    "status": ""
+  },
+  "Chara_Sword": {
+    "title": "Lousy Fighter",
+    "_titleOrign": "低階鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Elite_Assassin": {
+    "title": "Assassin",
+    "_titleOrign": "暗影刺客",
+    "note": "",
+    "status": ""
+  },
+  "Elite_BigArcher": {
+    "title": "Prowler",
+    "_titleOrign": "重弩手",
+    "note": "",
+    "status": ""
+  },
+  "Elite_BigDog": {
+    "title": "Hellhound Plus",
+    "_titleOrign": "巨型獵犬",
+    "note": "",
+    "status": ""
+  },
+  "Elite_Challenger": {
+    "title": "Honor Guy",
+    "_titleOrign": "榮耀鬥士",
+    "note": "",
+    "status": ""
+  },
+  "Elite_EmptyArmor": {
+    "title": "Ghost Armor",
+    "_titleOrign": "空殼鐵甲大師",
+    "note": "",
+    "status": ""
+  },
+  "Elite_GreenBro1": {
+    "title": "Gob Brother",
+    "_titleOrign": "綠皮兄弟",
+    "note": "",
+    "status": ""
+  },
+  "Elite_GreenBro2": {
+    "title": "Gob Brother",
+    "_titleOrign": "綠皮兄弟",
+    "note": "",
+    "status": ""
+  },
+  "Elite_GreenBro3": {
+    "title": "Gob Brother",
+    "_titleOrign": "綠皮兄弟",
+    "note": "",
+    "status": ""
+  },
+  "Elite_Ninja": {
+    "title": "Ninja Sensei",
+    "_titleOrign": "忍者大師",
+    "note": "",
+    "status": ""
+  },
+  "Elite_Rocketer": {
+    "title": "Blast Master",
+    "_titleOrign": "炸彈魔",
+    "note": "",
+    "status": ""
+  },
+  "Elite_RocketerBomb": {
+    "title": "Bomb",
+    "_titleOrign": "炸彈",
+    "note": "",
+    "status": ""
+  },
+  "Elite_SlimeMother": {
+    "title": "Slime Mother",
+    "_titleOrign": "黏液怪母體",
+    "note": "",
+    "status": ""
+  },
+  "Elite_Wizard": {
+    "title": "Evil Wizard",
+    "_titleOrign": "大法師",
+    "note": "",
+    "status": ""
+  },
+  "Elite_WizardMagicBall": {
+    "title": "Magic Bullet",
+    "_titleOrign": "魔法彈",
+    "note": "",
+    "status": ""
+  },
+  "Hero_Alina": {
+    "title": "Alina",
+    "_titleOrign": "阿利娜",
+    "note": "",
+    "status": ""
+  }
+}

@@ -1,0 +1,940 @@
+[
+  {
+    "key": "BigSword_Start",
+    "value": "I'm sick of this job.",
+    "_valueOrign": "真麻煩..又有工作要做了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BigSword_Start",
+    "value": "Let's get this over with.",
+    "_valueOrign": "麻煩死了，趕快解決趕快休息",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BigSword_Powerup",
+    "value": "You think you're tough?! Think again!",
+    "_valueOrign": "別小看我，我要認真啦！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BigSword_Rest",
+    "value": "Huff... Huff...",
+    "_valueOrign": "呼...呼...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Challenger_Start",
+    "value": "I'll wait until there's only the two of us.",
+    "_valueOrign": "我會等到一對一時才出手的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Challenger_UnderAtt",
+    "value": "Prideless scum. You asked for it...",
+    "_valueOrign": "沒榮譽心的傢伙，這是你自找的..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Challenger_StartFight",
+    "value": "Well done. Let us fight!",
+    "_valueOrign": "很好，來場堂堂正正的對決吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BigArcher_Start",
+    "value": "A new prey...",
+    "_valueOrign": "又有新獵物來了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BigArcher_PowerLineShoot",
+    "value": "My turn. Take this!",
+    "_valueOrign": "好機會，吃我這箭吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Start01",
+    "value": "You're nothing against the Gob Brothers!",
+    "_valueOrign": "見識見識我們三兄弟的厲害～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Start02",
+    "value": "You're dead!",
+    "_valueOrign": "你死定啦～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Start03",
+    "value": "Teehee...",
+    "_valueOrign": "嘿嘿嘿..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Heal",
+    "value": "Ouch! Where are my potions?",
+    "_valueOrign": "痛死了，我的藥水呢？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Heal",
+    "value": "Ow! That hurt!",
+    "_valueOrign": "呼...痛死我了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GreenBro_Heal",
+    "value": "Dammit, I'm bleeding!",
+    "_valueOrign": "可惡...我在流血啊～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Dissenter_Start",
+    "value": "Darkness grant me strength.",
+    "_valueOrign": "宇宙天地賜我力量...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Dissenter_Start",
+    "value": "I shall cleanse this land.",
+    "_valueOrign": "降伏群魔迎來曙光...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_Start",
+    "value": "Ah, an offering has arrived...",
+    "_valueOrign": "呵呵呵...又有新的祭品來了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_Start",
+    "value": "Come, give me your heart...",
+    "_valueOrign": "來吧，獻出你的心臟吧...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_Escapse",
+    "value": "Come aid me, you brute!",
+    "_valueOrign": "搞什麼，還不快過來保護我！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_Scarifice",
+    "value": "Give me your blood...",
+    "_valueOrign": "獻出你的血吧..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_ResumeBullets",
+    "value": "I need more power...",
+    "_valueOrign": "需要更多的咒力...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseOldMan_CircleAttack",
+    "value": "Don't come near me, you filth!",
+    "_valueOrign": "不準靠近我，骯髒的東西！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseBigMan_Start",
+    "value": "......",
+    "_valueOrign": ".......",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseBigMan_GrowHands",
+    "value": "Aaaaaah!!",
+    "_valueOrign": "嗚.......啊啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseBigMan_Melee",
+    "value": "Kill...",
+    "_valueOrign": "殺...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CurseBigMan_Melee",
+    "value": "Die...",
+    "_valueOrign": "....死...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Priest_AddStrength",
+    "value": "Spirits lend them strength!",
+    "_valueOrign": "亡靈啊..增強他的力量吧～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Priest_Heal",
+    "value": "Spirits heal their wounds!",
+    "_valueOrign": "亡靈啊..治療他的傷口吧～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "EmptyArmor_Start",
+    "value": "Will you be able to keep up?",
+    "_valueOrign": "你跟的上我的速度嗎...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "EmptyArmor_Start",
+    "value": "You will regret coming here.",
+    "_valueOrign": "我會讓你後悔來到這裡的...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "EmptyArmor_PrepareDirectSlash",
+    "value": "You give me no choice...",
+    "_valueOrign": "我本來不想用這一招的...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "EmptyArmor_DirectSlash",
+    "value": "Die!",
+    "_valueOrign": "接招吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Rocketer_Start",
+    "value": "Art is about EXPLOSIONS!",
+    "_valueOrign": "藝術就是爆炸！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Rocketer_Start",
+    "value": "Boom Boom BOOM! Hahaha!",
+    "_valueOrign": "炸吧！炸吧！哈哈哈！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "HeavyShield_Start",
+    "value": "None shall break my defense!",
+    "_valueOrign": "沒有人可以突破我的盾！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Hummer_Start",
+    "value": "I'm gonna send you flying!",
+    "_valueOrign": "看我把你打飛！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Archer_Shoot",
+    "value": "I'll get you this time.",
+    "_valueOrign": "這次要射中...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Archer_Shoot",
+    "value": "My turn.",
+    "_valueOrign": "好機會...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Archer_Shoot",
+    "value": "Take this!",
+    "_valueOrign": "吃我這箭吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_Start",
+    "value": "This is as far as you'll go.",
+    "_valueOrign": "你只能打到這了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_Start",
+    "value": "Finally, a fresh mark.",
+    "_valueOrign": "總算有新目標了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_FreezeShoot",
+    "value": "Don't move.",
+    "_valueOrign": "別亂動...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_FreezeShoot",
+    "value": "Stop moving.",
+    "_valueOrign": "要讓他停下腳步...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_Melee",
+    "value": "Die...",
+    "_valueOrign": "受死吧...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_Melee",
+    "value": "I'll cut you to pieces...",
+    "_valueOrign": "我要在你身上切出無數傷口...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Assassin_SecondLevel",
+    "value": "You're tougher than I expected...",
+    "_valueOrign": "沒想到要到那這一招...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_Start",
+    "value": "I come!",
+    "_valueOrign": "參上！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_Start",
+    "value": "I shall not hold back!",
+    "_valueOrign": "在下是不會手下留情的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_KageBunshin",
+    "value": "Ninpo! Kage bunshin no jutsu!",
+    "_valueOrign": "忍法，影分身之術！",
+    "note": "Ninpo: Shadow clone no jutsu!",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_ShurikenSupport",
+    "value": "Omnidirectional shuriken no jutsu!",
+    "_valueOrign": "四面八方手裡劍之術！",
+    "note": "Shuriken storm no jutsu!",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_ShurikenSupport",
+    "value": "There is no escape!",
+    "_valueOrign": "你逃不掉的！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_Melee",
+    "value": "Can you tell who's the original?",
+    "_valueOrign": "你分的出誰才是本體嗎？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_Melee",
+    "value": "You cannot find me!",
+    "_valueOrign": "你找不出我的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Ninja_Melee",
+    "value": "Hiyah!",
+    "_valueOrign": "接招吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_Start",
+    "value": "Ignorant vermin...",
+    "_valueOrign": "無知的鼠輩...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_Start",
+    "value": "You dare challenge me?",
+    "_valueOrign": "這種角色也敢挑戰我...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_MagicBalls",
+    "value": "You cannot escape my attack.",
+    "_valueOrign": "這是無法迴避的..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_MagicBalls",
+    "value": "There's no way to dodge this, vermin.",
+    "_valueOrign": "別想閃開..鼠輩",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_MagicBalls",
+    "value": "Give up. You have nowhere to hide!",
+    "_valueOrign": "放棄吧，你無處可逃！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_MagicBlock",
+    "value": "Damn vermin. How dare you hurt me.",
+    "_valueOrign": "該死的鼠輩，竟敢打傷我..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Wizard_MagicBlock",
+    "value": "Enough of your foolishness.",
+    "_valueOrign": "我可不會讓你繼續下去..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Rider_ChargeSlash",
+    "value": "Outta my way!",
+    "_valueOrign": "別想擋在我前面！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Rider_ChargeSlash",
+    "value": "I'mma smash right into ya!",
+    "_valueOrign": "我要撞飛你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Monk_CleaveAttack",
+    "value": "Tiger Palm Technique.",
+    "_valueOrign": "將氣集中於掌心...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Monk_Powerup",
+    "value": "Water Lotus Technique.",
+    "_valueOrign": "將氣保留在體內...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JumpFat_JumpAttack",
+    "value": "I will CRUSH you!",
+    "_valueOrign": "看我壓扁你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JumpFat_JumpAttack",
+    "value": "Stand still! I'm gonna CRUSH you!",
+    "_valueOrign": "別想逃！壓扁你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "HumanPriest_LightingWeapon",
+    "value": "Gods grant me the power of lightning!",
+    "_valueOrign": "神啊，請賜予我們雷電的力量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "HumanPriest_Heal",
+    "value": "Gods grant me the power to heal!",
+    "_valueOrign": "神啊，請治療我們的傷口吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Berserket_Powerup",
+    "value": "I feel the power! Hahaha!",
+    "_valueOrign": "我感受到力量湧現了！哈哈！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Berserket_Powerup",
+    "value": "The pain fills me with power! Hahaha!",
+    "_valueOrign": "越痛力量越強！哈哈哈！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Berserket_UnderAtt",
+    "value": "Come on! Hit me harder!",
+    "_valueOrign": "不夠痛啊！再來！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Berserket_UnderAtt",
+    "value": "You even trying? Hit harder!!",
+    "_valueOrign": "你在幫我抓癢嗎？大力一點！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Berserket_UnderAtt",
+    "value": "Come on! I need... more pain!",
+    "_valueOrign": "我要..更多疼痛！再來啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_Start",
+    "value": "I shall put you in your place!",
+    "_valueOrign": "我會讓你了解我們實力的差距！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_Start",
+    "value": "I shall destroy you with the might of my sword!",
+    "_valueOrign": "我將以我的劍擊倒你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_DirectSlash",
+    "value": "You shall not get away!",
+    "_valueOrign": "我不會讓你有機會的！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_DirectSlash",
+    "value": "Receive the justice of my sword!",
+    "_valueOrign": "讓你見識劍氣的奧義吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_ShieldSlashStart",
+    "value": "I shall give you {0} turns...",
+    "_valueOrign": "我給你{0}回合...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_ShieldSlash",
+    "value": "Your time is up!",
+    "_valueOrign": "準備接招吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_ShieldSlash",
+    "value": "I shall release the power of my shield!",
+    "_valueOrign": "我將把盾上的鬥氣轉化為傷害！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_GotoLevelup",
+    "value": "I shall slay you with all my might!",
+    "_valueOrign": "我會使出全力打倒你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_FinalJudgmentStart",
+    "value": "Your inescapable judgement is due in {0} turns.",
+    "_valueOrign": "最後的{0}回合，這次你將無法阻止我的攻擊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_FinalJudgment",
+    "value": "Time to meet your end!",
+    "_valueOrign": "這將會是最後一擊！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Knight_FinalJudgmentAfter",
+    "value": "Why are you still alive...",
+    "_valueOrign": "你怎麼還沒死...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beast_DirectAttack",
+    "value": "ROAR!",
+    "_valueOrign": "吼吼！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastmaster_Start",
+    "value": "Come! My children!",
+    "_valueOrign": "好！上吧，孩子們！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastmaster_Start",
+    "value": "I'll teach you to fear my children!",
+    "_valueOrign": "讓你見識我的孩子們有多可怕！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastrmaster_Heal",
+    "value": "Fear not, child. I will heal you.",
+    "_valueOrign": "沒事沒事，我馬上治療",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastrmaster_Heal",
+    "value": "How dare you hurt them...",
+    "_valueOrign": "竟然打傷我的孩子..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastmaster_CallGo",
+    "value": "Now, my children! Devour them!",
+    "_valueOrign": "就是現在！去咬他！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastmaster_CallGo",
+    "value": "Now, my children! Shred them!",
+    "_valueOrign": "好機會，撕裂他！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Beastmaster_Powerup",
+    "value": "Release your power, my dear children!",
+    "_valueOrign": "孩子們，釋放你們的力量！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BeastDog_NeedHeal",
+    "value": "*Whimper*",
+    "_valueOrign": "嗚~",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueen_Start",
+    "value": "Hiss!",
+    "_valueOrign": "嘶嘶！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueen_DirectAtt",
+    "value": "!!",
+    "_valueOrign": "！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueen_ShootEggs",
+    "value": "Hissss",
+    "_valueOrign": "嘶~~",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueen_SecondLevelup",
+    "value": "Hiss HISSSS!",
+    "_valueOrign": "嘶！嘶！嘶！嘶~",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_Start",
+    "value": "Suffer no more...",
+    "_valueOrign": "由我來結束你的痛苦...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_Start",
+    "value": "Time to rest...",
+    "_valueOrign": "你的戰鬥到此為止...休息吧...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_PowerUp",
+    "value": "More frost...",
+    "_valueOrign": "需要更多冰霜...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_PowerUp",
+    "value": "I need more frost...",
+    "_valueOrign": "再更多冰霜...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_SecondLevelup",
+    "value": "Let the frost put you to rest.",
+    "_valueOrign": "在冰霜中長眠吧...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaper_IceWalls",
+    "value": "Come no closer...",
+    "_valueOrign": "不要再接近我了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_Start",
+    "value": "Ladies and gentlemen, welcome to my show!",
+    "_valueOrign": "各位先生女士，歡迎來到傀儡馬戲團～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_Start",
+    "value": "Welcome, everyone! Let's start the show!",
+    "_valueOrign": "久等了各位！請欣賞我們精彩的演出吧～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CircleAtt",
+    "value": "Why are you running?",
+    "_valueOrign": "別想逃！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_GiftBox",
+    "value": "Everyone loves surprises!",
+    "_valueOrign": "誰不喜歡禮物盒呢，呵呵呵～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_GotoLvMax",
+    "value": "Well done! And now, the final act!",
+    "_valueOrign": "很精彩的表現呢！可惜...該謝幕了！！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_GotoLvTwo",
+    "value": "Look! The audience loves it!",
+    "_valueOrign": "看啊！看啊！全場都興奮起來！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_GotoLvOne",
+    "value": "Good! The audience is engaged!",
+    "_valueOrign": "很好！觀眾期待更精彩的表現呢！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CallHammer",
+    "value": "Smash them, Jack!",
+    "_valueOrign": "上吧傀儡！壓爛他！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CallKnife",
+    "value": "Cut them down, Jack!",
+    "_valueOrign": "傀儡！把他切碎吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CallFire",
+    "value": "Incinerate them, Jack!",
+    "_valueOrign": "傀儡！發射火球！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CallBomb",
+    "value": "Blow them up, Jack!",
+    "_valueOrign": "自爆吧！傀儡",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMaster_CallThrowBall",
+    "value": "Corner them, Jack!",
+    "_valueOrign": "傀儡，讓他無處可躲！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBoss_Melee",
+    "value": "Kill...",
+    "_valueOrign": "殺...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBoss_PowerUp",
+    "value": "Kill. All. Intruders.",
+    "_valueOrign": "...殺光..入侵者",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBoss_PowerUp",
+    "value": "All must die...",
+    "_valueOrign": "一個都..不能留...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBoss_LevelupLv2",
+    "value": "DEATH. TO. ALL!!!",
+    "_valueOrign": "全部！摧毀！！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBoss_LevelupLv3",
+    "value": "NO. SURRENDER!!",
+    "_valueOrign": "絕不能....倒下！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalCut_AlinaCut01_01",
+    "value": ".....",
+    "_valueOrign": ".....",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_AlinaCut01_02",
+    "value": ".....不行",
+    "_valueOrign": ".....不行",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_AlinaCut02_01",
+    "value": "...我做不到",
+    "_valueOrign": "...我做不到",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_AlinaCut03_01",
+    "value": "我做不到啦...",
+    "_valueOrign": "我做不到啦...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_AlinaCut03_02",
+    "value": ".....",
+    "_valueOrign": ".....",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_AlinaCut04_01",
+    "value": "父親 ！",
+    "_valueOrign": "父親 ！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_01",
+    "value": "...阿..利...",
+    "_valueOrign": "...阿..利...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_02",
+    "value": "阿利娜...",
+    "_valueOrign": "阿利娜...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_03",
+    "value": "....",
+    "_valueOrign": "....",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_04",
+    "value": "...吾兒啊...很抱..歉..",
+    "_valueOrign": "...吾兒啊...很抱..歉..",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_05",
+    "value": "...很抱歉..要讓你承擔這一切...",
+    "_valueOrign": "...很抱歉..要讓你承擔這一切...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_DemonCut05_06",
+    "value": "你..可以的...動手吧...",
+    "_valueOrign": "你..可以的...動手吧...",
+    "note": "",
+    "isChanged": true
+  }
+]

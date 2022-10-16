@@ -1,0 +1,1424 @@
+{
+  "CharaFlag_Bonus_AttDef": {
+    "keyword": "Well Rested",
+    "_keywordOrigin": "充份休息",
+    "desc": "Increase damage dealt by <V0>, and Block gained from cards in your hand by <V1> for <A> <fight>.",
+    "_descRef": "造成的傷害增加 2，手牌格擋值增加 2，持續 1 場戰鬥",
+    "_descOrigin": "造成的傷害增加 <V0>，手牌格擋值增加 <V1>，持續 <A> 場<fight>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bonus_Draw": {
+    "keyword": "Mindful",
+    "_keywordOrigin": "思緒清晰",
+    "desc": "Draw <V0> additional <card> each turn for <A> <fight>.",
+    "_descRef": "每回合抽牌增加 1，持續 1 場戰鬥",
+    "_descOrigin": "每回合抽牌增加 <V0>，持續 <A> 場<fight>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bonus_Move": {
+    "keyword": "Energetic",
+    "_keywordOrigin": "精力充沛",
+    "desc": "Reduce cost of <CDT0> by 1 <Energy> for <A> <fight>.",
+    "_descRef": "使<color=orange>基礎移動</color>的耗能<sprite index=1>減少 1，持續 1 場戰鬥",
+    "_descOrigin": "使<CDT0>的耗能<Energy>減少 1，持續 <A> 場<fight>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Born_Bandit": {
+    "keyword": "Bandit",
+    "_keywordOrigin": "嗜血",
+    "desc": "Restore 1 HP when you kill an enemy that has <V0> <CHFKP0> each.",
+    "_descRef": "殺死的目標每擁有 2 層<color=orange>出血</color>，回復 1 點血量",
+    "_descOrigin": "殺死的目標每擁有 <V0> 層<CHFKP0>，回復 1 點血量",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_General": {
+    "keyword": "Slave",
+    "_keywordOrigin": "求生本能",
+    "desc": "Restore <AV0> HP at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，回復 4 血量",
+    "_descOrigin": "每場戰鬥開始時，回復 <AV0> 血量",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Hunter": {
+    "keyword": "Hunter",
+    "_keywordOrigin": "狩獵計劃",
+    "desc": "Gain <AV0> <CHFK0> when you play an Exhasut card.",
+    "_descRef": "打出消耗牌時，獲得 1 <color=orange>力量</color>",
+    "_descOrigin": "打出消耗牌時，獲得 <AV0> <CHFK0>",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Mercenary": {
+    "keyword": "Mercenary",
+    "_keywordOrigin": "身經百戰",
+    "desc": "Reduce cost by 1 <Energy> to random card in your hand when you play a Power card.",
+    "_descRef": "打出能力牌時，隨機 1 張手牌本場戰鬥內的耗能降低1 <sprite index=1>",
+    "_descOrigin": "打出能力牌時，隨機 <A> 張手牌本場戰鬥內的耗能降低1 <Energy>",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Nothing": {
+    "keyword": "Deprived",
+    "_keywordOrigin": "囤物症",
+    "desc": "Draw <AV0> additional <card> at the start of each fight. Draw <AV1> less <card> and keep <AV2> <card> each turn.",
+    "_descRef": "每場戰鬥開始時額外抽 3 張牌。每回合抽牌數減少 2，但可以保留 2 張牌",
+    "_descOrigin": "每場戰鬥開始時額外抽 <AV0> 張<card>。每回合抽牌數減少 <AV1>，但可以保留 <AV2> 張<card>",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Pyromancer": {
+    "keyword": "Pyromancer",
+    "_keywordOrigin": "燃力吸收",
+    "desc": "Gain <AV0> <Energy> when you stand on <CHFKP0> at the start of each turn",
+    "_descRef": "回合開始時站在<color=orange>燃燒之地</color>，額外獲得 1 <sprite index=1>",
+    "_descOrigin": "回合開始時站在<CHFKP0>，額外獲得 <AV0> <Energy>",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Samurai": {
+    "keyword": "Samurai",
+    "_keywordOrigin": "沉著",
+    "desc": "Draw <AV0> <card> at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，額外多抽 1 張牌",
+    "_descOrigin": "每場戰鬥開始時，額外多抽 <AV0> 張<card>",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Born_Warrior": {
+    "keyword": "Warrior",
+    "_keywordOrigin": "強健體魄",
+    "desc": "Gain 1 Block by each <V0> <card> in your deck.",
+    "_descRef": "回合開始時牌庫每擁有 5 張牌獲得1格擋",
+    "_descOrigin": "回合開始時牌庫每擁有 <V0> 張牌獲得1格擋",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_AI_AddDmgByBlock": {
+    "keyword": "Offensive Defense",
+    "_keywordOrigin": "裝甲鬥氣",
+    "desc": "Damage is equal to <H>Block</H>.",
+    "_descRef": "依<color=orange>格擋值</color>決定造成的傷害",
+    "_descOrigin": "依<H>格擋值</H>決定造成的傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_AutoHeal": {
+    "keyword": "Regeneration",
+    "_keywordOrigin": "自癒",
+    "desc": "Restore <A> HP at the start of each turn.",
+    "_descRef": "回合開始時回復 1 血量",
+    "_descOrigin": "回合開始時回復 <A> 血量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_BackAttack": {
+    "keyword": "Spiky",
+    "_keywordOrigin": "尖刺",
+    "desc": "When attacked, deal <AV0> damage back.",
+    "_descRef": "受到攻擊後，對攻擊者造成 1 傷害",
+    "_descOrigin": "受到攻擊後，對攻擊者造成 <AV0> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_Berserker": {
+    "keyword": "Berserker",
+    "_keywordOrigin": "狂戰",
+    "desc": "Gain <A> <CHFK0> whenever unblocked damage is received.",
+    "_descRef": "受到傷害時增加 1 <color=orange>力量</color>",
+    "_descOrigin": "受到傷害時增加 <A> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_ChallengerHonor": {
+    "keyword": "Warrior's Pride",
+    "_keywordOrigin": "鬥士榮譽",
+    "desc": "Gain <A> <CHFK0> whenever you play a card that is not a <combatCard>.",
+    "_descRef": "每打出一張牌，如果該牌不是<color=orange>戰鬥牌</color>，獲得 1 層<color=orange>力量</color>",
+    "_descOrigin": "每打出一張牌，如果該牌不是<combatCard>，獲得 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_CursePower": {
+    "keyword": "Curse",
+    "_keywordOrigin": "咒力",
+    "desc": "Evil energy used for attacks.",
+    "_descRef": "施放攻擊所需的能量",
+    "_descOrigin": "施放攻擊所需的能量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_CurserAddAttack": {
+    "keyword": "Absorb Curse",
+    "_keywordOrigin": "咒力吸取",
+    "desc": "Gain <A> <CHFK0> when occupying a <CHFKP0> at the start of each turn.",
+    "_descRef": "回合開始時站在<color=orange>詛咒之地</color>，獲得 1 層<color=orange>力量</color>",
+    "_descOrigin": "回合開始時站在<CHFKP0>，獲得 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_CurserMoreHurt": {
+    "keyword": "Curse Overload",
+    "_keywordOrigin": "詛咒反噬",
+    "desc": "Double the damage dealt and received.",
+    "_descRef": "造成的傷害和受到的傷害都變成<color=orange>兩倍</color>",
+    "_descOrigin": "造成的傷害和受到的傷害都變成<H>兩倍</H>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_Cutter": {
+    "keyword": "Ripper",
+    "_keywordOrigin": "切割",
+    "desc": "Add 1 <CDT0> to your hand whenever it deals unblocked damage.",
+    "_descRef": "造成未被格擋的傷害時，添加1張 <color=orange>傷口</color>",
+    "_descOrigin": "造成未被格擋的傷害時，添加1張 <CDT0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_FinalBossHeart": {
+    "keyword": "Demon Heart",
+    "_keywordOrigin": "惡魔心臟",
+    "desc": "Caps total damage received to <V0> each turn.",
+    "_descRef": "每回合至多受到 300 傷害",
+    "_descOrigin": "每回合至多受到 <V0> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_FireSpirit": {
+    "keyword": "Fire Sprite",
+    "_keywordOrigin": "焰靈",
+    "desc": "Immune to the effects of <CHFK1>. Damage received from other Fire Sprites restore health.",
+    "_descRef": "吸收其他<color=orange>焰靈</color>造成的傷害並回復血量，免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "吸收其他<TITLE>造成的傷害並回復血量，免疫<CHFK1>的效果",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_FireSpiritAddStrength": {
+    "keyword": "Fire Siphon",
+    "_keywordOrigin": "火力吸取",
+    "desc": "Gain <A> <CHFK0> when occupying a <CHFKP0> at the start of each turn.",
+    "_descRef": "回合開始時站在<color=orange>燃燒之地</color>，獲得 1 層<color=orange>力量</color>",
+    "_descOrigin": "回合開始時站在<CHFKP0>，獲得 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_HeavyBody": {
+    "keyword": "Massive",
+    "_keywordOrigin": "沉重身驅",
+    "desc": "Cannot be pulled or knocked back.",
+    "_descRef": "不會被擊退或拉動",
+    "_descOrigin": "不會被擊退或拉動",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_IceBall": {
+    "keyword": "Frost Orb",
+    "_keywordOrigin": "冰霜球",
+    "desc": "Ignore damage dealt by other Frost Orbs.",
+    "_descRef": "無視其他<color=orange>冰霜球</color>造成的傷害",
+    "_descOrigin": "無視其他<TITLE>造成的傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_IceDamage": {
+    "keyword": "Ice Cold",
+    "_keywordOrigin": "冰霜傷害",
+    "desc": "Add <A> <CDT0> to your discard pile whenever it deals damage.",
+    "_descRef": "攻擊命中後，添加 1 張<color=orange>凍傷</color>至棄牌堆中",
+    "_descOrigin": "攻擊命中後，添加 <A> 張<CDT0>至棄牌堆中",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_Invoid": {
+    "keyword": "Nullify",
+    "_keywordOrigin": "虛無化",
+    "desc": "Activates after receiving damage. When activated, reduce damage received by <VNP0>%, reduce attack damage by <VNP1>%.",
+    "_descRef": "受到攻擊後啟動，啟動後受到的傷害減少100%，造成的傷害減少50%",
+    "_descOrigin": "受到攻擊後啟動，啟動後受到的傷害減少<VNP0>%，造成的傷害減少<VNP1>%",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_JesterDummy": {
+    "keyword": "Jack",
+    "_keywordOrigin": "傀儡",
+    "desc": "Goes back-in-the-box when killed. Gains <AV1> <CHFK1> each turn.",
+    "_descRef": "被擊殺後變回禮物盒，每回合增加 1 <color=orange>力量</color>",
+    "_descOrigin": "被擊殺後變回禮物盒，每回合增加 <AV1> <CHFK1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_JesterShield": {
+    "keyword": "Jester's Crown",
+    "_keywordOrigin": "傀儡護盾",
+    "desc": "Each Jack reduces damage received by <VNP0>%.",
+    "_descRef": "場上每存在1隻傀儡，受到的傷害減少25%",
+    "_descOrigin": "場上每存在1隻傀儡，受到的傷害減少<VNP0>%",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_LightningWeapon": {
+    "keyword": "Electrified Weapon",
+    "_keywordOrigin": "雷電武器",
+    "desc": "Add 1 <CDT0> to your hand whenever it deals damage for <A> <turn>.",
+    "_descRef": "攻擊命中後，添加1張<color=orange>電流</color>，持續 1 回合",
+    "_descOrigin": "攻擊命中後，添加1張<CDT0>，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_LoseBalance": {
+    "keyword": "Top-Heavy",
+    "_keywordOrigin": "重心不穩",
+    "desc": "Take <A> direct damage when thrown off balance.",
+    "_descRef": "受到非主動位移時，對自己造成 1 直接傷害",
+    "_descOrigin": "受到非主動位移時，對自己造成 <A> 直接傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_MagicBall": {
+    "keyword": "Amplify",
+    "_keywordOrigin": "成長",
+    "desc": "Increase Max HP by <A> at the start of each turn.",
+    "_descRef": "回合開始時增加 1 血量上限",
+    "_descOrigin": "回合開始時增加 <A> 血量上限",
+    "note": "魔法球用，每回合血量上限會增加",
+    "status": ""
+  },
+  "CharaFlag_AI_MagicBlock": {
+    "keyword": "Magic Shield",
+    "_keywordOrigin": "魔力護盾",
+    "desc": "Reduces damaged received by <VNP0>% for <A> <turn>.",
+    "_descRef": "受到的傷害減少 75%，持續 1 回合",
+    "_descOrigin": "受到的傷害減少 <VNP0>%，持續 <A> <turn>",
+    "note": "同玩家用的",
+    "status": ""
+  },
+  "CharaFlag_AI_OldIgnoreCurse": {
+    "keyword": "Curse Immunity",
+    "_keywordOrigin": "無視咒地",
+    "desc": "Ignore the effects of <CHFK0>s.",
+    "_descRef": "免疫<color=orange>詛咒之地</color>的效果",
+    "_descOrigin": "免疫<CHFK0>的效果",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_Roadblock": {
+    "keyword": "Obstacle",
+    "_keywordOrigin": "障礙物",
+    "desc": "Cannot be moved.",
+    "_descRef": "不會被擊退或拉動，也無法交換",
+    "_descOrigin": "不會被擊退或拉動，也無法交換",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_Slime": {
+    "keyword": "Slimey",
+    "_keywordOrigin": "黏呼呼",
+    "desc": "Add 1 <CDT0> to your hand whenever it deals damage.",
+    "_descRef": "攻擊命中後，添加1張<color=orange>黏液</color>至手牌中",
+    "_descOrigin": "攻擊命中後，添加1張<CDT0>至手牌中",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_StunIgnore": {
+    "keyword": "Stun Immunity",
+    "_keywordOrigin": "無視暈眩",
+    "desc": "Ignore the effects of <CHFK0>.",
+    "_descRef": "免疫<color=orange>暈眩</color>的效果",
+    "_descOrigin": "免疫<CHFK0>的效果",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_AI_WhipDamage": {
+    "keyword": "Whiplash",
+    "_keywordOrigin": "鞭打",
+    "desc": "Add <A> <CDT0> to your discard pile whenever it deals damage.",
+    "_descRef": "攻擊命中後，添加 1 張<color=orange>抽痛</color>至棄牌堆中",
+    "_descOrigin": "攻擊命中後，添加 <A> 張<CDT0>至棄牌堆中",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Aim": {
+    "keyword": "Aim",
+    "_keywordOrigin": "瞄準",
+    "desc": "Increase damage by <VP0>% at next active attack, no matter you have or not select any target.",
+    "_descRef": "每1層造成的傷害提升 25%，於下次主動攻擊後花費 (無論是否有選擇目標)",
+    "_descOrigin": "每1層造成的傷害提升 <VP0>%，於下次主動攻擊後花費 (無論是否有選擇目標)",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Buff_AutoHeal": {
+    "keyword": "Regeneration",
+    "_keywordOrigin": "自癒",
+    "desc": "Restore 1 HP per stack at the end of each turn. Stack decreases each turn.",
+    "_descRef": "回合結束時每1層回復1血量，每回合減少1層",
+    "_descOrigin": "回合結束時每1層回復1血量，每回合減少1層",
+    "note": "玩家版，回復時間點不同",
+    "status": ""
+  },
+  "CharaFlag_Buff_BackAttack": {
+    "keyword": "Reflect",
+    "_keywordOrigin": "暫時尖刺",
+    "desc": "When attacked this turn, deal <AV0> damage back.",
+    "_descRef": "本回合受到攻擊後，對攻擊者造成 1 傷害",
+    "_descOrigin": "本回合受到攻擊後，對攻擊者造成 <AV0> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_BackAttackByShield": {
+    "keyword": "Counter",
+    "_keywordOrigin": "盾反",
+    "desc": "When attacked, deal back damage equal to <H>remaining Block</H> for <A> <turn>.",
+    "_descRef": "受到攻擊後，對攻擊者造成<color=orange>剩餘格擋值</color>的傷害，持續 1 回合",
+    "_descOrigin": "受到攻擊後，對攻擊者造成<H>剩餘格擋值</H>的傷害，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_CostZeroToMoveGeneral": {
+    "keyword": "Light-footed",
+    "_keywordOrigin": "輕快腳步",
+    "desc": "Next <CDT0> you play costs 0 <Energy>.",
+    "_descRef": "下一張打出的<color=orange>基礎移動</color>降為 0 <sprite index=1>",
+    "_descOrigin": "下一張打出的<CDT0>降為 0 <Energy>",
+    "note": "*原本是下回合，改為下一張打出的，打出後才會扣掉，沒打不會扣",
+    "status": ""
+  },
+  "CharaFlag_Buff_CostZeroToStatus": {
+    "keyword": "Energized",
+    "_keywordOrigin": "肉體活化",
+    "desc": "<statusCard> cards cost 0 <Energy> for <A> <turn>.",
+    "_descRef": "牌庫中的<color=orange>狀態牌</color>降為 0 <sprite index=1>，持續 1 回合",
+    "_descOrigin": "牌庫中的<statusCard>降為 0 <Energy>，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Dodge": {
+    "keyword": "Precognition",
+    "_keywordOrigin": "見切",
+    "desc": "Evade next attack.",
+    "_descRef": "迴避下一次主動攻擊行動",
+    "_descOrigin": "迴避下一次主動攻擊行動",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_DoubleDmg": {
+    "keyword": "Kinetic",
+    "_keywordOrigin": "蓄力",
+    "desc": "Next attack deals double damage.",
+    "_descRef": "下一次攻擊，造成傷害變成兩倍",
+    "_descOrigin": "下一次攻擊，造成傷害變成兩倍",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_DoublePower": {
+    "keyword": "Enlightened",
+    "_keywordOrigin": "心靈強化",
+    "desc": "Double the effect of the next <powerCard> card played this turn.",
+    "_descRef": "本回合內，下一張<color=orange>能力牌</color>效果兩倍",
+    "_descOrigin": "本回合內，下一張<powerCard>效果兩倍",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_DrawCardsOnRoundSt": {
+    "keyword": "Poised",
+    "_keywordOrigin": "戰鬥蹲姿",
+    "desc": "Draw <A> additional <card> next turn.",
+    "_descRef": "下回合多抽 1 張牌",
+    "_descOrigin": "下回合多抽 <A> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Focus": {
+    "keyword": "Focus",
+    "_keywordOrigin": "專注",
+    "desc": "The next <combatCard> you play deals <A> additional damage.",
+    "_descRef": "下一次使用<color=orange>戰鬥牌</color>的攻擊，造成的傷害增加 1",
+    "_descOrigin": "下一次使用<combatCard>的攻擊，造成的傷害增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_HealByFullyBlock": {
+    "keyword": "Bloodcurse",
+    "_keywordOrigin": "咒血盾",
+    "desc": "When attacked this turn, restore HP equal to damage received if guard is not broken.",
+    "_descRef": "本回合受到攻擊後，如果沒被破盾，將吸收其造成的傷害並回復血量",
+    "_descOrigin": "本回合受到攻擊後，如果沒被破盾，將吸收其造成的傷害並回復血量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_HeavyBody": {
+    "keyword": "Immovable",
+    "_keywordOrigin": "暫時沉重身驅",
+    "desc": "Cannot be pulled or knocked back for <A> <turn>.",
+    "_descRef": "不會被擊退或拉動，持續 1 回合",
+    "_descOrigin": "不會被擊退或拉動，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_IncreaseBlock": {
+    "keyword": "Hardy",
+    "_keywordOrigin": "堅硬",
+    "desc": "Increase Block gained from cards in your hand by 1 per stack. Stack decreases each turn.",
+    "_descRef": "每1層可使手牌格擋值提升1，每回合減少1層",
+    "_descOrigin": "每1層可使手牌格擋值提升1，每回合減少1層",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_KeepBlock": {
+    "keyword": "Barricade",
+    "_keywordOrigin": "持盾",
+    "desc": "Keep half your Block for this turn.",
+    "_descRef": "本回合可以保留一半格擋",
+    "_descOrigin": "本回合可以保留一半格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_KeepCards": {
+    "keyword": "Retain",
+    "_keywordOrigin": "手牌保留",
+    "desc": "Keep <AV0> <card> at the end of your turn.",
+    "_descRef": "本回合可保留 1 張手牌",
+    "_descOrigin": "本回合可保留 <AV0> 張手牌",
+    "note": "",
+    "status": "Changed"
+  },
+  "CharaFlag_Buff_KeepEnergy": {
+    "keyword": "Efficient",
+    "_keywordOrigin": "能量保存",
+    "desc": "Keep unused Energy <Energy>.",
+    "_descRef": "本回合沒用完的能量<sprite index=1>保留至下回合",
+    "_descOrigin": "本回合沒用完的能量<Energy>保留至下回合",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_KeepFocus": {
+    "keyword": "Hyperfocus",
+    "_keywordOrigin": "保留專注",
+    "desc": "Attacks do not deplete <CHFK0> this turn.",
+    "_descRef": "本回合所有攻擊都可以保留<color=orange>專注</color>",
+    "_descOrigin": "本回合所有攻擊都可以保留<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_MagicBlock": {
+    "keyword": "Magic Shield",
+    "_keywordOrigin": "魔力護盾",
+    "desc": "Reduces damaged received by <VNP0>% for <A> <turn>.",
+    "_descRef": "受到的傷害減少 75%，持續 1 回合",
+    "_descOrigin": "受到的傷害減少 <VNP0>%，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Pierce": {
+    "keyword": "Pierce",
+    "_keywordOrigin": "穿刺",
+    "desc": "Deal direct damage for <A> <turn>.",
+    "_descRef": "無視格擋直接造成傷害，持續 1 回合",
+    "_descOrigin": "無視格擋直接造成傷害，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_ReturnBurn": {
+    "keyword": "Ember",
+    "_keywordOrigin": "火焰屏障",
+    "desc": "When attacked this turn, apply <A> <CHFK0> to attacker.",
+    "_descRef": "本回合受到攻擊後，對攻擊者給予 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "本回合受到攻擊後，對攻擊者給予 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Strength": {
+    "keyword": "Strength",
+    "_keywordOrigin": "力量",
+    "desc": "Increase damage dealt by <A>.",
+    "_descRef": "造成的傷害增加 1",
+    "_descOrigin": "造成的傷害增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_StrengthTemp": {
+    "keyword": "Momentum",
+    "_keywordOrigin": "暫時力量",
+    "desc": "Increase damage dealt by <A> this turn.",
+    "_descRef": "本回合造成的傷害增加 1",
+    "_descOrigin": "本回合造成的傷害增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_Violent": {
+    "keyword": "Rage",
+    "_keywordOrigin": "狂暴",
+    "desc": "Gain <AV0> <CHFK0> each turn.",
+    "_descRef": "每回合開始時獲得 1 <color=orange>力量</color>",
+    "_descOrigin": "每回合開始時獲得 <AV0> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Buff_WarCry": {
+    "keyword": "Trance",
+    "_keywordOrigin": "戰吼",
+    "desc": "Increase damage by <VIP0>% for <A> <turn>.",
+    "_descRef": "造成傷害提升 50%，持續 1 回合",
+    "_descOrigin": "造成傷害提升 <VIP0>%，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Burf_AddFocusOnRoundSt": {
+    "keyword": "Serenity",
+    "_keywordOrigin": "平靜",
+    "desc": "Gain <AV0> <CHFK0> each turn. Stack decreases each turn.",
+    "_descRef": "回合開始時每1層獲得 1 <color=orange>專注</color>，每回合減少1層",
+    "_descOrigin": "回合開始時每1層獲得 <AV0> <CHFK0>，每回合減少1層",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Burf_AddFocusOnUnderAtt": {
+    "keyword": "Discipline",
+    "_keywordOrigin": "耐心",
+    "desc": "When attacked, gain <AV0> <CHFK0>.",
+    "_descRef": "受到攻擊時，獲得 1 <color=orange>專注</color>",
+    "_descOrigin": "受到攻擊時，獲得 <AV0> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Burf_AddFocusOnUnderDmg": {
+    "keyword": "Vengeance",
+    "_keywordOrigin": "以牙還牙",
+    "desc": "When attacked this turn, gain <CHFK0> equal to <H><VNP0>% damage received</H>.",
+    "_descRef": "本回合內受到攻擊時，獲得<color=orange>承受傷害量50%</color>層數的 <color=orange>專注</color>",
+    "_descOrigin": "本回合內受到攻擊時，獲得<H>承受傷害量<VNP0>%</H>層數的 <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_AddBurnExtra": {
+    "keyword": "Pyrophobia",
+    "_keywordOrigin": "畏火烙印",
+    "desc": "Receive <A> additional <CHFK0> whenever <CHFK0> is received.",
+    "_descRef": "受到<color=orange>燃燒</color>時，額外獲得 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "受到<CHFK0>時，額外獲得 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_AddMovableCost": {
+    "keyword": "Shackles",
+    "_keywordOrigin": "移動枷鎖",
+    "desc": "Increase cost of all movement cards by 1 <Energy> for <A> <turn>.",
+    "_descRef": "使有移動效果的牌耗能增加 1 <sprite index=1>，持續 1 回合",
+    "_descOrigin": "使有移動效果的牌耗能增加 1 <Energy>，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_AddWoundOnRoundSt": {
+    "keyword": "Old Wound",
+    "_keywordOrigin": "舊傷",
+    "desc": "Receive 1 <CDT0> at the start of each turn for <A> <turn>.",
+    "_descRef": "回合開始時獲得1張<color=orange>傷口</color>，持續 1 回合",
+    "_descOrigin": "回合開始時獲得1張<CDT0>，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Burning": {
+    "keyword": "Burn",
+    "_keywordOrigin": "燃燒",
+    "desc": "Take <A> direct damage at the end of each turn. Stack decreases each turn.",
+    "_descRef": "回合結束時受到 1 直接傷害，每回合減少1層",
+    "_descOrigin": "回合結束時受到 <A> 直接傷害，每回合減少1層",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_DeathFlag": {
+    "keyword": "Death Mark",
+    "_keywordOrigin": "死亡標記",
+    "desc": "Kill to gain 1 <Energy>. Lasts <A> <turn>.",
+    "_descRef": "擊殺後回復1點<sprite index=1>，持續 1 回合",
+    "_descOrigin": "擊殺後回復1點<Energy>，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_DisableDraw": {
+    "keyword": "Absorbed",
+    "_keywordOrigin": "無法抽牌",
+    "desc": "You cannot draw any more cards this turn.",
+    "_descRef": "本回合無法再抽牌",
+    "_descOrigin": "本回合無法再抽牌",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_FreezeMove": {
+    "keyword": "Immobilized",
+    "_keywordOrigin": "禁錮",
+    "desc": "Unable to move this turn. Cannot be stacked.",
+    "_descRef": "本回合無法移動，不可疊加",
+    "_descOrigin": "本回合無法移動，不可疊加",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Hemorrhage": {
+    "keyword": "Bleed",
+    "_keywordOrigin": "出血",
+    "desc": "Increase damage received by <H><A></H>. Stack decreases each turn.",
+    "_descRef": "受到的傷害增加 <color=orange>1</color>，每回合減少1層",
+    "_descOrigin": "受到的傷害增加 <H><A></H>，每回合減少1層",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Strength": {
+    "keyword": "Sapped",
+    "_keywordOrigin": "喪失力量",
+    "desc": "Reduce attack damage by <A>.",
+    "_descRef": "造成的傷害減少 1",
+    "_descOrigin": "造成的傷害減少 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_StrengthTemp": {
+    "keyword": "Dazed",
+    "_keywordOrigin": "暫時喪失力量",
+    "desc": "Reduce attack damage by <A> this turn.",
+    "_descRef": "本回合造成的傷害減少 1",
+    "_descOrigin": "本回合造成的傷害減少 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Struggling": {
+    "keyword": "Caught",
+    "_keywordOrigin": "纏身",
+    "desc": "Unable to move. Counterattacking removes the effect.",
+    "_descRef": "無法移動，攻擊施放者可以解除纏身",
+    "_descOrigin": "無法移動，攻擊施放者可以解除纏身",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Stun": {
+    "keyword": "Stunned",
+    "_keywordOrigin": "暈眩",
+    "desc": "Incapacitated for 1 turn. Cannot be stacked.",
+    "_descRef": "停止行動1回合，不可疊加",
+    "_descOrigin": "停止行動1回合，不可疊加",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Vulnerable": {
+    "keyword": "Vulnerable",
+    "_keywordOrigin": "易傷",
+    "desc": "Increase damage received by <VIP0>% for <A> <turn>.",
+    "_descRef": "受到的傷害提升 50%，持續 1 回合",
+    "_descOrigin": "受到的傷害提升 <VIP0>%，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Nerf_Weak": {
+    "keyword": "Weak",
+    "_keywordOrigin": "虛弱",
+    "desc": "Reduce attack damage by <VNP0>% for <A> <turn>.",
+    "_descRef": "造成的傷害減少 25%，持續 1 回合",
+    "_descOrigin": "造成的傷害減少 <VNP0>%，持續 <A> <turn>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddCardOnDrawStatus": {
+    "keyword": "Fast Metabolism",
+    "_keywordOrigin": "加速代謝",
+    "desc": "Draw <A> additional <card> when you draw a <statusCard>.",
+    "_descRef": "每當抽到<color=orange>狀態牌</color>時，再抽 1 張牌",
+    "_descOrigin": "每當抽到<statusCard>時，再抽 <A> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddDefByBurnTile": {
+    "keyword": "Born in Flames",
+    "_keywordOrigin": "火焰護盾",
+    "desc": "Gain <A> Block when occupying a <CHFKP0> at the end of each turn.",
+    "_descRef": "回合結束時站在<color=orange>燃燒之地</color>，獲得 1 層格擋",
+    "_descOrigin": "回合結束時站在<CHFKP0>，獲得 <A> 層格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddDefOnPlayStatus": {
+    "keyword": "Trooper",
+    "_keywordOrigin": "代謝盾牌",
+    "desc": "Gain <A> Block when you play a <statusCard>.",
+    "_descRef": "每打出1張<color=orange>狀態牌</color>，獲得 1 層格擋",
+    "_descOrigin": "每打出1張<statusCard>，獲得 <A> 層格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddDmgByDeathFlag": {
+    "keyword": "Demon Slayer",
+    "_keywordOrigin": "狩魔獵人",
+    "desc": "Deal <VAP0>% additional damage to enemies with <CHFK0>.",
+    "_descRef": "當攻擊目標有<color=orange>死亡標記</color>時，造成的傷害提升 25%",
+    "_descOrigin": "當攻擊目標有<CHFK0>時，造成的傷害提升 <VAP0>%",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddFocusOnAddBlock": {
+    "keyword": "Clarity",
+    "_keywordOrigin": "弱點觀察",
+    "desc": "Gain <A> <CHFK0> whenever you gain Block.",
+    "_descRef": "每當獲得格擋時，額外獲得 1 <color=orange>專注</color>",
+    "_descOrigin": "每當獲得格擋時，額外獲得 <A> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_AddFocusOnRoundSt": {
+    "keyword": "Concentration",
+    "_keywordOrigin": "集中精神",
+    "desc": "Gain <AV0> <CHFK0> each turn.",
+    "_descRef": "每回合開始時獲得 1 <color=orange>專注</color>",
+    "_descOrigin": "每回合開始時獲得 <AV0> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_BurnIgnore": {
+    "keyword": "Flame Immunity",
+    "_keywordOrigin": "免疫燃燒",
+    "desc": "Ignore the effects of <CHFK0>.",
+    "_descRef": "免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "免疫<CHFK0>的效果",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_BurnShooter": {
+    "keyword": "Fire Baller",
+    "_keywordOrigin": "火焰射手",
+    "desc": "Every <S0> times you deal damage, add a <CDT0> to your hand. This Power can be stacked to decrease the number of times required.",
+    "_descRef": "累積攻擊命中 4 次後，交換1張<color=orange>小火球</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "累積攻擊命中 <S0> 次後，交換1張<CDT0>進入手牌，疊加可降低需求次數",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_BurnWeapon": {
+    "keyword": "Flaming Weapons",
+    "_keywordOrigin": "火焰武器",
+    "desc": "Apply <A> <CHFK0> whenever you deal damage.",
+    "_descRef": "攻擊命中後，給予 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "攻擊命中後，給予 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_DarkSouls": {
+    "keyword": "Dark Soles",
+    "_keywordOrigin": "黑暗靈魂",
+    "desc": "Every <S0> times you deal damage, add a <CDT0> to your hand. This Power can be stacked to decrease the number of times required.",
+    "_descRef": "累積攻擊命中 6 次後，交換1張<color=orange>黑暗翻滾</color>進入手牌，疊加可降低需求次數",
+    "_descOrigin": "累積攻擊命中 <S0> 次後，交換1張<CDT0>進入手牌，疊加可降低需求次數",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_DempseyRoll": {
+    "keyword": "Dempsey Roll",
+    "_keywordOrigin": "輪擺位移",
+    "desc": "Whenever you move, gain <A> <CHFK0> and <AV1> Block.",
+    "_descRef": "主動位移後獲得 1 層 <color=orange>暫時力量</color>，獲得 1 格擋",
+    "_descOrigin": "主動位移後獲得 <A> 層 <CHFK0>，獲得 <AV1> 格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_DrawCardsByDstHasFlag": {
+    "keyword": "Killer Instinct",
+    "_keywordOrigin": "殺手本能",
+    "desc": "Every <S0> times you apply <CHFK0> by dealing damage, draw a card. This Power can be stacked to decrease the number of times required.",
+    "_descRef": "累積攻擊命中並給予<color=orange>出血</color> 2 次後，抽1張牌，疊加可降低需求次數",
+    "_descOrigin": "累積攻擊命中並給予<CHFK0> <S0> 次後，抽1張牌，疊加可降低需求次數",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_KeepBlockOnNoMove": {
+    "keyword": "Hunker Down",
+    "_keywordOrigin": "不動如山",
+    "desc": "Keep your Block if you do not move.",
+    "_descRef": "在你的回合時如果沒有主動移動過，該回合格擋將不會歸零",
+    "_descOrigin": "在你的回合時如果沒有主動移動過，該回合格擋將不會歸零",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_KeepNoAttack": {
+    "keyword": "Analyze",
+    "_keywordOrigin": "觀察戰場",
+    "desc": "Whenever you don't attack during a turn, gain <A> extra <Energy> next turn.",
+    "_descRef": "在你的回合時如果沒有主動攻擊過，下回合額外獲得 1 能量<sprite index=1>",
+    "_descOrigin": "在你的回合時如果沒有主動攻擊過，下回合額外獲得 <A> 能量<Energy>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_Reflex": {
+    "keyword": "Reflex",
+    "_keywordOrigin": "本能閃避",
+    "desc": "Gain <A> Block whenever you deal damage.",
+    "_descRef": "攻擊命中後，獲得 1 層格擋",
+    "_descOrigin": "攻擊命中後，獲得 <A> 層格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_RollReload": {
+    "keyword": "Run and Gun",
+    "_keywordOrigin": "翻滾裝填",
+    "desc": "Whenever you move, reload your Weapon and draw <AV1> <card>.",
+    "_descRef": "主動位移後自動裝填手中的裝備，並抽 1 張牌",
+    "_descOrigin": "主動位移後自動裝填手中的裝備，並抽 <AV1> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Power_Sharp": {
+    "keyword": "Razor Sharp",
+    "_keywordOrigin": "鋒利",
+    "desc": "Apply <A> <CHFK0> whenever you deal unblocked damage.",
+    "_descRef": "造成未被格擋的傷害時，給予 1 層<color=orange>出血</color>",
+    "_descOrigin": "造成未被格擋的傷害時，給予 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Tile_Burn": {
+    "keyword": "Flaming Tile",
+    "_keywordOrigin": "燃燒之地",
+    "desc": "Apply <V0> <CHFK0> at the end of each turn.",
+    "_descRef": "回合結束時，獲得 1 層<color=orange>燃燒</color>",
+    "_descOrigin": "回合結束時，獲得 <V0> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Tile_Curse": {
+    "keyword": "Cursed Tile",
+    "_keywordOrigin": "詛咒之地",
+    "desc": "Double damage received.",
+    "_descRef": "受到的傷害變成兩倍",
+    "_descOrigin": "受到的傷害變成兩倍",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Tile_Ice": {
+    "keyword": "Freezing Tile",
+    "_keywordOrigin": "冰霜之地",
+    "desc": "Increase cost of all movement cards by 1 <Energy>.",
+    "_descRef": "使有移動效果的牌耗能增加 1 <sprite index=1>",
+    "_descOrigin": "使有移動效果的牌耗能增加 1 <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_AlchemyOp1": {
+    "keyword": "Alchemy",
+    "_keywordOrigin": "等價交換",
+    "desc": "Increase damage dealt by <A>. Reduce Block gained from cards in your hand by <A>.",
+    "_descRef": "造成的傷害增加 1，手牌格擋值減少 1",
+    "_descOrigin": "造成的傷害增加 <A>，手牌格擋值減少 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_AlchemyOp2": {
+    "keyword": "Alchemy",
+    "_keywordOrigin": "等價交換",
+    "desc": "Reduce damage dealt by <A>. Increase Block gained from cards in your hand by <A>.",
+    "_descRef": "造成的傷害減少 1，手牌格擋值提升 1",
+    "_descOrigin": "造成的傷害減少 <A>，手牌格擋值提升 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_DevilContractOp1": {
+    "keyword": "Devil's Contract",
+    "_keywordOrigin": "惡魔契約",
+    "desc": "Draw <A> additional <card> each turn.",
+    "_descRef": "每回合抽牌增加 1",
+    "_descOrigin": "每回合抽牌增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_DevilContractOp2": {
+    "keyword": "Devil's Contract",
+    "_keywordOrigin": "惡魔契約",
+    "desc": "Increase damage dealt by <A>.",
+    "_descRef": "造成的傷害增加 1",
+    "_descOrigin": "造成的傷害增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_DevilContractOp3": {
+    "keyword": "Devil's Contract",
+    "_keywordOrigin": "惡魔契約",
+    "desc": "Increase limit of cards in hand by <V0>.",
+    "_descRef": "手牌上限增加 2",
+    "_descOrigin": "手牌上限增加 <V0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_FinalBossTicket": {
+    "keyword": "Soul Shard",
+    "_keywordOrigin": "靈魂水晶",
+    "desc": "Proof of worthiness to challenge the <H>Demon of the Arena</H>.",
+    "_descRef": "挑戰<color=orange>鬥技場的惡魔</color>的條件",
+    "_descOrigin": "挑戰<H>鬥技場的惡魔</H>的條件",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_RedBluePill": {
+    "keyword": "Side Effect",
+    "_keywordOrigin": "副作用",
+    "desc": "Increase damage received by <VIP0>% for <A> <fight>.",
+    "_descRef": "受到的傷害提升 50%，持續 1 場戰鬥",
+    "_descOrigin": "受到的傷害提升 <VIP0>%，持續 <A> 場<fight>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_SkinBackAttack": {
+    "keyword": "Spiky Skin",
+    "_keywordOrigin": "尖刺皮膚",
+    "desc": "When attacked, deal <AV0> damage back.",
+    "_descRef": "受到攻擊後，對攻擊者造成 2 傷害",
+    "_descOrigin": "受到攻擊後，對攻擊者造成 <AV0> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_SkinRock": {
+    "keyword": "Stony Skin",
+    "_keywordOrigin": "硬甲皮膚",
+    "desc": "Gain <AV0> Block at the start of each turn.",
+    "_descRef": "回合開始時獲得 2 層格擋",
+    "_descOrigin": "回合開始時獲得 <AV0> 層格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_VampirePower": {
+    "keyword": "Vampire's Blood",
+    "_keywordOrigin": "吸血鬼血液",
+    "desc": "Restore <AV0> HP when you kill an enemy.",
+    "_descRef": "擊殺單位回復 2 血量",
+    "_descOrigin": "擊殺單位回復 <AV0> 血量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Keep_WerewolfPower": {
+    "keyword": "Werewolf's Blood",
+    "_keywordOrigin": "狼人血液",
+    "desc": "Gain <AV0> <CHFK0> when you kill an enemy.",
+    "_descRef": "擊殺單位後獲得 2 層<color=orange>力量</color>",
+    "_descOrigin": "擊殺單位後獲得 <AV0> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_ArenaHostOpt1": {
+    "keyword": "Host's Request",
+    "_keywordOrigin": "主持人的要求",
+    "desc": "Take <MPV0> hits to receive a <CDT1>.",
+    "_descRef": "承受 <color=orange>6</color> 次攻擊，成功將獲得<color=orange>回血藥水(小)</color>",
+    "_descOrigin": "承受 <MPV0> 次攻擊，成功將獲得<CDT1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_ArenaHostOpt2": {
+    "keyword": "Host's Request",
+    "_keywordOrigin": "主持人的要求",
+    "desc": "Perform a <MPV0>-hit combo to receive a <CDT1>.",
+    "_descRef": "打出 <color=orange>5</color> combo以上，成功將獲得<color=orange>回血藥水(中)</color>",
+    "_descOrigin": "打出 <MPV0> combo以上，成功將獲得<CDT1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_ArenaHostOpt3": {
+    "keyword": "Host's Request",
+    "_keywordOrigin": "主持人的要求",
+    "desc": "Deal <MPV0> damage in a single attack to receive a <CDT1>.",
+    "_descRef": "打出單次最大傷害 <color=orange>50</color> 以上，成功將獲得<color=orange>回血藥水(大)</color>",
+    "_descOrigin": "打出單次最大傷害 <MPV0> 以上，成功將獲得<CDT1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_BetFastWinOpt1": {
+    "keyword": "Speed Challenge",
+    "_keywordOrigin": "速攻挑戰",
+    "desc": "Win the fight in <MPV0> turns to receive <V1> gold.",
+    "_descRef": "在 <color=orange>3</color> 回合內結束戰鬥，成功將獲得300金幣",
+    "_descOrigin": "在 <MPV0> 回合內結束戰鬥，成功將獲得<V1>金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_BetFastWinOpt2": {
+    "keyword": "Speed Challenge",
+    "_keywordOrigin": "速攻挑戰",
+    "desc": "Win the fight in <MPV0> turns to receive <V1> gold.",
+    "_descRef": "在 <color=orange>6</color> 回合內結束戰鬥，成功將獲得150金幣",
+    "_descOrigin": "在 <MPV0> 回合內結束戰鬥，成功將獲得<V1>金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_BetHugeDmgOp1": {
+    "keyword": "Damage Challenge",
+    "_keywordOrigin": "高傷挑戰",
+    "desc": "Deal <MPV0> damage in a single attack to receive <V1> gold.",
+    "_descRef": "打出單次最大傷害 <color=orange>60</color> 以上，成功將獲得450金幣",
+    "_descOrigin": "打出單次最大傷害 <MPV0> 以上，成功將獲得<V1>金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_BetHugeDmgOp2": {
+    "keyword": "Damage Challenge",
+    "_keywordOrigin": "高傷挑戰",
+    "desc": "Deal <MPV0> damage in a single attack to receive <V1> gold.",
+    "_descRef": "打出單次最大傷害 <color=orange>45</color> 以上，成功將獲得250金幣",
+    "_descOrigin": "打出單次最大傷害 <MPV0> 以上，成功將獲得<V1>金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_GangsterOpt1": {
+    "keyword": "Mafia's Offer",
+    "_keywordOrigin": "黑幫老大的約定",
+    "desc": "Win the fight in <MPV0> turns, or lose all your gold.",
+    "_descRef": "在 <color=orange>5</color> 回合內結束戰鬥，失敗將失去所有金幣",
+    "_descOrigin": "在 <MPV0> 回合內結束戰鬥，失敗將失去所有金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Mission_GangsterOpt2": {
+    "keyword": "Mafia's Offer",
+    "_keywordOrigin": "黑幫老大的約定",
+    "desc": "Perform a <MPV0>-hit combo, or lose all your gold.",
+    "_descRef": "打出 <color=orange>6</color> 連擊以上，失敗將失去所有金幣",
+    "_descOrigin": "打出 <MPV0> 連擊以上，失敗將失去所有金幣",
+    "note": "",
+    "status": "Changed"
+  },
+  "CharaFlag_Mission_GangsterOpt3": {
+    "keyword": "Mafia's Offer",
+    "_keywordOrigin": "黑幫老大的約定",
+    "desc": "Win the fight without taking any damage<MPV0>, or lose all your gold.",
+    "_descRef": "毫髮無傷的獲勝<color=orange></color>，失敗將失去所有金幣",
+    "_descOrigin": "毫髮無傷的獲勝<MPV0>，失敗將失去所有金幣",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddBlockOnRndSt": {
+    "keyword": "Iron Bracer",
+    "_keywordOrigin": "硬甲護腕",
+    "desc": "Gain <AV0> Block at the start of each turn.",
+    "_descRef": "回合開始時獲得 2 層格擋",
+    "_descOrigin": "回合開始時獲得 <AV0> 層格擋",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddDeathFlag": {
+    "keyword": "Demon Slayer Bracer",
+    "_keywordOrigin": "狩魔護腕",
+    "desc": "Apply <A> <CHFK0> whenever you deal damage.",
+    "_descRef": "攻擊命中後，給予 1 層<color=orange>死亡標記</color>",
+    "_descOrigin": "攻擊命中後，給予 <A> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddDraw": {
+    "keyword": "Strategist Bracer",
+    "_keywordOrigin": "敏捷護腕",
+    "desc": "Draw <A> additional <card> each turn.",
+    "_descRef": "每回合抽牌增加 1",
+    "_descOrigin": "每回合抽牌增加 <A>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddFocusOnRndSt": {
+    "keyword": "Samurai Bracer",
+    "_keywordOrigin": "集中護腕",
+    "desc": "Gain <AV0> <CHFK0> at the start of each turn.",
+    "_descRef": "回合開始時獲得 1 層 <color=orange>專注</color>",
+    "_descOrigin": "回合開始時獲得 <AV0> 層 <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddFocusOnUnderAtt": {
+    "keyword": "Sohei Bracer",
+    "_keywordOrigin": "耐心護腕",
+    "desc": "When attacked, gain <AV0> <CHFK0>.",
+    "_descRef": "受到攻擊時，獲得 2 <color=orange>專注</color>",
+    "_descOrigin": "受到攻擊時，獲得 <AV0> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddMaxHp": {
+    "keyword": "Mountain Bracer",
+    "_keywordOrigin": "血量護腕",
+    "desc": "Increase Max HP by <AV0>.",
+    "_descRef": "血量上限增加 14 ",
+    "_descOrigin": "血量上限增加 <AV0> ",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddStrength": {
+    "keyword": "Earth Bracer",
+    "_keywordOrigin": "力量護腕",
+    "desc": "Gain <AV0> <CHFK0> at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，獲得 2 層<color=orange>力量</color>",
+    "_descOrigin": "每場戰鬥開始時，獲得 <AV0> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_AddStrengthOnBurnTile": {
+    "keyword": "Magma Bracer",
+    "_keywordOrigin": "火拳護腕",
+    "desc": "Ignore the effects of <CHFK1>. Gain <AV0> <CHFK0> when occupying a <CHFKP0> at the end of each turn.",
+    "_descRef": "回合結束時站在<color=orange>燃燒之地</color>，獲得 2 層<color=orange>力量</color>，免疫<color=orange>燃燒</color>的效果",
+    "_descOrigin": "回合結束時站在<CHFKP0>，獲得 <AV0> 層<CHFK0>，免疫<CHFK1>的效果",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_BackAttack": {
+    "keyword": "Spiked Bracer",
+    "_keywordOrigin": "尖刺護腕",
+    "desc": "When attacked, deal <AV0> damage back.",
+    "_descRef": "受到攻擊後，對攻擊者造成 1 傷害",
+    "_descOrigin": "受到攻擊後，對攻擊者造成 <AV0> 傷害",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_Berserker": {
+    "keyword": "Berserker Bracer",
+    "_keywordOrigin": "狂戰士護腕",
+    "desc": "Gain <A> <CHFK0> whenever you receive damage.",
+    "_descRef": "受到傷害時增加 1 <color=orange>力量</color>",
+    "_descOrigin": "受到傷害時增加 <A> <CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_DrawCardsOnFightSt": {
+    "keyword": "Duelist Bracer",
+    "_keywordOrigin": "速攻護腕",
+    "desc": "Draw <AV0> additional <card> at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，額外多抽 2 張牌",
+    "_descOrigin": "每場戰鬥開始時，額外多抽 <AV0> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_DrawCardsOnKill": {
+    "keyword": "Hunter Bracer",
+    "_keywordOrigin": "獵首護腕",
+    "desc": "Draw <A> <card> when you kill an enemy.",
+    "_descRef": "擊殺敵人後抽 1 張牌",
+    "_descOrigin": "擊殺敵人後抽 <A> 張<card>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_ExtraBurning": {
+    "keyword": "Flaming Bracer",
+    "_keywordOrigin": "火焰護腕",
+    "desc": "Increase actively applied Burn by <A>.",
+    "_descRef": "主動造成的燃燒量提升 1 ",
+    "_descOrigin": "主動造成的燃燒量提升 <A> ",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_FeatureLvup": {
+    "keyword": "Chrono Bracer",
+    "_keywordOrigin": "進化護腕",
+    "desc": "Card rewards from fights will be upgraded from now on. You can no longer remove any cards through meditation or at shops.",
+    "_descRef": "獲得的獎勵卡片都將是升級後的，但無法再主動移除卡片",
+    "_descOrigin": "獲得的獎勵卡片都將是升級後的，但無法再主動移除卡片",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_HealOnFightSt": {
+    "keyword": "Water Bracer",
+    "_keywordOrigin": "治療護腕",
+    "desc": "Restore <AV0> HP at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，回復 5 血量",
+    "_descOrigin": "每場戰鬥開始時，回復 <AV0> 血量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_HurtPlayHealKill": {
+    "keyword": "Vampire Bracer",
+    "_keywordOrigin": "吸血鬼護腕",
+    "desc": "Restore <AV0> HP when you kill an enemy.",
+    "_descRef": "擊殺單位回復 3 血量",
+    "_descOrigin": "擊殺單位回復 <AV0> 血量",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_IncreaseBlock": {
+    "keyword": "Guardian Bracer",
+    "_keywordOrigin": "守護護腕",
+    "desc": "Increase Block gained from cards in your hand by <A>.",
+    "_descRef": "手牌格擋值提升 1 ",
+    "_descOrigin": "手牌格擋值提升 <A> ",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_MoveCostZero": {
+    "keyword": "Wind Bracer",
+    "_keywordOrigin": "疾風護腕",
+    "desc": "Gain <AV0> <CHFK0> at the start of each fight.",
+    "_descRef": "每場戰鬥開始時，獲得 4 層<color=orange>輕快腳步</color>",
+    "_descOrigin": "每場戰鬥開始時，獲得 <AV0> 層<CHFK0>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_RandomCardZeroCost": {
+    "keyword": "Fortune Bracer",
+    "_keywordOrigin": "強運護腕",
+    "desc": "At the start of each fight, reduce the cost of <A> random <card> in your hand to 0 <Energy> for the fight.",
+    "_descRef": "每場戰鬥開始時，隨機 1 張手牌本場戰鬥降為 0 <sprite index=1>",
+    "_descOrigin": "每場戰鬥開始時，隨機 <A> 張手牌本場戰鬥降為 0 <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_RefCardCostZero": {
+    "keyword": "Lightning Bracer",
+    "_keywordOrigin": "減壓護腕",
+    "desc": "<CDT0> costs 0 <Energy>.",
+    "_descRef": "牌庫中的<color=orange>疲勞</color>降為 0 <sprite index=1>",
+    "_descOrigin": "牌庫中的<CDT0>降為 0 <Energy>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_SaveThrowEquipment": {
+    "keyword": "Throw Bracer",
+    "_keywordOrigin": "投擲護腕",
+    "desc": "Hurled weapon will not distroy in arena.",
+    "_descRef": "投擲後的裝備不會使消失於鬥技場",
+    "_descOrigin": "投擲後的裝備不會使消失於鬥技場",
+    "note": "",
+    "status": "New"
+  },
+  "CharaFlag_Bracer_Sharp": {
+    "keyword": "Assassin Bracer",
+    "_keywordOrigin": "殺手護腕",
+    "desc": "Start each fight with <AV0> <CHFK0> and <AV1> <CHFK1>.",
+    "_descRef": "每場戰鬥開始時，獲得 1 層<color=orange>鋒利</color>，獲得 1 層<color=orange>喪失力量</color>",
+    "_descOrigin": "每場戰鬥開始時，獲得 <AV0> 層<CHFK0>，獲得 <AV1> 層<CHFK1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Bracer_Violent": {
+    "keyword": "Storm Bracer",
+    "_keywordOrigin": "狂暴護腕",
+    "desc": "Start each fight with <AV0> <CHFK0> and <AV1> <CHFK1>.",
+    "_descRef": "每場戰鬥開始時，獲得 1 層<color=orange>狂暴</color>，獲得 3 層<color=orange>喪失力量</color>",
+    "_descOrigin": "每場戰鬥開始時，獲得 <AV0> 層<CHFK0>，獲得 <AV1> 層<CHFK1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_AddHesitation": {
+    "keyword": "Wolf Charm",
+    "_keywordOrigin": "孤狼項鍊",
+    "desc": "Gain 1 <Energy> each turn. Receive <A> <CDT1> whenever you move.",
+    "_descRef": "<sprite index=1>上限+1，每次移動獲得 1 張<color=orange>猶豫</color>",
+    "_descOrigin": "<Energy>上限+1，每次移動獲得 <A> 張<CDT1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_AddMovableCost": {
+    "keyword": "Turtle Charm",
+    "_keywordOrigin": "鐵龜項鍊",
+    "desc": "Gain 1 <Energy> each turn. Receive <AV1> <CHFK1> and <AV2> <CHFK2> at the start of each fight.",
+    "_descRef": "<sprite index=1>上限+1，每場戰鬥開始時，獲得 3 層<color=orange>移動枷鎖</color> 及 3 層<color=orange>堅硬</color>",
+    "_descOrigin": "<Energy>上限+1，每場戰鬥開始時，獲得 <AV1> 層<CHFK1> 及 <AV2> 層<CHFK2>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_DisableChangeEquipments": {
+    "keyword": "Dog Charm",
+    "_keywordOrigin": "狂犬項鍊",
+    "desc": "Gain 1 <Energy> each turn. Equipped weapons cannot be swapped during fights.",
+    "_descRef": "<sprite index=1>上限+1，戰鬥中無法更換手中的裝備",
+    "_descOrigin": "<Energy>上限+1，戰鬥中無法更換手中的裝備",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_DisableItemPackLimit": {
+    "keyword": "Cat Charm",
+    "_keywordOrigin": "主貓項鍊",
+    "desc": "Gain 1 <Energy> each turn. Disable <V1> item slots",
+    "_descRef": "<sprite index=1>上限+1，道具格上限減少 2 ",
+    "_descOrigin": "<Energy>上限+1，道具格上限減少 <V1> ",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_DisableRemoveCard": {
+    "keyword": "Boar Charm",
+    "_keywordOrigin": "山豬項鍊",
+    "desc": "Gain 1 <Energy> each turn. Cards can no longer be removed through Meditate.",
+    "_descRef": "<sprite index=1>上限+1，無法再使用冥想移除卡片",
+    "_descOrigin": "<Energy>上限+1，無法再使用冥想移除卡片",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_GetWoundPerRound": {
+    "keyword": "Crane Charm",
+    "_keywordOrigin": "猛鶴項鍊",
+    "desc": "Gain 1 <Energy> each turn. Receive <AV1> <CHFK1> at the start of each fight.",
+    "_descRef": "<sprite index=1>上限+1，每場戰鬥開始時，獲得 4 層<color=orange>舊傷</color>",
+    "_descOrigin": "<Energy>上限+1，每場戰鬥開始時，獲得 <AV1> 層<CHFK1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_HalfGetCoin": {
+    "keyword": "Rat Charm",
+    "_keywordOrigin": "錢鼠項鍊",
+    "desc": "Gain 1 <Energy> each turn. Reduce gold earned by half.",
+    "_descRef": "<sprite index=1>上限+1，獲得的金錢減半",
+    "_descOrigin": "<Energy>上限+1，獲得的金錢減半",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_HalfHandLimit": {
+    "keyword": "Cheetah Charm",
+    "_keywordOrigin": "獵豹項鍊",
+    "desc": "Gain 1 <Energy> each turn. Reduce limit of cards in hand by <V1>.",
+    "_descRef": "<sprite index=1>上限+1，手牌上限減少 2",
+    "_descOrigin": "<Energy>上限+1，手牌上限減少 <V1>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_MultiplyAddHp": {
+    "keyword": "Rabbit Charm",
+    "_keywordOrigin": "狡兔項鍊",
+    "desc": "Gain 1 <Energy> each turn. Reduce all HP restored by half.",
+    "_descRef": "<sprite index=1>上限+1，回復的血量減半",
+    "_descOrigin": "<Energy>上限+1，回復的血量減半",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_MultiplyDmgOnUnderAtt": {
+    "keyword": "Snake Charm",
+    "_keywordOrigin": "赤蛇項鍊",
+    "desc": "Gain 1 <Energy> each turn. Increase damage received by <VIP1>%.",
+    "_descRef": "<sprite index=1>上限+1，受到的傷害提升 25%",
+    "_descOrigin": "<Energy>上限+1，受到的傷害提升 <VIP1>%",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_NoBlock": {
+    "keyword": "Bear Charm",
+    "_keywordOrigin": "巨熊項鍊",
+    "desc": "Gain 1 <Energy> each turn, and <AV2> <CHFK2> at the start of each fight. You can no longer gain Block.",
+    "_descRef": "<sprite index=1>上限+1，無法獲得格擋，每場戰鬥開始時，獲得 2 層<color=orange>力量</color>",
+    "_descOrigin": "<Energy>上限+1，無法獲得格擋，每場戰鬥開始時，獲得 <AV2> 層<CHFK2>",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_SubDrawCards": {
+    "keyword": "Elephant Charm",
+    "_keywordOrigin": "戰象項鍊",
+    "desc": "Gain 1 <Energy> each turn. Draw <AV1> less <card> each turn.",
+    "_descRef": "<sprite index=1>上限+1，每回合抽牌減少 1",
+    "_descOrigin": "<Energy>上限+1，每回合抽牌減少 <AV1>",
+    "note": "",
+    "status": "Changed"
+  },
+  "CharaFlag_Charm_SubMaxHp": {
+    "keyword": "Monkey Charm",
+    "_keywordOrigin": "靈猴項鍊",
+    "desc": "Gain 1 <Energy> each turn. Reduce Max HP by <V1>.",
+    "_descRef": "<sprite index=1>上限+1，血量上限減少 30 ",
+    "_descOrigin": "<Energy>上限+1，血量上限減少 <V1> ",
+    "note": "",
+    "status": ""
+  },
+  "CharaFlag_Charm_SubRewardCardCnt": {
+    "keyword": "Capybara Charm",
+    "_keywordOrigin": "水豚項鍊",
+    "desc": "Gain 1 <Energy> each turn. You have <V1> less card rewards to choose from.",
+    "_descRef": "<sprite index=1>上限+1，獎勵卡片可選擇數量減少 2",
+    "_descOrigin": "<Energy>上限+1，獎勵卡片可選擇數量減少 <V1>",
+    "note": "",
+    "status": ""
+  }
+}

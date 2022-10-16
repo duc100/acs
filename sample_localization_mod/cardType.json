@@ -1,0 +1,65 @@
+[
+  {
+    "key": "Action",
+    "value": "Action",
+    "_valueOrign": "動作",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Skill",
+    "value": "Skill",
+    "_valueOrign": "技能",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Equipment",
+    "value": "Weapon",
+    "_valueOrign": "裝備",
+    "note": "*Weapon",
+    "isChanged": false
+  },
+  {
+    "key": "Item",
+    "value": "Consumable",
+    "_valueOrign": "道具",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Power",
+    "value": "Power",
+    "_valueOrign": "能力",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Status",
+    "value": "Status",
+    "_valueOrign": "狀態",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Combat",
+    "value": "Combat",
+    "_valueOrign": "戰鬥",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Trap",
+    "value": "Trap",
+    "_valueOrign": "陷阱",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Trinket",
+    "value": "Accessory",
+    "_valueOrign": "飾品",
+    "note": "",
+    "isChanged": false
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "Tute_Block": {
+    "title": "<color=#21E2AD>BLOCK</color><sprite name=Defend>",
+    "desc": "Gain <color=#21E2AD>Block</color> by playing defensive cards.\n<color=#21E2AD>Block</color> reduces the damage you receive. However, all <color=#21E2AD>Block</color> is removed at the start of each turn, so play them only when they're needed!",
+    "status": ""
+  },
+  "Tute_EnemyBlock": {
+    "title": "<color=#21E2AD>ENEMY BLOCK</color><sprite name=Defend>",
+    "desc": "Unlike your Blocks, <color=#21E2AD>Enemy Block</color><sprite name=Defend> is <color=red>not removed</color> each turn. However, reducing it to zero will break their guard and <color=yellow>stun</color> them for 1 turn. So try to time each stun to your advantage!",
+    "status": ""
+  },
+  "Tute_Energy": {
+    "title": "<color=#9d959d>CARDS</color><sprite name=Card> & <color=#ffaf03>ENERGY</color><sprite name=Energy>",
+    "desc": "Each card performs an action and costs <color=#ffaf03>Energy</color> to play. Defeat enemies by playing your cards strategically. Both your cards and Energy <color=red>do not carry over turns</color>, so try to make the most of them!",
+    "status": ""
+  },
+  "Tute_Equipment": {
+    "title": "WEAPONS",
+    "desc": "Place Weapons in the <color=yellow>colored hand slots</color> to enhance <color=orange>Combat</color> cards of the same color. Manage your Weapons wisely to increase your fighting potential!",
+    "status": ""
+  },
+  "Tute_GeneralMove": {
+    "title": "INITIATIVE",
+    "desc": "An <color=yellow>Initiative</color> is added to your hand at the start of each turn.\n\nBecause of the card's <color=#ffaf03>Eliminable Opener</color> property, you must choose whether to play it first. Decide if you need to reposition yourself before you do anything else!",
+    "status": ""
+  },
+  "Tute_IncreaseInHands": {
+    "title": "<color=#ffaf03>POWER MOVE</color><sprite name=Increase>",
+    "desc": "Your Weapon has a Power Move. Try it out! <color=red>Toggling</color> the <color=#ffaf03>Power Move</color><sprite name=Increase> greatly increases your Weapon's potential. Although it can only be used for a <color=orange>limited number of times</color>, it <color=red>recharges</color> after every fight. So don't hold back! Use it to turn the tides of battle!",
+    "status": ""
+  },
+  "Tute_IncreaseOnTile": {
+    "title": "<color=#ffaf03>POWER MOVE</color><sprite name=Increase>",
+    "desc": "There's a Weapon with a Power Move on the ground. Take it! <color=red>Toggling</color> the <color=#ffaf03>Power Move</color><sprite name=Increase> greatly increases your Weapon's potential. Although it can only be used for a <color=orange>limited number of times</color>, it <color=red>recharges</color> after every fight. So don't hold back! Use it to turn the tides of battle!",
+    "status": ""
+  },
+  "Tute_LaunchStore": {
+    "title": "<color=#CD7CFF>MYSTERY SHOP</color>",
+    "desc": "A mysterious shop that only appears for returning gladiators.\n\nEverything in it must be purchased with <color=#CD7CFF>Kill Coins</color>, which you can get by progressing through each arena.",
+    "status": ""
+  },
+  "Tute_ReDrawPile": {
+    "title": "SHUFFLING",
+    "desc": "When your <color=#FFAA00>Draw Pile</color> is empty, drawing another card will shuffle all cards in your <color=#DD0000>Discard Pile</color> back into your draw pile.",
+    "status": ""
+  },
+  "Tute_Reload": {
+    "title": "<color=#A40000>RELOAD</color>",
+    "desc": "Weapons with the <color=#A40000>Reload</color> property must expend a<color=orange> Combat card of the same color</color> to reload. This can be done by selecting the card, then selecting <color=yellow>your character</color>.",
+    "status": ""
+  }
+}

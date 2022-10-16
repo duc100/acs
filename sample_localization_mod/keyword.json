@@ -1,0 +1,83 @@
+[
+  {
+    "key": "CARD",
+    "tagStr": "<card>",
+    "singular": "card",
+    "plural": "cards",
+    "isUseColor": false,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "TILE",
+    "tagStr": "<tile>",
+    "singular": "tile",
+    "plural": "tiles",
+    "isUseColor": false,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "TURN",
+    "tagStr": "<turn>",
+    "singular": "turn",
+    "plural": "turns",
+    "isUseColor": false,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FIGHT",
+    "tagStr": "<fight>",
+    "singular": "fight",
+    "plural": "fights",
+    "isUseColor": false,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "STATUS_CARD",
+    "tagStr": "<statusCard>",
+    "singular": "Status",
+    "plural": "Status",
+    "isUseColor": true,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "COMBAT_CARD",
+    "tagStr": "<combatCard>",
+    "singular": "Combat",
+    "plural": "Combat",
+    "isUseColor": true,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "POWER_CARD",
+    "tagStr": "<powerCard>",
+    "singular": "Power",
+    "plural": "Power",
+    "isUseColor": true,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "ACTION_CARD",
+    "tagStr": "<actionCard>",
+    "singular": "Action",
+    "plural": "Action",
+    "isUseColor": true,
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SKILL_CARD",
+    "tagStr": "<skillCard>",
+    "singular": "Skill",
+    "plural": "Skill",
+    "isUseColor": true,
+    "note": "",
+    "isChanged": false
+  }
+]

@@ -1,0 +1,989 @@
+[
+  {
+    "key": "RoundStart",
+    "value": "Go! Go!",
+    "_valueOrign": "上啊！上啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Go for it!",
+    "_valueOrign": "好好表現啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Hurry up!",
+    "_valueOrign": "等好久啦～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Finally!",
+    "_valueOrign": "終於開始了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Has it started?",
+    "_valueOrign": "咦！？開始啦？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Aw yeah!",
+    "_valueOrign": "開始啦！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "I can't see!",
+    "_valueOrign": "前面的坐下！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Destroy 'em!",
+    "_valueOrign": "我要看到血流成河！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "What took so long!",
+    "_valueOrign": "等半天...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "This guy again.",
+    "_valueOrign": "怎麼又是這傢伙..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "I came for this!",
+    "_valueOrign": "我特別來看這場的",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Meh, I'm going home.",
+    "_valueOrign": "啊..好想回家",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "They look so weak.",
+    "_valueOrign": "他看起來好弱喔..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Go get 'em!",
+    "_valueOrign": "給我上啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RoundStart",
+    "value": "Hurry up! I wanna see the next match!",
+    "_valueOrign": "快點結束！我要看一下場！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "That's it!",
+    "_valueOrign": "就是這樣！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Yeah!",
+    "_valueOrign": "好耶！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Hell yeah!",
+    "_valueOrign": "喔喔喔！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Awesome!",
+    "_valueOrign": "漂亮！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Good one!",
+    "_valueOrign": "打的好啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Nice move!",
+    "_valueOrign": "這招不錯喔～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "That was good!",
+    "_valueOrign": "哇！剛才那個好厲害喔～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Not bad.",
+    "_valueOrign": "還不錯嘛..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "!!!",
+    "_valueOrign": "！！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Do it again!",
+    "_valueOrign": "喔喔！再來！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Get 'em!",
+    "_valueOrign": "上啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Yes!",
+    "_valueOrign": "帥啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Cut 'em off!",
+    "_valueOrign": "嘗試切他中路",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Amazing!",
+    "_valueOrign": "...剛才那個..好棒！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlay",
+    "value": "Keep it up!",
+    "_valueOrign": "保持下去！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Haha! That was great!",
+    "_valueOrign": "哈哈哈，太棒了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Incredible!",
+    "_valueOrign": "表現太好了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "WOOOOOH!!",
+    "_valueOrign": "喔喔喔喔喔！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Yeah! Crush 'em!",
+    "_valueOrign": "血！流！成！河！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "That was insane...",
+    "_valueOrign": "哇塞！太強了吧 ..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Outstanding!",
+    "_valueOrign": "好厲害喔！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "That was nuts!",
+    "_valueOrign": "打的太好了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Worth the ticket!",
+    "_valueOrign": "這場沒白看了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Too good!",
+    "_valueOrign": "這..真的不錯！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "I did not expect this.",
+    "_valueOrign": "沒想到這麼精彩",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "I'm in love!",
+    "_valueOrign": "我快迷上他了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Yes!",
+    "_valueOrign": "好...好啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "Do that again!!",
+    "_valueOrign": "再一次！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "What was that?!",
+    "_valueOrign": "剛才那是什麼！？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "NicePlayLarge",
+    "value": "YEAAAAH!!",
+    "_valueOrign": "我好興奮啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Are they fighting?",
+    "_valueOrign": "有要打嗎？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Try harder.",
+    "_valueOrign": "認真點吧...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "I'm getting bored.",
+    "_valueOrign": "有點無聊耶...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Just fight.",
+    "_valueOrign": "快打啊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "What is this?",
+    "_valueOrign": "搞什麼鬼啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Boooring.",
+    "_valueOrign": "無趣..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "SNORE!",
+    "_valueOrign": ".......",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "This is lame.",
+    "_valueOrign": "快睡著了..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Stop running.",
+    "_valueOrign": "不要打混啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "C'mon!",
+    "_valueOrign": "他們怎麼都不打？",
+    "note": "Why aren't they fighting? 太長，先收到一邊",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "What's going on?",
+    "_valueOrign": "在幹麻？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Fight already.",
+    "_valueOrign": "還不快打",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "Are they even trying?",
+    "_valueOrign": "在發呆嗎？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "I'm tired of this.",
+    "_valueOrign": "快看不下去了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscape",
+    "value": "What are they doing?",
+    "_valueOrign": "看不懂...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "You fighting or not?!",
+    "_valueOrign": "不要鬼混啊！認真點！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "Stop running and fight!",
+    "_valueOrign": "逃什麼逃啊！快打！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "FIGHT! Dammit!",
+    "_valueOrign": "我要看到血流成河！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "Gimme my money back!",
+    "_valueOrign": "退票啦！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "Is this a joke?!",
+    "_valueOrign": "什麼鬼啦！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "Stop wasting time!",
+    "_valueOrign": "浪費時間耶！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "Is this all you do?!",
+    "_valueOrign": "太無聊了吧，搞屁啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "This is stupid.",
+    "_valueOrign": "這是在幹麻...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "BOO!",
+    "_valueOrign": "呿..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KeepEscapeLarge",
+    "value": "I'm leaving.",
+    "_valueOrign": "我先走了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "That's more like it!",
+    "_valueOrign": "很好！這樣才對！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Yeah! Keep going!",
+    "_valueOrign": "就是這樣，打啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "There we go!",
+    "_valueOrign": "嘿～終於有點看頭了",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "That's better.",
+    "_valueOrign": " 這樣好一點",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Finally some action!",
+    "_valueOrign": "總算有點反應了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Huh?!",
+    "_valueOrign": "喔！？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Yeah! Fight back!",
+    "_valueOrign": "反擊反擊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Not bad, keep it up!",
+    "_valueOrign": "還不錯，再來！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Attack!",
+    "_valueOrign": "攻擊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopKeepEscape",
+    "value": "Keep going!",
+    "_valueOrign": "繼續！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Not bad! Here's your reward!",
+    "_valueOrign": "打的好！這是獎賞!",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Well done! Have this!",
+    "_valueOrign": "精彩！！這個賞你!",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "That was good! Take this!",
+    "_valueOrign": "不錯！賞你的！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "This is for putting on a good show!",
+    "_valueOrign": "太棒了！這個送你",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "This'll help you.",
+    "_valueOrign": "嗯...這個拿去用",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Haha! You have my support!",
+    "_valueOrign": "哈哈，開心就要斗內！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Nice! Here's your reward!",
+    "_valueOrign": "很好很好！有獎品快去撿",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Here! Have this!",
+    "_valueOrign": "拿去吧！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Here, take it! Haha!",
+    "_valueOrign": "去撿吧，哈哈",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "Good job! Take this!",
+    "_valueOrign": "真的不錯呢，給你！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "GiveReward",
+    "value": "That's what I call a fight!",
+    "_valueOrign": "就是要這樣打，去撿吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttack",
+    "value": "Give it to 'em!",
+    "_valueOrign": "打他！打他！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttack",
+    "value": "Haha, watch out!",
+    "_valueOrign": "哇哈哈，繼續！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttack",
+    "value": "Ouch! That's gotta hurt.",
+    "_valueOrign": "啊！感覺好痛",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttack",
+    "value": "Damn.",
+    "_valueOrign": "哇賽...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttack",
+    "value": "Oof.",
+    "_valueOrign": "太慘了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttackLarge",
+    "value": "That's brutal.",
+    "_valueOrign": "好痛的感覺...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttackLarge",
+    "value": "Ow, this ain't good.",
+    "_valueOrign": "哇，不敢看了...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttackLarge",
+    "value": "Aw yeah! That's what I want!",
+    "_valueOrign": "哇喔！太棒了吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttackLarge",
+    "value": "That's savage.",
+    "_valueOrign": "這下應該很痛吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "UnderAttackLarge",
+    "value": "Yikes!",
+    "_valueOrign": "痛啊～",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "Whoa!!",
+    "_valueOrign": "哇！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "Take 'em down! Haha!",
+    "_valueOrign": "幹掉他！哈哈",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "OOOOH!!",
+    "_valueOrign": "喔喔喔！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "This is gonna be great!!",
+    "_valueOrign": "太棒啦！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "Oh man, they're dead.",
+    "_valueOrign": "哇...他死定了吧..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "How do you even fight that?!",
+    "_valueOrign": "這..這要怎麼打啊！？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossEnter",
+    "value": "No way they could win.",
+    "_valueOrign": "不可能贏的了吧！？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "That was incredible!",
+    "_valueOrign": "太厲害了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "Who would've thought...",
+    "_valueOrign": "真是沒想到...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "That the final champion would be defeated!",
+    "_valueOrign": "竟然能打敗冠軍！太不可思議了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "However... the show does not end here.",
+    "_valueOrign": "但...你以為這樣就結束了嗎？",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "Ladies and gentlemen! Let us welcome...",
+    "_valueOrign": "各位觀眾！讓我們歡迎...",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "The one champion whom all dare not challenge...",
+    "_valueOrign": "讓所有挑戰者失去鬥志..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "The one champion whom all lose will to fight...",
+    "_valueOrign": "讓他們後悔來到這裡..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBoss",
+    "value": "The one champion whom none have survived...",
+    "_valueOrign": "至今從沒有人成功活著離開的..",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IntroduceFinalBossTheEnd",
+    "value": "THE DEMON! OF THE ARENA!!!",
+    "_valueOrign": "鬥技場的惡魔！！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_Good",
+    "value": "Good. Keep it up. Keep them engaged.",
+    "_valueOrign": "很好，保持下去，不要讓現場冷掉",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_Good",
+    "value": "That's it, keep the ball rolling!",
+    "_valueOrign": "就是這樣，持續攻擊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_Good",
+    "value": "That's right! Keep them on the edge of their seats!",
+    "_valueOrign": "沒錯沒錯！讓觀眾們更開心吧",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_Good",
+    "value": "Not bad! Your popularity is going up.",
+    "_valueOrign": "幹的不錯！你的評價增加不少",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_Good",
+    "value": "You got talent! That's how you put on a show!",
+    "_valueOrign": "滿有天份的！就是這樣戰鬥啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_VeryGood",
+    "value": "Wonderful! You really are a crowd pleaser!",
+    "_valueOrign": "幹的好！就是這樣，你真懂取悅觀眾啊！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_VeryGood",
+    "value": "Hahaha! You're becoming the star of the show!",
+    "_valueOrign": "哈哈哈，簡直是鬥技場之星！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_VeryGood",
+    "value": "Listen to the crowd cheering! You've done a great job!",
+    "_valueOrign": "聽那個歡呼聲！幹的漂亮！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_VeryGood",
+    "value": "That was incredible! Keep up the good work!",
+    "_valueOrign": "沒錯，表現真好！就這樣下去！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AtmosphereRate_VeryGood",
+    "value": "Fantastic! You sure know how to put on a show!",
+    "_valueOrign": "沒想到你那麼懂，做的太棒了！",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "真的假的！？",
+    "_valueOrign": "真的假的！？",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "贏了？",
+    "_valueOrign": "贏了？",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "哇...",
+    "_valueOrign": "哇...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "不敢相信耶",
+    "_valueOrign": "不敢相信耶",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "不會吧！！",
+    "_valueOrign": "不會吧！！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut0",
+    "value": "......",
+    "_valueOrign": "......",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut1",
+    "value": "搞什麼",
+    "_valueOrign": "搞什麼",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut1",
+    "value": "快點啊！",
+    "_valueOrign": "快點啊！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut1",
+    "value": "不要發呆啊！",
+    "_valueOrign": "不要發呆啊！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut1",
+    "value": "......",
+    "_valueOrign": "......",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut4",
+    "value": "什麼！",
+    "_valueOrign": "什麼！",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut4",
+    "value": "哇...",
+    "_valueOrign": "哇...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut4",
+    "value": "這...",
+    "_valueOrign": "這...",
+    "note": "",
+    "isChanged": true
+  },
+  {
+    "key": "FinalCut_MurmurCut4",
+    "value": "......",
+    "_valueOrign": "......",
+    "note": "",
+    "isChanged": true
+  }
+]

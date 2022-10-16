@@ -1,0 +1,737 @@
+[
+  {
+    "key": "AddStr_StopType_Never",
+    "value": " <color=orange>Uninterruptible</color>.",
+    "_valueOrign": "，<color=orange>不可中斷</color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddStr_StopType_Hit",
+    "value": " Attack to <color=orange>interrupt</color>.",
+    "_valueOrign": "，被攻擊會<color=orange>中斷</color>",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddStr_ApplyCharaFlag",
+    "value": " Apply {0}.",
+    "_valueOrign": "，給予 {0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "DisablePower",
+    "value": "Disabled",
+    "_valueOrign": "失去效力",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AttackDesc",
+    "value": "Enemy prepares to deal {0} damage.",
+    "_valueOrign": "將造成 {0} 點傷害",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AttackMultipleDesc",
+    "value": "Enemy prepares to deal {0} damage {1} times.",
+    "_valueOrign": "將造成 {0} 點傷害 {1} 次",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Attack",
+    "value": "Attack",
+    "_valueOrign": "攻擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Shoot",
+    "value": "Shoot",
+    "_valueOrign": "射擊",
+    "note": "Desc會配合AttackDesc",
+    "isChanged": false
+  },
+  {
+    "key": "ShootExplosion",
+    "value": "Explosive Shot",
+    "_valueOrign": "爆炸射擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Charge",
+    "value": "Charge",
+    "_valueOrign": "撞擊",
+    "note": "Desc會配合AttackDesc",
+    "isChanged": false
+  },
+  {
+    "key": "Parabola",
+    "value": "Hurl",
+    "_valueOrign": "投擲",
+    "note": "Desc會配合AttackDesc",
+    "isChanged": false
+  },
+  {
+    "key": "AddBlock",
+    "value": "Block +{0}",
+    "_valueOrign": "格擋 +{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "LostBlock",
+    "value": "Block -{0}",
+    "_valueOrign": "格擋 -{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddRadius",
+    "value": "Attack Range +{0}",
+    "_valueOrign": "攻擊範圍 +{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddBrokenDefStun",
+    "value": "Guard Broken. Stunned.",
+    "_valueOrign": "破盾暈眩",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddHp",
+    "value": "HP +{0}",
+    "_valueOrign": "回復 +{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddHpLimit",
+    "value": "Max HP +{0}",
+    "_valueOrign": "血量上限 +{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "AddEnergy",
+    "value": "Energy +{0}",
+    "_valueOrign": "能量 +{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Rest",
+    "value": "(Fatigued)",
+    "_valueOrign": "喘氣",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "RestDesc",
+    "value": "Disabled for 1 turn.",
+    "_valueOrign": "中斷一回合",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StopPrepareAction",
+    "value": "Interrupted",
+    "_valueOrign": "中斷行動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Struggle",
+    "value": "Snag",
+    "_valueOrign": "纏身",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "StruggleDesc",
+    "value": "Enemy prepares to immobilize you.",
+    "_valueOrign": "使目標無法移動",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Singing",
+    "value": "Channel",
+    "_valueOrign": "吟唱",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SingingDesc",
+    "value": "Enemy prepares to apply {1} {0} to a target.",
+    "_valueOrign": "準備增加目標 {1} 層{0}",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Chear",
+    "value": "Rouse",
+    "_valueOrign": "鼓舞",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "ChearDesc",
+    "value": "Enemy prepares to strengthen his allies.",
+    "_valueOrign": "準備強化其他單位",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareAddDef",
+    "value": "Guard",
+    "_valueOrign": "上盾",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareAddDefStrong",
+    "value": "Full Guard",
+    "_valueOrign": "強力上盾",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareAddDefStrong_Blocker",
+    "value": "Regenerate Crystal",
+    "_valueOrign": "結晶重建",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareAddDefDesc",
+    "value": "Enemy prepares to gain {0} Block.",
+    "_valueOrign": "增加 {0} 格擋值",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PustuleBomb",
+    "value": "Pustule Bomb",
+    "_valueOrign": "膿包",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PustuleBombDesc",
+    "value": "Enemy prepares to hurl a pustule.",
+    "_valueOrign": "準備攻擊用膿包",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareHeal",
+    "value": "Heal",
+    "_valueOrign": "治療",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareHealDesc",
+    "value": "Enemy prepares to heal target for {0} HP.",
+    "_valueOrign": "回復目標 {0} 點血量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareHealCircle",
+    "value": "Healing Ring",
+    "_valueOrign": "治療光環",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareHealCircleDesc",
+    "value": "Enemy prepares to heal all allies within an area for {0} HP.",
+    "_valueOrign": "回復範圍內同伴 {0} 點血量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PrepareSpecilAttDesc",
+    "value": "Enemy prepares to launch a special attack.",
+    "_valueOrign": "準備特殊攻擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Reload",
+    "value": "Reload",
+    "_valueOrign": "裝填",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "ThrowEquipment",
+    "value": "Hurl Weapon",
+    "_valueOrign": "投擲裝備",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CursePower",
+    "value": "Replenish Curse",
+    "_valueOrign": "補充咒力",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CursePowerDesc",
+    "value": "Restoring curse energy used for ranged attacks.",
+    "_valueOrign": "補充咒力以進行遠距離攻擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CallCurser",
+    "value": "Call Help",
+    "_valueOrign": "護駕",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "CallCurserDesc",
+    "value": "Enemy prepares to swap positions with its minion.",
+    "_valueOrign": "命令受咒者取代自己位置並閃現逃離",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Sacrifice",
+    "value": "Sacrifice",
+    "_valueOrign": "獻祭",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SacrificeDesc",
+    "value": "Enemy prepares to sacrifice minion's HP to gain Block.",
+    "_valueOrign": "花費受咒者血量增加自己格擋",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "Dodge",
+    "value": "Evade",
+    "_valueOrign": "見切",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "DirectSlash",
+    "value": "Flying Slash",
+    "_valueOrign": "破空斬",
+    "note": "need more context",
+    "isChanged": false
+  },
+  {
+    "key": "DirectSlashDesc",
+    "value": "Enemy prepares to launch a flying slash attack.",
+    "_valueOrign": "準備破空斬",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeSpawn",
+    "value": "Clone",
+    "_valueOrign": "複製",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeSpawnDesc",
+    "value": "Enemy prepares to create a clone with the same amount of HP.",
+    "_valueOrign": "複製出一個血量相同的單位",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeMomSpawn",
+    "value": "Spawn",
+    "_valueOrign": "增生",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeMomSpawnDesc",
+    "value": "Enemy prepares to spawn a Slime with {0} HP.",
+    "_valueOrign": "增生出一隻血量為 {0} 史萊姆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeReturnMom",
+    "value": "Recombine",
+    "_valueOrign": "母體回歸",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SlimeReturnMomDesc",
+    "value": "Enemy prepares to restore its mother's HP by recombining with it.",
+    "_valueOrign": "回到母體，並回復母體血量",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightCircleSlash",
+    "value": "Full Moon Slash",
+    "_valueOrign": "迴旋斬",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightDoubleDirectSlash",
+    "value": "Double Flying Slash",
+    "_valueOrign": "二連斬擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightDoubleDirectSlashDesc",
+    "value": "Enemy prepares to launch a double flying slash attack.",
+    "_valueOrign": "準備二連斬擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightJudgment",
+    "value": "Judgment",
+    "_valueOrign": "審判",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightJudgmentExecuteDesc",
+    "value": "Enemy prepares to deal {0} damage and expend all Block for additional damage.",
+    "_valueOrign": "將造成 {0} 點傷害，並花費當前格擋值轉化為傷害",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightShieldCircleAtt",
+    "value": "Ground Slam",
+    "_valueOrign": "震地盾擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KnightFinalJudgment",
+    "value": "Final Judgment",
+    "_valueOrign": "最終審判",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SelfBomb",
+    "value": "Self Destruct",
+    "_valueOrign": "自爆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SelfBombDesc",
+    "value": "Enemy prepares to deal {0} damage. Kill to stop.",
+    "_valueOrign": "將造成 {0} 點傷害，擊殺可中斷",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IgniteBurn",
+    "value": "Ignite",
+    "_valueOrign": "燃燒",
+    "note": "引燃提示字,在預計會點燃燒的角色身上顯示",
+    "isChanged": false
+  },
+  {
+    "key": "Landmines",
+    "value": "Detonate",
+    "_valueOrign": "引爆",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "LandminesDesc",
+    "value": "Detonates if it has been attacked or player has entered its range, dealing damage equal to its HP.",
+    "_valueOrign": "受到攻擊或玩家靠近後進入引爆狀態，造成等同血量的傷害",
+    "note": "因為不只玩家攻擊可以引爆，所以修改成這樣",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossCenterAtt",
+    "value": "Ground Slam",
+    "_valueOrign": "震地擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossCenterAttBig",
+    "value": "Big Ground Slam",
+    "_valueOrign": "大震地擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossCenterAttBigDesc",
+    "value": "Enemy prepares for a big ground slam.",
+    "_valueOrign": "準備大震地擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossPowerup",
+    "value": "Power Surge",
+    "_valueOrign": "力量強化",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossPowerupDesc",
+    "value": "Enemy prepares to power up.",
+    "_valueOrign": "準備力量強化",
+    "note": "最後王每打一輪攻擊會強化一次",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossLevelup",
+    "value": "True Power",
+    "_valueOrign": "潛力釋放",
+    "note": "最後王每被打傷一定量會升級一次",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossLevelupDesc",
+    "value": "Enemy prepares to release their true power, removing half the effect of all debuffs.",
+    "_valueOrign": "準備潛力釋放，移除一半的負面效果",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossFireball",
+    "value": "Fireball",
+    "_valueOrign": "豪火球",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FinalBossTerrorize",
+    "value": "Terrorize",
+    "_valueOrign": "威壓",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "KageBunshin",
+    "value": "Kage Bunshin",
+    "_valueOrign": "影分身",
+    "note": "刻意不用Shadow Clone,想讓懂火影的宅宅會心一笑的做法",
+    "isChanged": false
+  },
+  {
+    "key": "KageBunshinDesc",
+    "value": "Enemy prepares to create shadow clones.",
+    "_valueOrign": "準備影分身",
+    "note": "說明再用shadow clone",
+    "isChanged": false
+  },
+  {
+    "key": "PowerUp",
+    "value": "Power Up",
+    "_valueOrign": "強化",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "PowerUpDesc",
+    "value": "Enemy prepares to power up.",
+    "_valueOrign": "準備強化自身",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MagicBall",
+    "value": "Magic Bullet",
+    "_valueOrign": "魔法彈",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MagicBallDesc",
+    "value": "Homing orb that deals damage equal to its current HP ({0}). Cannot be evaded.",
+    "_valueOrign": "操縱魔法彈執行必中攻擊，傷害等同魔法彈血量，將造成 {0} 點傷害",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MagicBallDescSelected",
+    "value": "Ready to attack.",
+    "_valueOrign": "本回合將被操縱的魔法彈",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MagicBalls",
+    "value": "Bullet Hell",
+    "_valueOrign": "魔法彈轟炸",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "MagicBallsDesc",
+    "value": "Homing orbs that deal damage equal to their combined HP ({0}). Cannot be evaded.",
+    "_valueOrign": "操縱全部魔法彈執行必中攻擊，傷害等同魔法彈血量，將造成 {0} 點傷害",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "FreezeBomb",
+    "value": "Blast of Shackles",
+    "_valueOrign": "禁錮爆彈",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "ParabolaSplit",
+    "value": "Mini Bangers",
+    "_valueOrign": "分裂炸彈",
+    "note": "投擲型，一口氣丟出很多小炸彈散佈在範圍內",
+    "isChanged": false
+  },
+  {
+    "key": "MonkSectorAtt",
+    "value": "Fists of Flurry",
+    "_valueOrign": "亂拳連擊",
+    "note": "前方扇形，3連擊，武鬥家用",
+    "isChanged": false
+  },
+  {
+    "key": "MonkCleaveAtt",
+    "value": "Hurt-Douken",
+    "_valueOrign": "波痛拳",
+    "note": "武鬥家用",
+    "isChanged": false
+  },
+  {
+    "key": "JumpAtt",
+    "value": "Mega Crush",
+    "_valueOrign": "重壓攻擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "BerserCircleAtt",
+    "value": "Blade Storm",
+    "_valueOrign": "斬擊風暴",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueenSector",
+    "value": "Slash",
+    "_valueOrign": "巨爪揮擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueenDirect",
+    "value": "Bite",
+    "_valueOrign": "啃咬",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderQueenSpawnEggs",
+    "value": "Spawn Eggs",
+    "_valueOrign": "噴發蟲卵",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderEggSpawn",
+    "value": "Hatch",
+    "_valueOrign": "孵化",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "SpiderEggSpawnDesc",
+    "value": "Enemy prepares to hatch a spiderling.",
+    "_valueOrign": "孵化出一隻小蜘蛛",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaperPowerUp",
+    "value": "Frost Element",
+    "_valueOrign": "冰霜之力",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "IceReaperPowerUpDesc",
+    "value": "Enemy prepares to power up and gain Block.",
+    "_valueOrign": "準備強化力量且增加格擋",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterCountDown",
+    "value": "Countdown",
+    "_valueOrign": "倒數",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterCountDownDesc",
+    "value": "Spawns a Jack in {0} <turn>.",
+    "_valueOrign": "倒數 {0} 回合後跳出傀儡",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterGiftBoxSpawn",
+    "value": "Surprise",
+    "_valueOrign": "驚喜",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterGiftBoxSpawnDesc",
+    "value": "Spawn a Jack.",
+    "_valueOrign": "跳出傀畾",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterThrowBallCallAtt",
+    "value": "Drop the Balls",
+    "_valueOrign": "完全投擲",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterFireCallAtt",
+    "value": "Bring the Heat",
+    "_valueOrign": "火球射擊",
+    "note": "",
+    "isChanged": false
+  },
+  {
+    "key": "JesterMasterCircleAtt",
+    "value": "Merry-Go-Round",
+    "_valueOrign": "圓舞陣",
+    "note": "",
+    "isChanged": false
+  }
+]
